@@ -1,0 +1,240 @@
+.vs-solution-menu{
+    left: 100% !important;
+    -webkit-transform: translateX(-50%) !important;
+    -ms-transform: translateX(-50%) !important;
+    transform: translateX(-50%) !important;
+}
+
+.thank-you{
+        padding: 115px 0;
+}
+
+.go-back{
+    color: #fb923c;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.contact-us .contact-wrapper{
+    width: 81%;
+    margin: 0 auto;
+}
+
+.img-flag{
+        width: 25px;
+        margin-right: 5px;
+}
+
+.vs-country-select .select2-container {
+        position: absolute;
+    top: 8.5px;
+     left: unset;
+     width: unset !important;
+}
+
+.vs-country-select .form-control {
+    padding-left: 110px;
+}
+
+
+
+.vs-portfolio-section {
+    position: relative;
+}
+
+span.vs-input-error {
+    color: #EB3636;
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    margin-top: 8px;
+/*    display: none;*/
+}
+
+.form-control.vs-input-error{
+    border-color: #EB3636;
+}
+
+.vs-speak-form-content .vs-input-error .form-control,
+.vs-speak-form-content .vs-input-error .vs-choose-file,
+.vs-speak-form-content .vs-input-error .form-select {
+    border-color: #EB3636;
+}
+
+.slick-arrow {
+/*        left: -30px;*/
+}
+
+
+/*@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+/*        max-width: 1380px;
+        max-width: 1224px !important;
+    }
+}
+*/
+
+.vs-site-menu-list {
+    list-style: none; /* Remove default bullets */
+/*    padding-left: 0; /* Remove default padding */
+  }
+.vs-site-menu-list > li::before {
+    content: ">"; /* Unicode for ">" */
+    margin-right: 5px; /* Adjust space between ">" and text */
+}
+
+.vs-footer-menu-content:not(:last-child){
+    margin-bottom: 25px!important;
+}
+
+
+.vs-hiring-steps-item.active {
+    background-color: #fb923c;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    padding: 50px 50px 45px !important;
+}
+
+.contact-form .select2-container{
+    z-index: 99 !important;
+}
+
+.vs-input-icon-group:has(> .vs-input-icon) input{
+    padding-right: 40px;
+}
+
+
+
+.reviews-bottom-bar{
+    margin-top: 35px;
+    padding-top: 25px;
+    border-top:1px solid rgba(255, 255, 255, 0.2);
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+
+}
+
+.reviews-bottom-bar .widgets {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+
+
+.reviews-bottom-bar .clutch-widget{
+/*    width: 330px;*/
+    background-color: #080808;
+
+    /*height: 100px;
+    display: flex!important;
+    align-items: center;
+    justify-content: center;*/
+
+
+}
+
+.clutch-widget {
+    width: 187px;
+}
+
+
+.reviews-bottom-bar .goodfirm-widget{
+    width: 330px;
+    height: 100px;
+    background-color: #080808;
+}
+
+.footer-company-info{
+
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    flex-direction: column;
+}
+
+.vs-footer-text{
+    color: #D9DBE1;
+    font-size: 16px;
+    margin-bottom: 0;
+
+}
+
+.pl-0 {
+    padding-left: 0px !important;
+}
+
+.pr-0 {
+    padding-right: 0px !important;
+}
+
+.follow-us-text{
+    color: white;
+    font-size: 12px;
+    min-width: 70px;
+}
+
+.vs-famous-fantasy-card-logo img{
+    object-fit: contain;
+}
+
+@media (max-width: 767px) {
+    .reviews-bottom-bar {
+        width: 100%;
+        display: block;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .reviews-bottom-bar .goodfirm-widget{
+        margin-top: 20px;
+    }
+
+    .widgets,.footer-company-info {
+        width: 187px;
+        margin: 20px auto;
+    }
+
+    .vs-footer-text{
+        color: #D9DBE1;
+        font-size: 11px;
+        margin-bottom: 2rm;
+        text-align: center;
+
+    }
+
+    .reviews-bottom-bar .widgets {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    .widgets .img-fluid{
+        width: 100px!important;
+    }
+
+    .reviews-bottom-bar .clutch-widget {
+        width: 187px !important;
+        background-color: #080808;
+    }
+
+    .follow-us-text {
+        display: none;
+    }
+
+}

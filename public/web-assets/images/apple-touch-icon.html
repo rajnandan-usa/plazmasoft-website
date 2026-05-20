@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+<title>404 Error</title>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+<meta name="keywords" content="" />
+
+
+<!-- ================== BEGIN BASE CSS STYLE ================== -->
+<link href="/admin_assets/css/app.min.css?v1" rel="stylesheet" />
+<link rel="icon" href="https://technoyuga.com/images/logo.svg')}}" type="image/png" sizes="16x16">
+<!-- ================== END BASE CSS STYLE ================== -->
+
+</head>
+<body class="">
+	    <!-- BEGIN error -->
+    <div class="error-page">
+        <!-- BEGIN error-page-content -->
+        <div class="error-page-content">
+            <div class="error-img">
+                <div class="error-img-code">404</div>
+                <img src="/admin_assets/img/page/404.svg')}}" alt="Page Not Found" />
+            </div>
+
+            <h1>Oops!</h1>
+            <h3>We can't seem to find the page you're looking for</h3>
+          
+        </div>
+        <!-- END error-page-content -->
+    </div>
+    <!-- END error -->
+
+	<!-- BEGIN btn-scroll-top -->
+<a href="#" data-click="scroll-top" class="btn-scroll-top fade"><i class="fa fa-arrow-up"></i></a>
+<!-- END btn-scroll-top -->
+
+	<!-- ================== BEGIN BASE JS ================== -->
+
+<script src="/admin_assets/js/app.min.js"></script>
+<script src="/admin_assets/plugins/datatables.net/js/jquery.dataTables.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-bs4/js/dataTables.bootstrap4.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons/js/buttons.colVis.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons/js/buttons.flash.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons/js/buttons.html5.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons/js/buttons.print.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-buttons-bs4/js/buttons.bootstrap4.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+	<script src="/admin_assets/plugins/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+	<script src="/admin_assets/plugins/jquery-validation/jquery.validate.min.js"></script>
+	<script src="/admin_assets/js/notify.js"></script>
+<!-- ================== END BASE JS ================== -->
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+		$('#btnForm').on('click', function(){
+			$(this).addClass('hidden');
+			$('#formDiv, #btnList').removeClass('hidden');
+			$('#listDiv').addClass('hidden');
+			$('#btnsubmit').html('Submit');
+			$('#blah').attr('src', '/images/noimage.jpg').width(110).height(110);
+
+			$(".form")[0].reset();
+			$('#passDiv').removeClass('hidden');
+			$('.input-hidden').val('0');
+		});
+
+		$('#btnList').on('click', function(){
+			$("form")[0].reset();
+			$(this).addClass('hidden');
+			$('#formDiv').addClass('hidden');
+			$('#listDiv, #btnForm').removeClass('hidden');
+		});
+
+		function readURL(input,id) {
+			if (input.files && input.files[0]) {
+				var reader = new FileReader();
+
+				reader.onload = function (e) {
+					$('#'+id).attr('src', e.target.result).width(110).height(110);
+					$('#'+id).css('border','2px');
+					$('#'+id).css('border-style','solid');
+					$('#'+id).css('border-color','rgb(228, 220, 218)');				
+					$('#'+id).css('background-color','#DDD');
+				
+				};
+
+				reader.readAsDataURL(input.files[0]);
+			}
+		}
+
+		jQuery.validator.addMethod("alphanumspace", function(value, element) {
+		return this.optional(element) || /^[a-zA-Z0-9 \u0080-\u9fff]+$/i.test(value);
+		}, "Invalid name"); 
+
+		//only for alphabets,number,space
+		jQuery.validator.addMethod("alphanum", function(value, element) {
+		return this.optional(element) || /^[a-zA-Z0-9]+$/i.test(value);
+		}, "Invalid name"); 
+
+		//only for number
+		jQuery.validator.addMethod("numberonly", function(value, element) {
+		return this.optional(element) || /^[0-9]+$/i.test(value);
+		}, "Invalid Number");
+
+		//only for number and dot
+		jQuery.validator.addMethod("numberdot", function(value, element) {
+		return this.optional(element) || /^[0-9\.]+$/i.test(value);
+		}, "Invalid Number");
+
+		jQuery.validator.addMethod("alpha", function(value, element) {
+		return this.optional(element) || /^[a-zA-Z]+$/i.test(value);
+		}, "Invalid Name");
+
+
+		function numbonly(e) {
+			var k = e.which;
+			var ok = k >= 48 && k <= 57 || // 0-9
+				k ==8 || //backspace
+				k==0 || //arrow key
+				k==46; //. sign
+			if (!ok){
+				e.preventDefault();
+			}
+		}
+	</script>
+
+</body>
+</html>
