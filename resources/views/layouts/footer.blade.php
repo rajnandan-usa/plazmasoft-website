@@ -202,8 +202,7 @@
                             </a>
                         </li>
                         <li class="vs-footer-menu-item ">
-                            <a href=""
-                                class="vs-footer-menu-link align-items-start" target="_blank">
+                            <span class="vs-footer-menu-link align-items-start" style="cursor:default;">
                                 <span class="vs-footer-menu-icon">
                                     <svg width="18" height="19" viewBox="0 0 18 19" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -213,7 +212,7 @@
                                     </svg>
                                 </span>
                                 <span>{{config('app.ps_address')}}</span>
-                            </a>
+                            </span>
                         </li>
                     </ul>
                 </div>

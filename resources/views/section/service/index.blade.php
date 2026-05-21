@@ -1,4 +1,4 @@
-@extends('layouts.app')
+﻿@extends('layouts.app')
 
 @section('title')
     Mobile App Development
@@ -9080,9 +9080,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
-                                    Topline in last 2 years and we are very happy with the end results. They
-                                    provided exceptional support even after delivery of the project.</p>
+                                <p>The Plazmasoft team delivered exceptional work on our projects. We were very happy with the end results and appreciated the support even after delivery.</p>
                             </div>
                         </div>
                     </div>
@@ -9103,10 +9101,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Plazmasoft, they did a decent job and
-                                    delivered the work on time . I'm happy to recommend them for any Web and react
-                                    native app development work.</p>
+                                <p>The Plazmasoft team completed our social networking app project on time with great quality. This was our second project together and they delivered again. Happy to recommend them for web and React Native work.</p>
                             </div>
                         </div>
                     </div>
@@ -9130,7 +9125,7 @@
                             <div class="vs-testimonial-description">
                                 <p>Excellent work and a helpful team. Always willing to go the extra mile for our
                                     project and we appreciate the dedication that you’ve shown in our project!
-                                    Krishna and his team went above and beyond to ensure this website was completed
+                                    The Plazmasoft team went above and beyond to ensure this website was completed
                                     to our specifications. I would highly recommend him and his company and will use
                                     them again in the future!</p>
                             </div>
@@ -9227,10 +9222,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Plazmasoft developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. The team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
+                                    recommend Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -9284,9 +9279,7 @@
                                 </div> -->
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
-                                    Topline in last 2 years and we are very happy with the end results. They
-                                    provided exceptional support even after delivery of the project.
+                                <p>The Plazmasoft team delivered exceptional work on our projects. We were very happy with the end results and appreciated the support even after delivery.
                                 </p>
                             </div>
                         </div>
@@ -9637,3 +9630,4 @@
 
 
 @endsection
+

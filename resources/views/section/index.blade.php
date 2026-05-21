@@ -371,7 +371,7 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
                         </div>
                     </div>
                     <div class="vs-what-do-card-item">
-                        <a href="">
+                        <a href="/portfolio-projects">
                             <div class="vs-what-do-card">
                                 <div class="vs-what-do-card-img">
                                     <img src="{{ asset('web-assets/images/newimages/on-demand.jpg') }}" alt="ON DEMAND"
@@ -395,7 +395,7 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
                         </div>
                     </div>
                     <div class="vs-what-do-card-item">
-                        <a href="">
+                        <a href="/portfolio-projects">
                             <div class="vs-what-do-card">
                                 <div class="vs-what-do-card-img">
                                     <img src="{{ asset('web-assets/images/newimages/health.jpg') }}" alt="HEALTHCARE"
@@ -430,7 +430,7 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
                         </div>
                     </div>
                     <div class="vs-what-do-card-item">
-                        <a href="">
+                        <a href="/portfolio-projects">
                             <div class="vs-what-do-card">
                                 <div class="vs-what-do-card-img">
                                     <img src="{{ asset('web-assets/images/newimages/trans.jpg') }}"
@@ -443,7 +443,7 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
                         </a>
                     </div>
                     <div class="vs-what-do-card-item">
-                        <a href="">
+                        <a href="/portfolio-projects">
                             <div class="vs-what-do-card">
                                 <div class="vs-what-do-card-img">
                                     <img src="{{ asset('web-assets/images/newimages/fintech.jpg') }}" alt="FINTECH"
@@ -467,7 +467,7 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
                         </div>
                     </div>
                     <div class="vs-what-do-card-item">
-                        <a href="">
+                        <a href="/portfolio-projects">
                             <div class="vs-what-do-card">
                                 <div class="vs-what-do-card-img">
                                     <img src="{{ asset('web-assets/images/newimages/wellness.jpg') }}"

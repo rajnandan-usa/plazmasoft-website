@@ -3197,9 +3197,9 @@
                                                         </div>
                                                     </div>
                                                     <div class="vs-testimonial-description">
-                                                        <p>Thanks Krishna for completing this task in our social
+                                                        <p>Thanks to the Plazmasoft team for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Plazmasoft,
+                                                            second project with the Plazmasoft team,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react
