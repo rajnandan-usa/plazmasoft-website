@@ -56,22 +56,26 @@ Route::middleware('redirectExceptAllowed')->group(function () {
     // Solution routes
     Route::controller(SolutionController::class)->name("solutions.")->prefix("solutions")->group(function () {
         Route::get("/fintech-development", "fintech")->name("fintech");
-        Route::get("/food-ordering-development", "food_ordering")->name("food_ordering");
-        Route::get("/healthcare-app", "health_app")->name("health_app");
-        Route::get("/qr-code-based-food-ordering", "qr_code_based_food")->name("qr_code_based_food");
-        Route::get("/on-demand-app", "on_demand_app")->name("on_demand_app");
-        Route::get("/fitness-app", "fitness_app")->name("fitness_app");
-        Route::get("/fantasy-app", "fantasy_app")->name("fantasy_app");
-        Route::get("/transport-app", "transport_app")->name("transport_app");
-        Route::get("/texi-booking-app", "texi_booking_app")->name("texi_booking_app");
-        Route::get("/dating-app", "dating_app")->name("dating_app");
-        Route::get("/grocary-app", "grocary_app")->name("grocary_app");
-        Route::get("/socialmedia-app", "socialmedia_app")->name("socialmedia_app");
-        Route::get("/sportbatting-app", "sportbatting_app")->name("sportbatting_app");
-        Route::get("/stocktrading-app", "stocktrading_app")->name("stocktrading_app");
-        Route::get("/videostreaming-app", "videostreaming_app")->name("videostreaming_app");
-        Route::get("/{id}", "show")->name("show");
+        Route::get("/fleet-management", "fleet_management")->name("fleet_management");
+        Route::get("/ai-property-visualization", "ai_property_visualization")->name("ai_property_visualization");
+        Route::get("/agritech-development", "agritech_development")->name("agritech_development");
     });
+
+    // 301 redirects for removed solution pages
+    Route::redirect('/solutions/transport-app', '/solutions/fleet-management', 301);
+    Route::redirect('/solutions/food-ordering-development', '/portfolio-projects', 301);
+    Route::redirect('/solutions/healthcare-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/qr-code-based-food-ordering', '/portfolio-projects', 301);
+    Route::redirect('/solutions/on-demand-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/fitness-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/fantasy-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/texi-booking-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/dating-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/grocary-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/socialmedia-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/sportbatting-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/stocktrading-app', '/portfolio-projects', 301);
+    Route::redirect('/solutions/videostreaming-app', '/portfolio-projects', 301);
 
     // Team routes
     Route::controller(TeamController::class)->name("team.")->prefix("team")->group(function () {
