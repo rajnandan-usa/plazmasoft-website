@@ -435,8 +435,9 @@
                         Follow us on
                     </li>
                   
+                    @if(config('app.ps_linkedin_url'))
                     <li class="vs-social-item">
-                        <a href="{{ config('app.ps_linkedin_url') }}" target="_blank" class="vs-social-link">
+                        <a href="{{ config('app.ps_linkedin_url') }}" target="_blank" rel="noopener" class="vs-social-link">
                             <svg width="33" height="33" viewBox="0 0 33 33" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="16.8999" cy="16.25" r="16" fill="#0077B5" />
@@ -463,8 +464,20 @@
 
                         </a>
                     </li>
+                    @endif
+                    @if(config('app.ps_github_url'))
                     <li class="vs-social-item">
-                        <a href="{{ config('app.ps_instagram_url') }}" target="_blank" class="vs-social-link">
+                        <a href="{{ config('app.ps_github_url') }}" target="_blank" rel="noopener" class="vs-social-link">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 24 24" fill="#fff">
+                                <circle cx="12" cy="12" r="12" fill="#24292e"/>
+                                <path d="M12 2C6.477 2 2 6.477 2 12c0 4.42 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.008-.866-.013-1.7-2.782.603-3.369-1.342-3.369-1.342-.454-1.155-1.11-1.462-1.11-1.462-.908-.62.069-.608.069-.608 1.003.07 1.531 1.03 1.531 1.03.892 1.529 2.341 1.087 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.11-4.555-4.943 0-1.091.39-1.984 1.029-2.683-.103-.253-.446-1.27.098-2.647 0 0 .84-.269 2.75 1.025A9.578 9.578 0 0112 6.836c.85.004 1.705.114 2.504.336 1.909-1.294 2.747-1.025 2.747-1.025.546 1.377.203 2.394.1 2.647.64.699 1.028 1.592 1.028 2.683 0 3.842-2.339 4.687-4.566 4.935.359.309.678.919.678 1.852 0 1.336-.012 2.415-.012 2.743 0 .267.18.578.688.48C19.138 20.163 22 16.418 22 12c0-5.523-4.477-10-10-10z" fill="#fff"/>
+                            </svg>
+                        </a>
+                    </li>
+                    @endif
+                    @if(config('app.ps_instagram_url'))
+                    <li class="vs-social-item">
+                        <a href="{{ config('app.ps_instagram_url') }}" target="_blank" rel="noopener" class="vs-social-link">
                             <svg width="33" height="33" viewBox="0 0 33 33" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <circle cx="16.8999" cy="16.25" r="16" fill="#4B7197" />
@@ -483,8 +496,10 @@
 
                         </a>
                     </li>
+                    @endif
+                    @if(config('app.ps_x_url'))
                     <li class="vs-social-item">
-                        <a href="{{ config('app.ps_x_url') }}" target="_blank" class="vs-social-link">
+                        <a href="{{ config('app.ps_x_url') }}" target="_blank" rel="noopener" class="vs-social-link">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48"
                                 viewBox="0 0 48 48">
                                 <path fill="#03a9f4" d="M24 4A20 20 0 1 0 24 44A20 20 0 1 0 24 4Z"></path>
@@ -494,9 +509,10 @@
                             </svg>
                         </a>
                     </li>
-
+                    @endif
+                    @if(config('app.ps_facebook_url'))
                     <li class="vs-social-item">
-                        <a href="{{ config('app.ps_facebook_url') }}" target="_blank" class="vs-social-link">
+                        <a href="{{ config('app.ps_facebook_url') }}" target="_blank" rel="noopener" class="vs-social-link">
                             <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48"
                                 viewBox="0 0 48 48">
                                 <linearGradient id="Ld6sqrtcxMyckEl6xeDdMa_uLWV5A9vXIPu_gr1" x1="9.993"
@@ -513,11 +529,7 @@
                             </svg>
                         </a>
                     </li>
-                    {{-- <li class="vs-social-item">
-                        <a href="{{ config('app.ps_youtube_url') }}" target="_blank" class="vs-social-link">
-                            <i class="fa fa-youtube" aria-hidden="true"></i>
-                        </a>
-                    </li> --}}
+                    @endif
                 </ul>
             </div>
         </div>

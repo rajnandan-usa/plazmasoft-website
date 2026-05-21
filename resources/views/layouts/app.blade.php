@@ -30,14 +30,10 @@
 
     <!-- SEO & Indexing Meta Tags -->
     <meta name="robots" content="index, follow" />
-    <meta name="Googlebot" content="index, follow" />
-    <meta name="rating" content="Safe For Kids" />
-    <meta name="googlebot" content="noodp" />
-    <meta name="document-type" content="Public" />
     <meta name="language" content="English" />
 
     <!-- Additional SEO Meta Tags -->
-    <meta name="keywords" content="mobile app development, web development, AI solutions, custom software, SaaS development, e-commerce development, Flutter apps, Laravel web applications, UI/UX design, cloud solutions, fintech software, enterprise solutions, startup app development, custom web portals, blockchain development, AI-powered web apps" />
+    <meta name="keywords" content="mobile app development, web development, AI integration, Flutter apps, Laravel, custom software, MVP development, fintech app, fleet management software, agritech app, Gemini API, Stable Diffusion" />
 
 
 

@@ -743,6 +743,50 @@ Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter
         </div>
     </section>
     <!-- Technology Stack Section End -->
+
+    <!-- Testimonials Section Start -->
+    <section class="sec-pad bg-white">
+        <div class="container">
+            <div class="vs-heading-center">
+                <h2 class="vs-section-title vs-title-border">What Clients Say</h2>
+                <p class="vs-section-description">Real founders, real projects.</p>
+            </div>
+            <div class="row mt-4">
+                <div class="col col-12 col-md-6 col-lg-4 mb-4">
+                    <div style="background: #f8fafc; border-radius: 12px; padding: 2rem; height: 100%; border-left: 4px solid #3b82f6;">
+                        <p style="font-style: italic; color: #374151; line-height: 1.8; margin-bottom: 1.5rem;">"Rajnandan built our entire doorstep repair booking platform from scratch. His technical expertise and attention to detail made Ongofix exactly what we envisioned."</p>
+                        <div>
+                            <strong style="color: #111827;">Pravin Sharma</strong><br>
+                            <span style="color: #6b7280; font-size: 0.9rem;">Founder, Ongofix — Mumbai</span><br>
+                            <a href="https://ongofix.com/" target="_blank" rel="noopener" style="color: #3b82f6; font-size: 0.85rem;">ongofix.com</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-12 col-md-6 col-lg-4 mb-4">
+                    <div style="background: #f8fafc; border-radius: 12px; padding: 2rem; height: 100%; border-left: 4px solid #3b82f6;">
+                        <p style="font-style: italic; color: #374151; line-height: 1.8; margin-bottom: 1.5rem;">"Working with Rajnandan on TradeGuardian was seamless. He understood the complexity of real-time trading data and delivered a robust, reliable platform."</p>
+                        <div>
+                            <strong style="color: #111827;">Dipesh Kushwaha</strong><br>
+                            <span style="color: #6b7280; font-size: 0.9rem;">Founder, TradeGuardian</span><br>
+                            <a href="https://tradeguardian.tech/" target="_blank" rel="noopener" style="color: #3b82f6; font-size: 0.85rem;">tradeguardian.tech</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-12 col-md-6 col-lg-4 mb-4">
+                    <div style="background: #f8fafc; border-radius: 12px; padding: 2rem; height: 100%; border-left: 4px solid #3b82f6;">
+                        <p style="font-style: italic; color: #374151; line-height: 1.8; margin-bottom: 1.5rem;">"Rajnandan delivered our WasherBee platform on time with great quality. Professional, responsive, and truly understood our laundry service business needs."</p>
+                        <div>
+                            <strong style="color: #111827;">Aditya</strong><br>
+                            <span style="color: #6b7280; font-size: 0.9rem;">Founder, WasherBee Dubai — UAE</span><br>
+                            <a href="https://washerbeedubai.com/" target="_blank" rel="noopener" style="color: #3b82f6; font-size: 0.85rem;">washerbeedubai.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Testimonials Section End -->
+
     <!-- Platforms Section Start -->
     <section class="vs-platforms-section vs-section-spacer vs-section-background sec-pad">
         <div class="container">

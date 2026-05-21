@@ -39,11 +39,12 @@ return [
     // admin details
     'admin_email' => env('ADMIN_EMAIL', 'admin@plazmasoft.com'),
     
-    // social 
+    // social
     'ps_whatsapp_url' => env('PS_WHATSAPP_URL'),
     'ps_facebook_url' => env("PS_FACEBOOK_URL"),
     'ps_instagram_url' => env("PS_INSTAGRAM_URL"),
-    'ps_linkedin_url' => env("PS_LINKEDIN_URL"),
+    'ps_linkedin_url' => env("PS_LINKEDIN_URL", 'https://www.linkedin.com/in/rajnandan-r-kushwaha-679961254/'),
+    'ps_github_url' => env("PS_GITHUB_URL", 'https://github.com/rajnandan-usa'),
     'ps_x_url' => env("PS_X_URL"),
     'ps_youtube_url' => env("PS_YOUTUBE_URL"),
 
