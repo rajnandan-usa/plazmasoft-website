@@ -38,20 +38,22 @@ Route::middleware('redirectExceptAllowed')->group(function () {
     Route::controller(ServiceController::class)->name("services.")->prefix("services")->group(function () {
         Route::get("/", "index")->name("index");
         Route::get("/mobile-app-development", "mobile_app_development")->name("mobile_app_development");
-        Route::get("/android-app-development", "android")->name("android");
-        Route::get("/ios-app-development", "ios")->name("ios");
-        Route::get("/flutter-app-development", "flutter")->name("flutter");
-        Route::get("/react-native-app-development", "react_native")->name("react_native");
         Route::get("/web-app-development", "web_app")->name("web_app");
+        Route::get("/ai-integration", "ai_integration")->name("ai_integration");
         Route::get("/ui-ux-development", "ui_ux")->name("ui_ux");
         Route::get("/mvp-development", "mvp")->name("mvp");
-        Route::get("/app-maintenance", "app_maintenance")->name("app_maintenance");
-        Route::get("/chatgpt-development", "chatgpt")->name("chatgpt");
-        Route::get("/iot-development", "iot")->name("iot");
-        Route::get("/blockchain-app-development", "blockchain")->name("blockchain");
-        Route::get("/ar-vr-development", "ar_vr")->name("ar_vr");
-        Route::get("/{id}", "show")->name("show");
     });
+
+    // 301 redirects for removed service pages
+    Route::redirect('/services/android-app-development', '/services/mobile-app-development', 301);
+    Route::redirect('/services/ios-app-development', '/services/mobile-app-development', 301);
+    Route::redirect('/services/flutter-app-development', '/services/mobile-app-development', 301);
+    Route::redirect('/services/react-native-app-development', '/services/mobile-app-development', 301);
+    Route::redirect('/services/app-maintenance', '/services/mobile-app-development', 301);
+    Route::redirect('/services/chatgpt-development', '/services/ai-integration', 301);
+    Route::redirect('/services/iot-development', '/services/web-app-development', 301);
+    Route::redirect('/services/blockchain-app-development', '/services/web-app-development', 301);
+    Route::redirect('/services/ar-vr-development', '/services/web-app-development', 301);
 
     // Solution routes
     Route::controller(SolutionController::class)->name("solutions.")->prefix("solutions")->group(function () {

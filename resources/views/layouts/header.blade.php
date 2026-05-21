@@ -29,33 +29,13 @@
                                 <li class="vs-mega-menu-item">
                                     <a href="{{ route('services.mobile_app_development') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/development.png')}}" width="25" height="25" alt="mobile-icon"
-                                                class="img-fluid">
+                                            <img src="{{asset('web-assets/images/development.png')}}" width="25" height="25" alt="mobile-icon" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
                                             <h3 class="vs-mega-menu-title">Mobile App Development</h3>
+                                            <p class="vs-mega-menu-description">Flutter, React Native — cross-platform apps built to production standards.</p>
                                         </span>
                                     </a>
-
-                                    <ul class="vs-site-menu-list list-unstyled">
-                                        <li class="vs-site-menu-item">
-                                            <a href="{{ route('services.ios') }}" class="vs-site-menu-link">iOS
-                                                Development</a>
-                                        </li>
-                                        <li class="vs-site-menu-item">
-                                            <a href="{{ route('services.android') }}" class="vs-site-menu-link">Android
-                                                Development</a>
-                                        </li>
-                                        <li class="vs-site-menu-item">
-                                            <a href="{{ route('services.flutter') }}" class="vs-site-menu-link">Flutter
-                                                Development</a>
-                                        </li>
-                                        <li class="vs-site-menu-item">
-                                            <a href="{{ route('services.react_native') }}" class="vs-site-menu-link">React
-                                                Native Development</a>
-                                        </li>
-
-                                    </ul>
                                 </li>
                                 <li class="vs-mega-menu-item">
                                     <a href="{{ route('services.web_app') }}" class="vs-mega-menu-link">
@@ -64,8 +44,18 @@
                                         </span>
                                         <span class="vs-mega-menu-details">
                                             <h3 class="vs-mega-menu-title">Web App Development</h3>
-                                            <p class="vs-mega-menu-description">Craft intuitive and scalable web
-                                                applications that resonate with your business needs.</p>
+                                            <p class="vs-mega-menu-description">Laravel, Node.js — scalable web applications with clean architecture.</p>
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="vs-mega-menu-item">
+                                    <a href="{{ route('services.ai_integration') }}" class="vs-mega-menu-link">
+                                        <span class="vs-mega-menu-icon">
+                                            <img src="{{asset('web-assets/images/artificial-intelligence.png')}}" width="25" height="25" alt="ai-icon" class="img-fluid">
+                                        </span>
+                                        <span class="vs-mega-menu-details">
+                                            <h3 class="vs-mega-menu-title">AI Integration</h3>
+                                            <p class="vs-mega-menu-description">Gemini API, Stable Diffusion, ControlNet, RAG systems — real AI in production.</p>
                                         </span>
                                     </a>
                                 </li>
@@ -76,311 +66,67 @@
                                         </span>
                                         <span class="vs-mega-menu-details">
                                             <h3 class="vs-mega-menu-title">UI/UX Design</h3>
-                                            <p class="vs-mega-menu-description">Get the world class Mobile and Web
-                                                App designing with our striking and user friendly UI/UX design
-                                                approach.</p>
+                                            <p class="vs-mega-menu-description">Figma-first design process. Clean, accessible, and conversion-focused.</p>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="vs-mega-menu-item">
                                     <a href="{{ route('services.mvp') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/mvp.png')}}" width="25" height="25"  alt="mvp-icon" class="img-fluid">
+                                            <img src="{{asset('web-assets/images/mvp.png')}}" width="25" height="25" alt="mvp-icon" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
                                             <h3 class="vs-mega-menu-title">MVP Development</h3>
-                                            <p class="vs-mega-menu-description">Quickly validate your product
-                                                concept and gather valuable user feedback with our MVP development
-                                                services.</p>
+                                            <p class="vs-mega-menu-description">Validate your idea fast. Launch-ready MVP in 8–12 weeks.</p>
                                         </span>
                                     </a>
                                 </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.app_maintenance') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/coding.png')}}" width="25" height="25"  alt="mobile-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">App Maintenance</h3>
-                                            <p class="vs-mega-menu-description">Ensure the longevity and efficiency
-                                                of your mobile application. We guarantee optimal performance and
-                                                timely updates.</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.chatgpt') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/artificial-intelligence.png')}}" width="25" height="25" alt="chat-gpt-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">ChatGPT Development</h3>
-                                            <p class="vs-mega-menu-description">Harness the potential of
-                                                conversational AI with our end to end ChatGPT development services.
-                                            </p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.iot') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/iot-icon.png')}}" width="25" height="25"  alt="iot-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">IoT Development</h3>
-                                            <p class="vs-mega-menu-description">We can create innovative IoT enabled
-                                                solutions that optimize processes, enhance decision-making and drive
-                                                business growth.</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                {{-- <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.blockchain') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/mobile-icon.svg')}}" alt="blockchain-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Blockchain App Development</h3>
-                                            <p class="vs-mega-menu-description">Venture into the future of secure
-                                                and transparent transactions with our blockchain app development
-                                                services.</p>
-                                        </span>
-                                    </a>
-                                </li> --}}
-
-                                {{-- <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.ar_vr') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/ar-vr-icon.svg')}}" alt="ar-vr-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">AR/VR Development</h3>
-                                            <p class="vs-mega-menu-description">Immerse your audience in captivating
-                                                AR & VR experiences. Get engagement and interaction through our
-                                                AR/VR development services.</p>
-                                        </span>
-                                    </a>
-                                </li> --}}
-
-
-
                             </ul>
                         </li>
                         <li class="nav-item vs-has-submenu vs-service-menu">
-                            <a class="nav-link" href="#">Solution</a>
+                            <a class="nav-link" href="#">Solutions</a>
                             <ul class="vs-mega-menu-list vs-solution-menu">
                                 <li class="vs-mega-menu-item">
                                     <a href="{{ route('solutions.fintech') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/payment.png')}}" width="25" height="25"  alt="fintech app"
-                                                class="img-fluid">
+                                            <img src="{{asset('web-assets/images/payment.png')}}" width="25" height="25" alt="fintech" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Fintech App Development</h3>
-                                            <p class="vs-mega-menu-description">Custom Native iPhone App Development
-                                                and support</p>
+                                            <h3 class="vs-mega-menu-title">FinTech Development</h3>
+                                            <p class="vs-mega-menu-description">AI trading signals, portfolio platforms — TradeGuardian case study.</p>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.food_ordering') }}" class="vs-mega-menu-link">
+                                    <a href="{{ route('solutions.fleet_management') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/online-order.png')}}" width="25" height="25" alt="restaurant-icon"
-                                                class="img-fluid">
+                                            <img src="{{asset('web-assets/images/car.png')}}" width="25" height="25" alt="fleet" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Restaurant Food ordering app</h3>
-                                            <p class="vs-mega-menu-description">Ondemand android development for
-                                                your business</p>
+                                            <h3 class="vs-mega-menu-title">Fleet Management</h3>
+                                            <p class="vs-mega-menu-description">Real-time GPS tracking, driver app, ops dashboard — Fleeta2z case study.</p>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.health_app') }}" class="vs-mega-menu-link">
+                                    <a href="{{ route('solutions.ai_property_visualization') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/health-app.png')}}" width="25" height="25" alt="healthcare-icon"
-                                                class="img-fluid">
+                                            <img src="{{asset('web-assets/images/artificial-intelligence.png')}}" width="25" height="25" alt="ai-property" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Healthcare App Development</h3>
-                                            <p class="vs-mega-menu-description">App development using flutter and
-                                                react technology</p>
+                                            <h3 class="vs-mega-menu-title">AI Property Visualization</h3>
+                                            <p class="vs-mega-menu-description">Stable Diffusion + ControlNet interior redesign — Proptifi case study.</p>
                                         </span>
                                     </a>
                                 </li>
                                 <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.qr_code_based_food') }}" class="vs-mega-menu-link">
+                                    <a href="{{ route('solutions.agritech_development') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/qr-payment.png')}}" width="25" height="25" alt="qr-icon"
-                                                class="img-fluid">
+                                            <img src="{{asset('web-assets/images/development.png')}}" width="25" height="25" alt="agritech" class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">QR code-based food ordering</h3>
-                                            <p class="vs-mega-menu-description">Helping startups, small businesses
-                                                and growing enterprises </p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.on_demand_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/on-demand-service.png')}}" width="25" height="25" alt="on-demand-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">On-Demand App Development</h3>
-                                            <p class="vs-mega-menu-description">controlled remotely and can be used
-                                                to monitor the connected product's condition</p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.fitness_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/heart-rate.png')}}" width="25" height="25" alt="fitness-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Fitness App Development</h3>
-                                            <p class="vs-mega-menu-description">empower businesses them with our
-                                                skilled technology capabilities in AR/VR</p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.fantasy_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/mobile-app.png')}}" width="25" height="25" alt="fantasy-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Fantasy App Development</h3>
-                                            <p class="vs-mega-menu-description">iOS and Android mobile applications
-                                                in an industry-driving structure</p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.transport_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/car.png')}}" width="25" height="25" alt="transport-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Transport Industry App Development</h3>
-                                            <p class="vs-mega-menu-description">We build bespoke websites and web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.texi_booking_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/booking.png')}}" width="25" height="25" alt="transport-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Taxi Booking App Development</h3>
-                                            <p class="vs-mega-menu-description">We build easy-to-use taxi booking
-                                                websites and web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.dating_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/relationships.png')}}" width="25" height="25" alt="dating-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Dating App Development</h3>
-                                            <p class="vs-mega-menu-description">We build dating websites and web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.grocary_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/eshopping.png')}}" width="25" height="25" alt="grocery-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Grocery Delivery App Development</h3>
-                                            <p class="vs-mega-menu-description">We build grocery delivery websites
-                                                and web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.socialmedia_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/social-media.png')}}" width="25" height="25"
-                                                alt="social-media-icon" class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Social Media App Development</h3>
-                                            <p class="vs-mega-menu-description">We build social media websites and
-                                                web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.sportbatting_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/casino-chips.png')}}" width="25" height="25" alt="sport-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Sports Betting App Development</h3>
-                                            <p class="vs-mega-menu-description">We build sports betting websites and
-                                                web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.stocktrading_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/trading.png')}}" width="25" height="25" alt="stock-icon"
-                                                class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Stock Trading App Development</h3>
-                                            <p class="vs-mega-menu-description">We build stock trading websites and
-                                                web
-                                                applications</p>
-                                        </span>
-                                    </a>
-                                </li>
-
-                                <li class="vs-mega-menu-item">
-                                    <a href="{{ route('solutions.videostreaming_app') }}" class="vs-mega-menu-link">
-                                        <span class="vs-mega-menu-icon">
-                                            <img src="{{asset('web-assets/images/live.png')}}"
-                                            width="25" height="25"  alt="video-streaming-icon" class="img-fluid">
-                                        </span>
-                                        <span class="vs-mega-menu-details">
-                                            <h3 class="vs-mega-menu-title">Video Streaming App Development</h3>
-                                            <p class="vs-mega-menu-description">We build video streamimg websites
-                                                and web
-                                                applications</p>
+                                            <h3 class="vs-mega-menu-title">AgriTech Development</h3>
+                                            <p class="vs-mega-menu-description">Gemini AI farming assistant in 9 languages — FasalVision case study.</p>
                                         </span>
                                     </a>
                                 </li>
