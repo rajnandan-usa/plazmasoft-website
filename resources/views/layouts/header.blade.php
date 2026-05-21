@@ -27,14 +27,13 @@
                             <a class="nav-link" href="#">Services</a>
                             <ul class="vs-mega-menu-list">
                                 <li class="vs-mega-menu-item">
-                                    <a href="{{ route('services.index') }}" class="vs-mega-menu-link">
+                                    <a href="{{ route('services.mobile_app_development') }}" class="vs-mega-menu-link">
                                         <span class="vs-mega-menu-icon">
                                             <img src="{{asset('web-assets/images/development.png')}}" width="25" height="25" alt="mobile-icon"
                                                 class="img-fluid">
                                         </span>
                                         <span class="vs-mega-menu-details">
                                             <h3 class="vs-mega-menu-title">Mobile App Development</h3>
-                                            <!-- <p class="vs-mega-menu-description">Explore cutting-edge mobile app development solutions tailored to your business.</p> -->
                                         </span>
                                     </a>
 

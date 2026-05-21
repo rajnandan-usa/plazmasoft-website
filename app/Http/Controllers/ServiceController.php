@@ -10,6 +10,10 @@ class ServiceController extends Controller
         return view("section.service.index");
     }
 
+    public function mobile_app_development(){
+        return view("section.service.mobile-app.index");
+    }
+
     public function android(){
         return view("section.service.mobile-app.android-development");
     }

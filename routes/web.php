@@ -37,6 +37,7 @@ Route::middleware('redirectExceptAllowed')->group(function () {
     // Service routes
     Route::controller(ServiceController::class)->name("services.")->prefix("services")->group(function () {
         Route::get("/", "index")->name("index");
+        Route::get("/mobile-app-development", "mobile_app_development")->name("mobile_app_development");
         Route::get("/android-app-development", "android")->name("android");
         Route::get("/ios-app-development", "ios")->name("ios");
         Route::get("/flutter-app-development", "flutter")->name("flutter");
