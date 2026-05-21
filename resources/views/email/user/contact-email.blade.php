@@ -70,7 +70,7 @@
 
         <!-- Content Section -->
         <div class="content">
-            <p>Hi {{ $contactDetails->name }},</p>
+            <p>Hi {{ $contactDetails->fullName }},</p>
             <p>We have received your message, and our team will respond shortly. Here are the details you submitted:</p>
             <p><strong>Subject:</strong> {{ $contactDetails->subject }}</p>
 
