@@ -15,7 +15,7 @@
                             <h1 class="vs-section-title">Leading Web & Mobile <span>Application Development </span> Experts
                             </h1>
                             <p class="vs-section-description">We specialize in building high-performance web and mobile apps,
-                                transforming ide into market-ready products. Let’s bring yours to life!</p>
+                                transforming ideas into market-ready products. Let’s bring yours to life!</p>
                             <div class="vs-landing-btn">
                                 <a href="javascript:void(0)" class="btn btn-primary custom-btn" data-bs-toggle="modal"
                                     data-bs-target="#requestProposalModalSM">

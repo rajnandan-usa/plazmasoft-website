@@ -1,4 +1,6 @@
 /.phpunit.cache
+/deploy.config.ps1
+/.last-deploy-commit
 /node_modules
 /public/build
 /public/hot
