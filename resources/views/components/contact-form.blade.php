@@ -58,7 +58,7 @@
 
     <div class="col col-12">
         <div class="text-center vs-form-btn">
-            <button type="submit" class="btn btn-primary g-recaptcha" data-sitekey="{{ env('RECAPTCHA_SITEKEY') }}"
+            <button type="submit" class="btn btn-primary g-recaptcha" data-sitekey="{{ config('services.recaptcha.sitekey') }}"
                 data-callback='onSubmit' data-action='contact_form'>Submit</button>
         </div>
     </div>
