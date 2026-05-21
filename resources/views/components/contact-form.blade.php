@@ -1,4 +1,4 @@
-<form class="js-contactForm row" method="POST" data-url="{{ route('api.contact.store') }}">
+<form class="js-contactForm row" method="POST" action="{{ route('api.contact.store') }}" data-url="{{ route('api.contact.store') }}" onsubmit="return false;">
     @csrf
     <input type="hidden" id="recaptcha-token" name="g-recaptcha-response">
 
