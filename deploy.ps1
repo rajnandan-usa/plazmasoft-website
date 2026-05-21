@@ -39,7 +39,7 @@ if (Test-Path $DEPLOY_MARKER) {
         exit 0
     }
 
-    $changedFiles = @(git diff --name-only $lastCommit $currentCommit 2>&1)
+    $changedFiles = @(git diff --name-only $lastCommit $currentCommit 2>&1) | Where-Object { $_ -is [string] -and $_.Trim() -ne "" }
     Write-Host ("Changed: " + $changedFiles.Count + " files") -ForegroundColor Cyan
 } else {
     Write-Host "Pehla deploy - saari files upload hongi." -ForegroundColor Yellow
