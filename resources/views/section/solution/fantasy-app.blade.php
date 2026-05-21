@@ -16,7 +16,7 @@
                         <div class="vs-landing-content__inner">
     <h1 class="vs-section-title vs-title-border">Best Fantasy </span></h1>
     <h2 class="vs-section-subtitle">App Development Company</h2>
-    <p class="vs-section-description">Do you run a fantasy business and want to be the next market leader in the fantasy gaming industry? Choose TechnoYuga, the best fantasy app development company, where imagination meets innovation. From magical gaming adventures to mystical storytelling fantasy applications, we conjure dreams into digital reality. Connect with us, share your requirements to develop a fantasy app and turn your dreams into reality. Book a consultation with our fantasy app developers today and ensure a better tomorrow.</p>
+    <p class="vs-section-description">Do you run a fantasy business and want to be the next market leader in the fantasy gaming industry? Choose Plazmasoft, the best fantasy app development company, where imagination meets innovation. From magical gaming adventures to mystical storytelling fantasy applications, we conjure dreams into digital reality. Connect with us, share your requirements to develop a fantasy app and turn your dreams into reality. Book a consultation with our fantasy app developers today and ensure a better tomorrow.</p>
 </div>
 
                 </div>
@@ -151,7 +151,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Growth-driven Fantasy App Development Services</h2>
-                <p class="vs-section-description">Do you run a small-scale fantasy business and want to turn it into a well-known brand? Look no further than TechnoYuga's fantasy app development services. With a talented team of experienced and dedicated fantasy app developers, we can turn business dreams into reality. Here is a quick glimpse of our top-notch fantasy mobile app development services.</p>
+                <p class="vs-section-description">Do you run a small-scale fantasy business and want to turn it into a well-known brand? Look no further than Plazmasoft's fantasy app development services. With a talented team of experienced and dedicated fantasy app developers, we can turn business dreams into reality. Here is a quick glimpse of our top-notch fantasy mobile app development services.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -165,7 +165,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Want to outshine the fantasy market in no time? Seek fantasy app consultation from TechnoYuga. Dive into the extraordinary with our impeccable mobile app consultation services! Unlock the magic of personalized advice to bring your fantastical visions to life.</p>
+                                <p class="vs-service-card-description">Want to outshine the fantasy market in no time? Seek fantasy app consultation from Plazmasoft. Dive into the extraordinary with our impeccable mobile app consultation services! Unlock the magic of personalized advice to bring your fantastical visions to life.</p>
                             </a>
                         </div>
                     </div>
@@ -220,7 +220,7 @@
                                         <img src="{{asset('web-assets/images/wallet-app.svg')}}" alt="wallet-app" class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Assemble your dream team to bring your fantasy app dream to life! Our skilled fantasy app developers are at your service at any hour of the day. Hire dedicated fantasy app developers from TechnoYuga and experience outstanding business solutions at a reasonable cost. </p>
+                                <p class="vs-service-card-description">Assemble your dream team to bring your fantasy app dream to life! Our skilled fantasy app developers are at your service at any hour of the day. Hire dedicated fantasy app developers from Plazmasoft and experience outstanding business solutions at a reasonable cost. </p>
                             </a>
                         </div>
                     </div>
@@ -234,7 +234,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Sustain the magic and keep your app running lifelong with our mobile app support and maintenance services. At TechnoYuga, our professionals ensure your fantasy app continues to shine. We're here to troubleshoot, upgrade, and keep the enchantment alive.</p>
+                                <p class="vs-service-card-description">Sustain the magic and keep your app running lifelong with our mobile app support and maintenance services. At Plazmasoft, our professionals ensure your fantasy app continues to shine. We're here to troubleshoot, upgrade, and keep the enchantment alive.</p>
                             </a>
                         </div>
                     </div>
@@ -250,7 +250,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">User-Oriented Features of Fantasy App Development</h2>
                 <p class="vs-section-description">
-                    Do you want to develop an interactive fintech app that can take your business to the heights? Look no further than TechnoYuga fintech mobile app development services. Our professionals create a fintech app with user-friendly panels that are easy to access. Let’s take a glimpse.
+                    Do you want to develop an interactive fintech app that can take your business to the heights? Look no further than Plazmasoft fintech mobile app development services. Our professionals create a fintech app with user-friendly panels that are easy to access. Let’s take a glimpse.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -397,7 +397,7 @@
                             <div class="vs-fintech-app-feature-details">
                                 <h3 class="vs-section-title vs-title-border">Fantasy App Admin Panel</h3>
                                 <p class="vs-section-description">
-                                    The Admin Panel is the crucial element of any mobile application. So, manage users, oversee transactions, and ensure fair play with real-time monitoring within your fantasy app admin panel. Administer the ultimate fantasy sports experience effortlessly with TechnoYuga.
+                                    The Admin Panel is the crucial element of any mobile application. So, manage users, oversee transactions, and ensure fair play with real-time monitoring within your fantasy app admin panel. Administer the ultimate fantasy sports experience effortlessly with Plazmasoft.
                                 </p>
                                 <ul class="vs-fintech-app-feature-list list-unstyled">
                                     <li class="vs-fintech-app-feature-item">
@@ -530,7 +530,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Result-Driven Fantasy App Development Solutions</h2>
                 <p class="vs-section-description">
-                    Experience unparalleled success with the industry's best fantasy app development solutions. TechnoYuga blends cutting-edge technology with innovative design to create immersive and engaging fantasy sports experiences. Our team of fantasy app developers are committed to delivering solutions that guarantee results, ensuring your fantasy app stands out in the competitive market. Explore a new realm of possibilities and make your fantasy app dreams a reality with us!
+                    Experience unparalleled success with the industry's best fantasy app development solutions. Plazmasoft blends cutting-edge technology with innovative design to create immersive and engaging fantasy sports experiences. Our team of fantasy app developers are committed to delivering solutions that guarantee results, ensuring your fantasy app stands out in the competitive market. Explore a new realm of possibilities and make your fantasy app dreams a reality with us!
 
                 </p>
             </div>
@@ -604,7 +604,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Make learning fun with TechnoYuga's educational fantasy app development solutions. Engage in interactive and educational challenges that cover a wide range of subjects, making learning an enjoyable and immersive experience. Book a consultation with our experts today!</p>
+                                <p class="vs-service-card-description">Make learning fun with Plazmasoft's educational fantasy app development solutions. Engage in interactive and educational challenges that cover a wide range of subjects, making learning an enjoyable and immersive experience. Book a consultation with our experts today!</p>
                             </a>
                         </div>
                     </div>
@@ -640,7 +640,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Dive into the world of cryptocurrencies with our crypto fantasy app development services. Simulate crypto trading, experiment with different strategies, and stay ahead of market trends in a risk-free environment. What are you waiting for? Shake hands with TechnoYuga today and ensure a better tomorrow.</p>
+                                <p class="vs-service-card-description">Dive into the world of cryptocurrencies with our crypto fantasy app development services. Simulate crypto trading, experiment with different strategies, and stay ahead of market trends in a risk-free environment. What are you waiting for? Shake hands with Plazmasoft today and ensure a better tomorrow.</p>
                             </a>
                         </div>
                     </div>
@@ -1111,7 +1111,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Reasonable Models to Hire Fantasy App Developers</h2>
-                <p class="vs-section-description">Are you looking to start your online fantasy app journey without exceeding your budget? Explore a range of cost-effective options to hire fantasy app developers from TechnoYuga. Our proficient experts create customized solutions, bringing your vision to fruition at a budget-friendly cost for custom fantasy app development. Upgrade your fantasy app with TechnoYuga today!</p>
+                <p class="vs-section-description">Are you looking to start your online fantasy app journey without exceeding your budget? Explore a range of cost-effective options to hire fantasy app developers from Plazmasoft. Our proficient experts create customized solutions, bringing your vision to fruition at a budget-friendly cost for custom fantasy app development. Upgrade your fantasy app with Plazmasoft today!</p>
             </div>
             <div class="vs-fintech-forward-content">
                 <div class="row">
@@ -1120,7 +1120,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Fantasy App Developers Part-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Seeking dedicated fantasy app developers on a part-time basis? Look no further than TechnoYuga. Utilize their expertise for your fantasy app aspirations without the commitment of a full-time engagement. Enhance your on-demand fantasy application by hiring the best fantasy app developers.</p>
+                                    <p class="vs-fintech-forward-card-description">Seeking dedicated fantasy app developers on a part-time basis? Look no further than Plazmasoft. Utilize their expertise for your fantasy app aspirations without the commitment of a full-time engagement. Enhance your on-demand fantasy application by hiring the best fantasy app developers.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1159,7 +1159,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Looking to hire dedicated developers for fantasy mobile app development? TechnoYuga, the premier fantasy app development company, is here to assist you. With a team of experts, we can be your ideal development partner. Bid farewell to budget concerns by hiring dedicated developers from us.</p>
+                                    <p class="vs-fintech-forward-card-description">Looking to hire dedicated developers for fantasy mobile app development? Plazmasoft, the premier fantasy app development company, is here to assist you. With a team of experts, we can be your ideal development partner. Bid farewell to budget concerns by hiring dedicated developers from us.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1179,7 +1179,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -1194,7 +1194,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -1202,7 +1202,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -1430,14 +1430,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -1612,7 +1612,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -1665,7 +1665,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -1689,7 +1689,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -1812,10 +1812,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -1861,7 +1861,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -1900,7 +1900,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -1981,7 +1981,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2086,7 +2086,7 @@
                         <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Security is a top priority. At TechnoYuga, we develop fantasy apps by incorporating robust encryption, secure payment gateways, and adhere to industry best practices to safeguard user data and ensure a secure gaming environment. You can rely on our fantasy app development services without thinking twice.</p>
+                                <p>Security is a top priority. At Plazmasoft, we develop fantasy apps by incorporating robust encryption, secure payment gateways, and adhere to industry best practices to safeguard user data and ensure a secure gaming environment. You can rely on our fantasy app development services without thinking twice.</p>
                             </div>
                         </div>
                     </div>
@@ -2101,7 +2101,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Discuss Your Fantasy App Development Idea with Us!</h2>
-            <p class="vs-section-description">Do you have a fantasy app development idea? Let’s connect and accomplish your business goals together! Kickstart your online business journey with TechnoYuga!</p>
+            <p class="vs-section-description">Do you have a fantasy app development idea? Let’s connect and accomplish your business goals together! Kickstart your online business journey with Plazmasoft!</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -2316,7 +2316,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

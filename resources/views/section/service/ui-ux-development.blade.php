@@ -27,7 +27,7 @@
                 UI/UX Design Services
               </h1>
               <p class="vs-section-description">
-                At TechnoYuga, we offer top-notch UI/UX design services that
+                At Plazmasoft, we offer top-notch UI/UX design services that
                 elevate user experiences to new heights. Our creative UI/UX
                 designers blend creativity with usability, crafting
                 interfaces that captivate and engage. Whether it's web or
@@ -218,7 +218,7 @@
                 </div>
                 <p class="vs-service-card-description">
                   Want to create compelling and user-friendly websites that
-                  captivate visitors? Look no further than TechnoYuga
+                  captivate visitors? Look no further than Plazmasoft
                   website design services. Connect with us now!
                 </p>
               </a>
@@ -267,7 +267,7 @@
         </h2>
         <p class="vs-section-description w-75 m-auto">
           Do you want to avail pocket-friendly UI/UX designing services?
-          <a href="https://technoyuga.com">TechnoYuga</a> can be your
+          <a href="https://plazmasoft.com">Plazmasoft</a> can be your
           savior. We offer reasonable models for UX/UI designing. Here are
           our top models you can choose from!
         </p>
@@ -528,7 +528,7 @@
               </div>
               <div class="vs-everyone-card-body">
                 <p class="vs-everyone-description">
-                  Get a white label design solution by TechnoYuga and be
+                  Get a white label design solution by Plazmasoft and be
                   ready to outshine this competitive market.
                 </p>
                 <ul class="vs-everyone-feature-list list-unstyled">
@@ -8698,7 +8698,7 @@
           We Provide Outsourced IT Services For All Business
         </h4>
         <p class="vs-section-description">
-          At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+          At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
           believe in the power of domain expertise. By choosing a partner
           with experience in an industry, the product is better, while
           timelines and cost are kept low. We are experts in:
@@ -8841,9 +8841,9 @@
         </h2>
         <p class="vs-section-description">
           Do you want a uniquely design and
-          <a href="https://technoyuga.com/services/mobile-app-development">
+          <a href="https://plazmasoft.com/services/mobile-app-development">
             develop mobile app</a>
-          or website? If yes, then you are at the right place. TechnoYuga, a
+          or website? If yes, then you are at the right place. Plazmasoft, a
           leading UI UX design company can help you with compelling
           designing for your business application or website. Connect with
           us now!
@@ -8915,7 +8915,7 @@
               </div>
               <div class="vs-testimonial-description">
                 <p>
-                  TechnoYuga and Krishna did an AWESOME Job on our two
+                  Plazmasoft and Krishna did an AWESOME Job on our two
                   projects Bubble Battle and Topline in last 2 years and we
                   are very happy with the end results. They provided
                   exceptional support even after delivery of the project.
@@ -8943,7 +8943,7 @@
                 <p>
                   Thanks Krishna for completing this task in our social
                   networking app. This was my second project with Krishna
-                  and the team Technoyuga, they did a decent job and
+                  and the team Plazmasoft, they did a decent job and
                   delivered the work on time . I'm happy to recommend them
                   for any Web and react native app development work.
                 </p>
@@ -9081,11 +9081,11 @@
               <div class="vs-testimonial-description">
                 <p>
                   As a finance consultant based out of Germany, I acquired
-                  the support of Technoyuga developing a financial services
+                  the support of Plazmasoft developing a financial services
                   app. Krishna and his team were able to convert my vision
                   into an easy to use app well within the agreed deadline.
                   Now they are supporting me in marketing and social media
-                  efforts. I can recommend Krishna and Technoyuga to any
+                  efforts. I can recommend Krishna and Plazmasoft to any
                   business needing IT support.
                 </p>
               </div>
@@ -9137,7 +9137,7 @@
               </div>
               <div class="vs-testimonial-description">
                 <p>
-                  TechnoYuga and Krishna did an AWESOME Job on our two
+                  Plazmasoft and Krishna did an AWESOME Job on our two
                   projects Bubble Battle and Topline in last 2 years and we
                   are very happy with the end results. They provided
                   exceptional support even after delivery of the project.
@@ -9211,7 +9211,7 @@
                         Tailored Solutions:
                       </h3>
                       <p class="vs-why-choose-card-desription">
-                        At TechnoYuga, our ability to create customized
+                        At Plazmasoft, our ability to create customized
                         solutions based on a thorough understanding of your
                         business, industry, target audience, and project
                         requirements. Connect with us now!
@@ -9415,7 +9415,7 @@
                     There is no fixed cost for UX/UI design services as it
                     keeps varying from one project requirement to the other.
                     To know the exact designing cost for your project, connect
-                    with TechnoYuga experts.
+                    with Plazmasoft experts.
                   </p>
                 </div>
               </div>
@@ -9433,7 +9433,7 @@
                 <div class="accordion-body">
                   <p>
                     To get started, reach out to a leading UI UX design
-                    company like TechnoYuga. We'll discuss your project
+                    company like Plazmasoft. We'll discuss your project
                     requirements, goals, and timelines to create a tailored
                     plan that suits your needs.
                   </p>
@@ -9452,7 +9452,7 @@
                 <div class="accordion-body">
                   <p>
                     To hire dedicated UX UI designers, look no further than
-                    TechnoYuga. We have a pool of dedicated designers who can
+                    Plazmasoft. We have a pool of dedicated designers who can
                     help you with any type of design services.
                   </p>
                 </div>
@@ -9462,14 +9462,14 @@
               <h2 class="accordion-header" id="headingFaq9">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseFaq9" aria-expanded="false" aria-controls="collapseFaq9">
-                  Why Choose TechnoYuga for UX/UI Design Services?
+                  Why Choose Plazmasoft for UX/UI Design Services?
                 </button>
               </h2>
               <div id="collapseFaq9" class="accordion-collapse collapse" aria-labelledby="headingFaq9"
                 data-bs-parent="#tyFaq">
                 <div class="accordion-body">
                   <p>
-                    At TechnoYuga, we have a team of creative designers who
+                    At Plazmasoft, we have a team of creative designers who
                     possess years of expertise in delivering compelling UI/UX
                     design solutions. We can help your brand outshine others
                     with our exclusive UX UI design services. Let's connect
@@ -9894,7 +9894,7 @@
                               <p>
                                 Thanks Krishna for completing this task in our
                                 social networking app. This was my second
-                                project with Krishna and the team Technoyuga,
+                                project with Krishna and the team Plazmasoft,
                                 they did a decent job and delivered the work
                                 on time . I'm happy to recommend them for any
                                 Web and react native app development work.

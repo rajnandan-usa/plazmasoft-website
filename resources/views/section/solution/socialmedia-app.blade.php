@@ -18,7 +18,7 @@
         <h1 class="vs-section-title vs-title-border">Social Media App</span></h1>
         <h2 class="vs-section-subtitle">Development Company</h2>
         <p class="vs-section-description">
-            Are you searching for the best social media app development company to develop a social platform like Instagram or LinkedIn? You are at the right place! TechnoYuga, a reliable social media app development services provider, has a team of dedicated developers who can be your saviour. Share your requirements to create a social media app like Instagram. We will analyze the given requirements and help you draft a perfect masterpiece.
+            Are you searching for the best social media app development company to develop a social platform like Instagram or LinkedIn? You are at the right place! Plazmasoft, a reliable social media app development services provider, has a team of dedicated developers who can be your saviour. Share your requirements to create a social media app like Instagram. We will analyze the given requirements and help you draft a perfect masterpiece.
         </p>
     </div>
 
@@ -214,7 +214,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    TechnoYuga offers comprehensive on-demand social media app development services tailored to your needs. Our expertise ensures efficient, user-friendly, and innovative solutions for your social networking platform. Avail on-demand app development services from us.</p>
+                                    Plazmasoft offers comprehensive on-demand social media app development services tailored to your needs. Our expertise ensures efficient, user-friendly, and innovative solutions for your social networking platform. Avail on-demand app development services from us.</p>
                                 </a>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                        Through frequent updates, bug repairs, and the inclusion of new features, our committed team makes sure that your social network app is always optimized. Our <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a>. ensure that the app remains safe and in line with the newest trends.</p>
+                                        Through frequent updates, bug repairs, and the inclusion of new features, our committed team makes sure that your social network app is always optimized. Our <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a>. ensure that the app remains safe and in line with the newest trends.</p>
                                 <!-- </a> -->
                             </div>
                         </div>
@@ -260,7 +260,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Key Features of Social Media App Development</h2>
                     <p class="vs-section-description">
-                        Are you planning to create social media app that is feature-rich and user-friendly? At TechnoYuga, our professionals help you develop a successful social media app that users will love to access. Here’s a quick glimpse of the key features mentioned by our on-demand app development company professionals.
+                        Are you planning to create social media app that is feature-rich and user-friendly? At Plazmasoft, our professionals help you develop a successful social media app that users will love to access. Here’s a quick glimpse of the key features mentioned by our on-demand app development company professionals.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -2096,7 +2096,7 @@
             <div class="container">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Social Media App Developers</h2>
-                    <p class="vs-section-description">Do you want to hire dedicated developers for custom social media app development? Connect with TechnoYuga. We have a dedicated team of on-demand social media developers who can be a great asset. Here is a glimpse of our available flexible hiring models.</p>
+                    <p class="vs-section-description">Do you want to hire dedicated developers for custom social media app development? Connect with Plazmasoft. We have a dedicated team of on-demand social media developers who can be a great asset. Here is a glimpse of our available flexible hiring models.</p>
                 </div>
                 <div class="vs-fintech-forward-content">
                     <div class="row">
@@ -2105,7 +2105,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Are you planning to hire developers part-time for on-demand social media app development? You are just a click away. Our team at TechnoYuga consists of experienced social media app developers available for part-time work. Please feel free to discuss your needs for a social media app with our dedicated staff of mobile app developers for hire.</p>
+                                        <p class="vs-fintech-forward-card-description">Are you planning to hire developers part-time for on-demand social media app development? You are just a click away. Our team at Plazmasoft consists of experienced social media app developers available for part-time work. Please feel free to discuss your needs for a social media app with our dedicated staff of mobile app developers for hire.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2118,7 +2118,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Elevate the success of your online grocery delivery business by hiring developers full-time. Looking for the option to hire developers full-time? TechnoYuga grocery delivery app developers can be your saviour. Choose our full-time hiring model and get professional assistance 24*7.</p>
+                                        <p class="vs-fintech-forward-card-description">Elevate the success of your online grocery delivery business by hiring developers full-time. Looking for the option to hire developers full-time? Plazmasoft grocery delivery app developers can be your saviour. Choose our full-time hiring model and get professional assistance 24*7.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2131,7 +2131,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">Want to hire developers hourly? Use TechnoYuga's cost-effective recruiting strategies to find full-time, part-time, and hourly developers. You may now hire developers hourly for your social media app development solutions project and put an end to your worries. Now that you've scheduled a meeting with our specialists let us do the rest. </p>
+                                        <p class="vs-fintech-forward-card-description">Want to hire developers hourly? Use Plazmasoft's cost-effective recruiting strategies to find full-time, part-time, and hourly developers. You may now hire developers hourly for your social media app development solutions project and put an end to your worries. Now that you've scheduled a meeting with our specialists let us do the rest. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2144,7 +2144,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">WAre you interested in hiring dedicated developers for on-demand social media app development? Talk about your project's goals with the TechnoYuga professionals. Talk to us about your idea so we can be the best possible support. Once you have shared the project requirements for your project, you can engage experienced and dedicated developers.</p>
+                                        <p class="vs-fintech-forward-card-description">WAre you interested in hiring dedicated developers for on-demand social media app development? Talk about your project's goals with the Plazmasoft professionals. Talk to us about your idea so we can be the best possible support. Once you have shared the project requirements for your project, you can engage experienced and dedicated developers.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2164,7 +2164,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2179,7 +2179,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2187,7 +2187,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2415,14 +2415,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2597,7 +2597,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2650,7 +2650,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2673,7 +2673,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2796,10 +2796,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2845,7 +2845,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2884,7 +2884,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2965,7 +2965,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3016,7 +3016,7 @@
                             <div id="collapseFaq1" class="accordion-collapse collapse show"
                                 aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Among all organizations out there, TechnoYuga stands strong as the best social media app development company. We have a team of dedicated social media app developers for hire who can be your great asset to accomplish your business goals and dreams. Feel free to connect with us for on-demand social media app development. </p>
+                                    <p>Among all organizations out there, Plazmasoft stands strong as the best social media app development company. We have a team of dedicated social media app developers for hire who can be your great asset to accomplish your business goals and dreams. Feel free to connect with us for on-demand social media app development. </p>
                                 </div>
                             </div>
                         </div>
@@ -3030,7 +3030,7 @@
                             <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>The cost of to create social media app based on multiple factors, such as project size, complexity, features, technologies, and more. Crafting a comprehensive social media platform costs around $5,000 to $20,000+. To get an accurate social media app cost estimation, consult with the experts at TechnoYuga.</p>
+                                    <p>The cost of to create social media app based on multiple factors, such as project size, complexity, features, technologies, and more. Crafting a comprehensive social media platform costs around $5,000 to $20,000+. To get an accurate social media app cost estimation, consult with the experts at Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -3044,7 +3044,7 @@
                             <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Don't panic if your budget prevents hiring developers at high social media mobile app development costs. Your rescue may come from TechnoYuga, a leading social media app development company operating for decades. With our adaptable models, everyone can engage developers based on their financial situation. Speak with our professionals right now.</p>
+                                    <p>Don't panic if your budget prevents hiring developers at high social media mobile app development costs. Your rescue may come from Plazmasoft, a leading social media app development company operating for decades. With our adaptable models, everyone can engage developers based on their financial situation. Speak with our professionals right now.</p>
                                 </div>
                             </div>
                         </div>
@@ -3058,7 +3058,7 @@
                             <div id="collapseFaq4" class="accordion-collapse collapse" aria-labelledby="headingFaq4"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>The timeline to develop a social media app varies based on project complexity and other requirements given. On average, it took around 3 to 6 months from inception to launch to build a social media app. For precise social media app development estimates, contact our dedicated developers at TechnoYuga.</p>
+                                    <p>The timeline to develop a social media app varies based on project complexity and other requirements given. On average, it took around 3 to 6 months from inception to launch to build a social media app. For precise social media app development estimates, contact our dedicated developers at Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -3072,7 +3072,7 @@
                             <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>At TechnoYuga, we aim for long-term success and growth. Hence, we will provide continuous support and maintenance services for mobile social media apps after launch. This commitment ensures optimal performance and user satisfaction for social media apps like Instagram. When selecting TechnoYuga, trust in the reliability and excellence of our social media app development services.</p>
+                                    <p>At Plazmasoft, we aim for long-term success and growth. Hence, we will provide continuous support and maintenance services for mobile social media apps after launch. This commitment ensures optimal performance and user satisfaction for social media apps like Instagram. When selecting Plazmasoft, trust in the reliability and excellence of our social media app development services.</p>
                                 </div>
                             </div>
                         </div>
@@ -3080,13 +3080,13 @@
                             <h2 class="accordion-header" id="headingFaq6">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                    Q6. Why Choose TechnoYuga As A Social Media App Development Company?
+                                    Q6. Why Choose Plazmasoft As A Social Media App Development Company?
                                 </button>
                             </h2>
                             <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>TechnoYuga distinguishes itself in on-demand social media app development through its proficiency in crafting innovative, user-friendly interfaces and robust backend systems. Emphasizing customization, security, and scalability, TechnoYuga delivers tailored solutions that meet clients' specific requirements, guaranteeing exceptional user experiences and business expansion.</p>
+                                    <p>Plazmasoft distinguishes itself in on-demand social media app development through its proficiency in crafting innovative, user-friendly interfaces and robust backend systems. Emphasizing customization, security, and scalability, Plazmasoft delivers tailored solutions that meet clients' specific requirements, guaranteeing exceptional user experiences and business expansion.</p>
                                 </div>
                             </div>
                         </div>
@@ -3100,7 +3100,7 @@
                             <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Certainly, you can hire developers on an hourly or part-time basis. TechnoYuga offers flexible hiring models, allowing businesses to enlist developers according to their project's needs and schedules. Reach out to us to explore and select from our adaptable hiring models.</p>
+                                    <p>Certainly, you can hire developers on an hourly or part-time basis. Plazmasoft offers flexible hiring models, allowing businesses to enlist developers according to their project's needs and schedules. Reach out to us to explore and select from our adaptable hiring models.</p>
                                 </div>
                             </div>
                         </div>
@@ -3128,7 +3128,7 @@
                             <div id="collapseFaq9" class="accordion-collapse collapse" aria-labelledby="headingFaq9"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>We prioritize transparency in our dealings. Therefore, we disclose all associated costs upfront whenever we provide a quote for developing a social media app. Rest assured, there will be no hidden charges when choosing TechnoYuga as your social media app development company.</p>
+                                    <p>We prioritize transparency in our dealings. Therefore, we disclose all associated costs upfront whenever we provide a quote for developing a social media app. Rest assured, there will be no hidden charges when choosing Plazmasoft as your social media app development company.</p>
                                 </div>
                             </div>
                         </div>
@@ -3142,7 +3142,7 @@
                             <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Yes, we can! At TechnoYuga, we specialize in building social media applications for businesses of all sizes, regardless of complexity. Don't fret about the deadline. Simply share your social media app development requirements with us. Let our experts analyze them, and we'll provide you with the shortest possible development timeframe.</p>
+                                    <p>Yes, we can! At Plazmasoft, we specialize in building social media applications for businesses of all sizes, regardless of complexity. Don't fret about the deadline. Simply share your social media app development requirements with us. Let our experts analyze them, and we'll provide you with the shortest possible development timeframe.</p>
                                 </div>
                             </div>
                         </div>
@@ -3157,7 +3157,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3372,7 +3372,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

@@ -16,7 +16,7 @@
         <h1 class="vs-section-title vs-title-border">Hire React JS</h1>
         <h2 class="vs-section-subtitle">Developers</h2>
         <p class="vs-section-description">Get the front-end of your dream project developed by
-            experienced reactjs developers at Technoyuga Pvt. Ltd. We have a team of 15+ reactjs
+            experienced reactjs developers at Plazmasoft Pvt. Ltd. We have a team of 15+ reactjs
             developers with good experience in the technology. They possess the right skills
             required for developing a good software product. As a company we have been working
             on reactjs for around 8 years and you can see the exemplary products developed by us
@@ -230,7 +230,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Expertise in HTML and CSS is required to create responsive and visually appealing user interfaces. Hire ReactJS developers from TechnoYuga, as our experts never lag.
+                                <p class="vs-service-card-description">Expertise in HTML and CSS is required to create responsive and visually appealing user interfaces. Hire ReactJS developers from Plazmasoft, as our experts never lag.
 </p>
                             </a>
                         </div>
@@ -310,7 +310,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="https://technoyuga.com">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="https://plazmasoft.com">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -443,7 +443,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire ReactJS Developers</h2>
-                <p class="vs-section-description w-75 m-auto">At TechnoYuga, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our ReactJS app development solutions, we have kept very flexible models to hire ReactJS developers. Here’s a glimpse.</p>
+                <p class="vs-section-description w-75 m-auto">At Plazmasoft, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our ReactJS app development solutions, we have kept very flexible models to hire ReactJS developers. Here’s a glimpse.</p>
             </div>
             <div class="vs-everyone-content">
                 <div class="row">
@@ -781,7 +781,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Discuss Your ReactJS App Development Idea with Us!</h2>
-                <p class="vs-section-description">Are you planning to build a mobile app using ReactJS? Want to hire dedicated ReactJS developers for your project? Connect with TechnoYuga and let us offer you the best ReactJS development services right away!
+                <p class="vs-section-description">Are you planning to build a mobile app using ReactJS? Want to hire dedicated ReactJS developers for your project? Connect with Plazmasoft and let us offer you the best ReactJS development services right away!
 
 
 
@@ -1029,7 +1029,7 @@
 <div class="container">
     <div class="vs-heading-center">
         <h2 class="vs-section-title vs-title-border">Why You Should Hire React JS Developer From
-            Technoyuga</h2>
+            Plazmasoft</h2>
     </div>
     <div class="vs-why-choose-content">
         <div class="row align-items-center">
@@ -1797,7 +1797,7 @@
                 <h2 class="accordion-header" id="headingFaq2">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
-                        What is technoyuga Risk-Free Trial Plan?
+                        What is plazmasoft Risk-Free Trial Plan?
                     </button>
                 </h2>
                 <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
@@ -1864,7 +1864,7 @@
                 <h2 class="accordion-header" id="headingFaq6">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                        How can I transfer my project to Technoyuga from an existing service provider?
+                        How can I transfer my project to Plazmasoft from an existing service provider?
                     </button>
                 </h2>
                 <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
@@ -1890,7 +1890,7 @@
                     <div class="accordion-body">
                         <p>We are a custom software development company and work as a technology partner for
                             new and established startups to help them develop, manage, maintain and enhance
-                            their mobile apps from time to time. At technoyuga, we provide end-to-end mobile
+                            their mobile apps from time to time. At plazmasoft, we provide end-to-end mobile
                             app development services, which include UI/UX designing, Mobile App Development
                             using React JS, Native iOS Development, etc. Web Application Development, Full
                             Stack Development, React JS Development, Backend Development and Testing
@@ -1937,7 +1937,7 @@
                 <h2 class="accordion-header" id="headingFaq10">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq10" aria-expanded="false" aria-controls="collapseFaq10">
-                        How can I trust Technoyuga with the information I shared?
+                        How can I trust Plazmasoft with the information I shared?
                     </button>
                 </h2>
                 <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
@@ -1976,7 +1976,7 @@
             <div class="vs-looking-hire-content">
                 <div class="vs-heading-center mb-0">
                     <h1 class="vs-section-title">Planning to Hire Dedicated ReactJS App Developers?</h1>
-                    <p class="vs-section-description">TechnoYuga boasts a committed team of ReactJS developers, ready to come to your rescue. Share your requirements for ReactJS app development with us today!</p>
+                    <p class="vs-section-description">Plazmasoft boasts a committed team of ReactJS developers, ready to come to your rescue. Share your requirements for ReactJS app development with us today!</p>
                     <a href="#" class="btn btn-outline-primary">Hire ReactJS Developers</a>
                 </div>
             </div>
@@ -2170,7 +2170,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

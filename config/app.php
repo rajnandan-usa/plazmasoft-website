@@ -33,7 +33,7 @@ return [
     'company_email' => env('COMPANY_EMAIL', 'info@plazmasoft.com'),
     'ps_phone' => env('PS_PHONE', 'info@plazmasoft.com'),
     'ps_whatsapp' => env('PS_WHATSAPP_NUMBER'),
-    'founded_on' => env('FOUNDED_ON', '2022'),
+    'founded_on' => env('FOUNDED_ON', '2021'),
     'ps_address' => env('SUPPORT_ADDRESS','Ara bihar'),
     
     // admin details

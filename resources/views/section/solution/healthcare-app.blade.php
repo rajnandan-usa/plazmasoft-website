@@ -152,7 +152,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Top-Notch Healthcare App Development Services</h2>
-                <p class="vs-section-description">TechnoYuga Healthcare App Development Services are designed to revolutionize delivering healthcare, making it more accessible, efficient, and personalized. Explore our diverse services, each tailored to meet the unique needs of healthcare providers, professionals, and patients.</p>
+                <p class="vs-section-description">Plazmasoft Healthcare App Development Services are designed to revolutionize delivering healthcare, making it more accessible, efficient, and personalized. Explore our diverse services, each tailored to meet the unique needs of healthcare providers, professionals, and patients.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -166,7 +166,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">At TechnoYuga, our expert healthcare app development experts provide tailored guidance on healthcare app strategies integrating with your vision. Book your consultation today.</p>
+                                <p class="vs-service-card-description">At Plazmasoft, our expert healthcare app development experts provide tailored guidance on healthcare app strategies integrating with your vision. Book your consultation today.</p>
                             </a>
                         </div>
                     </div>
@@ -251,7 +251,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Exclusive Features of Healthcare App Development</h2>
                 <p class="vs-section-description">
-                    Discover unparalleled healthcare app development with its exclusive features. Benefit from robust security protocols, seamless integration of health records, real-time patient monitoring, and AI-driven diagnostics. TechnoYuga cutting-edge healthcare app development solutions prioritize user experience, ensuring a streamlined healthcare process.
+                    Discover unparalleled healthcare app development with its exclusive features. Benefit from robust security protocols, seamless integration of health records, real-time patient monitoring, and AI-driven diagnostics. Plazmasoft cutting-edge healthcare app development solutions prioritize user experience, ensuring a streamlined healthcare process.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -713,7 +713,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Well-developed and feature-rich healthcare and fitness applications promote overall health and wellness, including fitness tracking, nutrition monitoring, and lifestyle management. Feel free to hire dedicated healthcare app developers from TechnoYuga if you want to develop such applications.</p>
+                                <p class="vs-service-card-description">Well-developed and feature-rich healthcare and fitness applications promote overall health and wellness, including fitness tracking, nutrition monitoring, and lifestyle management. Feel free to hire dedicated healthcare app developers from Plazmasoft if you want to develop such applications.</p>
                             </a>
                         </div>
                     </div>
@@ -749,7 +749,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Developing a telemedicine application enables remote consultations between patients and healthcare professionals through video, voice, or chat, facilitating virtual healthcare services. At TechnoYuga, we can offer all types of healthcare app development solutions. Connect now!</p>
+                                <p class="vs-service-card-description">Developing a telemedicine application enables remote consultations between patients and healthcare professionals through video, voice, or chat, facilitating virtual healthcare services. At Plazmasoft, we can offer all types of healthcare app development solutions. Connect now!</p>
                             </a>
                         </div>
                     </div>
@@ -767,7 +767,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Are you planning to develop a healthcare app that supports diagnostic processes, enabling the viewing and analysis of medical images, such as X-rays, MRIs, and CT scans? You can seek diagnostic and imaging app development solutions from TechnoYuga and leave the rest to our professionals.</p>
+                                <p class="vs-service-card-description">Are you planning to develop a healthcare app that supports diagnostic processes, enabling the viewing and analysis of medical images, such as X-rays, MRIs, and CT scans? You can seek diagnostic and imaging app development solutions from Plazmasoft and leave the rest to our professionals.</p>
                             </a>
                         </div>
                     </div>
@@ -2008,7 +2008,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Reasonable Models to Hire Healthcare App Developers</h2>
-                <p class="vs-section-description">Step into the innovative realm of healthcare app development, where we redefine how you choose and engage with your expert team. Discover a variety of models tailored to suit your unique needs, ensuring your journey towards a cutting-edge healthcare app is efficient and cost-effective. Choose TechnoYuga today and get affordable healthcare app development services.</p>
+                <p class="vs-section-description">Step into the innovative realm of healthcare app development, where we redefine how you choose and engage with your expert team. Discover a variety of models tailored to suit your unique needs, ensuring your journey towards a cutting-edge healthcare app is efficient and cost-effective. Choose Plazmasoft today and get affordable healthcare app development services.</p>
             </div>
             <div class="vs-fintech-forward-content">
                 <div class="row">
@@ -2030,7 +2030,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Immerse your project with dedicated expertise by choosing our full-time hiring model. This commitment ensures a constant development flow, fostering a deep understanding of your healthcare app goals. Hire developers full-time for your healthcare app development project from TechnoYuga.</p>
+                                    <p class="vs-fintech-forward-card-description">Immerse your project with dedicated expertise by choosing our full-time hiring model. This commitment ensures a constant development flow, fostering a deep understanding of your healthcare app goals. Hire developers full-time for your healthcare app development project from Plazmasoft.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2043,7 +2043,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">Embody cost-effectiveness and efficiency with our hourly hiring model. Perfect for projects requiring sporadic development or specific task-based assignments, this model allows you to pay for precisely the hours worked. Request a quote to hire developers hourly from TechnoYuga.</p>
+                                    <p class="vs-fintech-forward-card-description">Embody cost-effectiveness and efficiency with our hourly hiring model. Perfect for projects requiring sporadic development or specific task-based assignments, this model allows you to pay for precisely the hours worked. Request a quote to hire developers hourly from Plazmasoft.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2056,7 +2056,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Elevate your project with unwavering focus by opting for our dedicated hiring model. Your assigned healthcare app developers become an extension of your in-house team, fully committed to your project's success. Hire dedicated developers from TechnoYuga and leave your budget concerns aside.</p>
+                                    <p class="vs-fintech-forward-card-description">Elevate your project with unwavering focus by opting for our dedicated hiring model. Your assigned healthcare app developers become an extension of your in-house team, fully committed to your project's success. Hire dedicated developers from Plazmasoft and leave your budget concerns aside.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2076,7 +2076,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -2091,7 +2091,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2099,7 +2099,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -2327,14 +2327,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -2509,7 +2509,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -2562,7 +2562,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -2586,7 +2586,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -2709,10 +2709,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -2758,7 +2758,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -2800,7 +2800,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2881,7 +2881,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2932,7 +2932,7 @@
                         <div id="collapseFaq1" class="accordion-collapse collapse show"
                             aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>An average healthcare app development costs between $5,000 to $25,000 and more, depending on the type of application. It is just a rough estimation of the cost to develop a healthcare app. If you want to get accurate cost estimation, share your project requirements and request a quote from TechnoYuga. </p>
+                                <p>An average healthcare app development costs between $5,000 to $25,000 and more, depending on the type of application. It is just a rough estimation of the cost to develop a healthcare app. If you want to get accurate cost estimation, share your project requirements and request a quote from Plazmasoft. </p>
                             </div>
                         </div>
                     </div>
@@ -2960,7 +2960,7 @@
                         <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Although there is a huge list of the best healthcare app development companies, TechnoYuga outshines all in multiple aspects. Connect with our professionals today to learn more about our healthcare app development services. </p>
+                                <p>Although there is a huge list of the best healthcare app development companies, Plazmasoft outshines all in multiple aspects. Connect with our professionals today to learn more about our healthcare app development services. </p>
                             </div>
                         </div>
                     </div>
@@ -3003,7 +3003,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Discuss Your Healthcare Mobile App Idea with Us!</h2>
-            <p class="vs-section-description">Accelerate your healthcare business journey with a feature-rich mobile app. choose TechnoYuga, a reliable healthcare app development company and leave the rest to our experts.</p>
+            <p class="vs-section-description">Accelerate your healthcare business journey with a feature-rich mobile app. choose Plazmasoft, a reliable healthcare app development company and leave the rest to our experts.</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Talk to Experts</a>
@@ -3218,7 +3218,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

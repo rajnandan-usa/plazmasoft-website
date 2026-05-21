@@ -16,7 +16,7 @@
         <h1 class="vs-section-title vs-title-border">Hire Dedicated</span></h1>
         <h2 class="vs-section-subtitle">Developers</h2>
         <p class="vs-section-description">
-            Are you seeking unparalleled expertise to propel your project forward? Hire dedicated developers from TechnoYuga. We have a pool of talented professionals meticulously hired to suit your unique business requirements. Our skilled professionals bring proficiency, dedication, and innovation to every task, ensuring unparalleled results. With a proven track record of delivering excellence across diverse industries, we tailor solutions to match your project's needs, seamlessly integrating into your team. From web development to app creation, our dedicated developers stand ready to transform your vision into reality. Partner with us today and ensure a better tomorrow!
+            Are you seeking unparalleled expertise to propel your project forward? Hire dedicated developers from Plazmasoft. We have a pool of talented professionals meticulously hired to suit your unique business requirements. Our skilled professionals bring proficiency, dedication, and innovation to every task, ensuring unparalleled results. With a proven track record of delivering excellence across diverse industries, we tailor solutions to match your project's needs, seamlessly integrating into your team. From web development to app creation, our dedicated developers stand ready to transform your vision into reality. Partner with us today and ensure a better tomorrow!
 
         </p>
         <ul class="vs-hire-developer-work-list list-unstyled">
@@ -168,7 +168,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Hire Dedicated Developers for Diverse Business Requirements</h2>
-                <p class="vs-section-description">Whether you are looking forward to hire flutter developers or want React Native app developer’s assistance, we can provide it all. Choose TechnoYuga, a leading mobile app development company, and hire dedicated developers for your diverse project needs and requirements.</p>
+                <p class="vs-section-description">Whether you are looking forward to hire flutter developers or want React Native app developer’s assistance, we can provide it all. Choose Plazmasoft, a leading mobile app development company, and hire dedicated developers for your diverse project needs and requirements.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -398,7 +398,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="https://technoyuga.com">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="https://plazmasoft.com">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -531,7 +531,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Dedicated Developers</h2>
-                <p class="vs-section-description w-75 m-auto">At TechnoYuga, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our on-demand app development solutions, we have kept very flexible models to hire dedicated developers. Here’s a glimpse.</p>
+                <p class="vs-section-description w-75 m-auto">At Plazmasoft, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our on-demand app development solutions, we have kept very flexible models to hire dedicated developers. Here’s a glimpse.</p>
             </div>
             <div class="vs-everyone-content">
                 <div class="row">
@@ -1111,7 +1111,7 @@
 <div class="container">
     <div class="vs-heading-center">
         <h2 class="vs-section-title vs-title-border">Why You Should Hire Dedicated Developer From
-            Technoyuga</h2>
+            Plazmasoft</h2>
     </div>
     <div class="vs-why-choose-content">
         <div class="row align-items-center">
@@ -2861,7 +2861,7 @@
                     <div id="collapseFaq1" class="accordion-collapse collapse show"
                         aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                         <div class="accordion-body">
-                            <p>Our dedicated developers at TechnoYuga specialize in multiple languages, including Python, JavaScript, Java, PHP, and more. Share your project requirements with our dedicated team of developers. We can offer assistance in all. </p>
+                            <p>Our dedicated developers at Plazmasoft specialize in multiple languages, including Python, JavaScript, Java, PHP, and more. Share your project requirements with our dedicated team of developers. We can offer assistance in all. </p>
                         </div>
                     </div>
                 </div>
@@ -2931,7 +2931,7 @@
                     <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                         data-bs-parent="#tyFaq">
                         <div class="accordion-body">
-                            <p>At TechnoYuga, we prioritize data security and confidentiality through robust measures, including non-disclosure agreements (NDAs) and restricted access controls. So, ensure project security while choosing our dedicated developers for hire.</p>
+                            <p>At Plazmasoft, we prioritize data security and confidentiality through robust measures, including non-disclosure agreements (NDAs) and restricted access controls. So, ensure project security while choosing our dedicated developers for hire.</p>
                         </div>
                     </div>
                 </div>
@@ -2939,13 +2939,13 @@
                     <h2 class="accordion-header" id="headingFaq7">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                             data-bs-target="#collapseFaq7" aria-expanded="false" aria-controls="collapseFaq7">
-                            Why Choose TechnoYuga to Hire Dedicated Developers?
+                            Why Choose Plazmasoft to Hire Dedicated Developers?
                         </button>
                     </h2>
                     <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
                         data-bs-parent="#tyFaq">
                         <div class="accordion-body">
-                            <p>At TechnoYuga, we are committed to delivering outstanding mobile app and web development solutions. From simple to complex apps, we can develop it all. What are your project requirements?</p>
+                            <p>At Plazmasoft, we are committed to delivering outstanding mobile app and web development solutions. From simple to complex apps, we can develop it all. What are your project requirements?</p>
                         </div>
                     </div>
                 </div>
@@ -2987,7 +2987,7 @@
                     <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
                         data-bs-parent="#tyFaq">
                         <div class="accordion-body">
-                            <p>Our dedicated developers at TechnoYuga are skilled professionals and committed partners, offering personalized attention, transparent communication, and unwavering dedication to your project's success.</p>
+                            <p>Our dedicated developers at Plazmasoft are skilled professionals and committed partners, offering personalized attention, transparent communication, and unwavering dedication to your project's success.</p>
                         </div>
                     </div>
                 </div>
@@ -3005,7 +3005,7 @@
             <div class="vs-looking-hire-content">
                 <div class="vs-heading-center mb-0">
                     <h1 class="vs-section-title">Planning to Hire Dedicated Developers?</h1>
-                    <p class="vs-section-description">TechnoYuga has a team of dedicated development team who can be your saviour. Drop your requirements now!</p>
+                    <p class="vs-section-description">Plazmasoft has a team of dedicated development team who can be your saviour. Drop your requirements now!</p>
                     <a href="#" class="btn btn-outline-primary">Hire Dedicated Developers</a>
                 </div>
             </div>
@@ -3199,7 +3199,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

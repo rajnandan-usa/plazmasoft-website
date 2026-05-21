@@ -30,7 +30,7 @@
                 <div class="vs-landing-content__inner mb-0">
                     <h1 class="vs-section-title vs-title-border">Android App</h1>
                     <h2 class="vs-section-subtitle">Development</h2>
-                    <p class="vs-section-description">Technoyuga is a top rated android app development company that is helping startups, small businesses and growing enterprises around the world develop in building android apps.</p>
+                    <p class="vs-section-description">Plazmasoft is a top rated android app development company that is helping startups, small businesses and growing enterprises around the world develop in building android apps.</p>
                 </div>
                 <div class="ar-vr-banner--sub-text">
                     <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal"
@@ -49,7 +49,7 @@
       <div class="container">
           <div class="row">
               <div class="col-sm-12">
-                  <p class="text-center big-p">Technoyuga is a top rated android app development company <br />that is helping startups, small businesses and growing enterprises around the world develop in building android apps.</p>
+                  <p class="text-center big-p">Plazmasoft is a top rated android app development company <br />that is helping startups, small businesses and growing enterprises around the world develop in building android apps.</p>
               </div>
           </div>
       </div>
@@ -472,7 +472,7 @@
               <div class="vs-heading-center">
                   <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                   <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                  <p class="vs-section-description">At <a href="../index.html">TechnoYuga</a> we truly believe in the power of domain expertise.
+                  <p class="vs-section-description">At <a href="../index.html">Plazmasoft</a> we truly believe in the power of domain expertise.
                       By choosing a partner with experience in an industry, the product is better, while timelines and
                       cost are kept low. We are experts in:</p>
               </div>
@@ -9297,13 +9297,13 @@
                           <h2 class="accordion-header" id="headingFaq1">
                               <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                   data-bs-target="#collapseFaq1" aria-expanded="true" aria-controls="collapseFaq1">
-                                  What kind of mobile apps does Technoyuga develop?
+                                  What kind of mobile apps does Plazmasoft develop?
                               </button>
                           </h2>
                           <div id="collapseFaq1" class="accordion-collapse collapse show"
                               aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                               <div class="accordion-body">
-                                  <p>Technoyuga specializes in developing a wide range of mobile apps, including but
+                                  <p>Plazmasoft specializes in developing a wide range of mobile apps, including but
                                       not limited to e-commerce, on-demand services, social networking, healthcare,
                                       education, gaming, and more. Our team can tailor-make solutions to suit your
                                       specific business requirements.</p>
@@ -9314,16 +9314,16 @@
                           <h2 class="accordion-header" id="headingFaq2">
                               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                   data-bs-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
-                                  Does Technoyuga offer native mobile app development service?
+                                  Does Plazmasoft offer native mobile app development service?
                               </button>
                           </h2>
                           <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                               data-bs-parent="#tyFaq">
                               <div class="accordion-body">
-                                  <p>Yes. At TechnoYuga we have developers experts with native mobile app development
+                                  <p>Yes. At Plazmasoft we have developers experts with native mobile app development
                                       for iOs and Android phones using Xcode and Android Studio. We also develop
                                       mobile apps using hybrid app development technologies like flutter and
-                                      react-native. At TechnoYuga we give you fast and cost effective solutions.</p>
+                                      react-native. At Plazmasoft we give you fast and cost effective solutions.</p>
                               </div>
                           </div>
                       </div>
@@ -9340,7 +9340,7 @@
                                   <p>Cost of developing a mobile app completely depends upon the varying factors like
                                       complexity of the app, technology used to develop it, skill set of the
                                       developers etc. If you are looking to have your mobile app built you can contact
-                                      us now. At TechnoYuga, we offer quality and cost effective mobile app
+                                      us now. At Plazmasoft, we offer quality and cost effective mobile app
                                       development service.</p>
                               </div>
                           </div>

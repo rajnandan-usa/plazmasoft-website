@@ -59,7 +59,7 @@
                         <p>React Native framework allows us to create native apps and doesn't compromise on UX (user
                             experience).It offers a core set of native components like View, Text, and Image that map
                             directly to the platform’s native UI building blocks.</p>
-                        <p>At TechnoYuga we have a team of React Native developers who have been building React apps since
+                        <p>At Plazmasoft we have a team of React Native developers who have been building React apps since
                             it was in beta. We have seen the evolution of React Native and built some of the great React
                             Native apps.</p>
                     </div>
@@ -339,7 +339,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="../index.html">TechnoYuga</a> we truly believe in the power
+                <p class="vs-section-description">At <a href="../index.html">Plazmasoft</a> we truly believe in the power
                     of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
@@ -1573,13 +1573,13 @@
                         <h2 class="accordion-header" id="headingFaq1">
                             <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFaq1" aria-expanded="true" aria-controls="collapseFaq1">
-                                What kind of mobile apps does Technoyuga develop?
+                                What kind of mobile apps does Plazmasoft develop?
                             </button>
                         </h2>
                         <div id="collapseFaq1" class="accordion-collapse collapse show" aria-labelledby="headingFaq1"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Technoyuga specializes in developing a wide range of mobile apps, including but
+                                <p>Plazmasoft specializes in developing a wide range of mobile apps, including but
                                     not limited to e-commerce, on-demand services, social networking, healthcare,
                                     education, gaming, and more. Our team can tailor-make solutions to suit your
                                     specific business requirements.</p>
@@ -1590,16 +1590,16 @@
                         <h2 class="accordion-header" id="headingFaq2">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
-                                Does Technoyuga offer native mobile app development service?
+                                Does Plazmasoft offer native mobile app development service?
                             </button>
                         </h2>
                         <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Yes. At TechnoYuga we have developers experts with native mobile app development
+                                <p>Yes. At Plazmasoft we have developers experts with native mobile app development
                                     for iOs and Android phones using Xcode and Android Studio. We also develop
                                     mobile apps using hybrid app development technologies like flutter and
-                                    react-native. At TechnoYuga we give you fast and cost effective solutions.</p>
+                                    react-native. At Plazmasoft we give you fast and cost effective solutions.</p>
                             </div>
                         </div>
                     </div>
@@ -1616,7 +1616,7 @@
                                 <p>Cost of developing a mobile app completely depends upon the varying factors like
                                     complexity of the app, technology used to develop it, skill set of the
                                     developers etc. If you are looking to have your mobile app built you can contact
-                                    us now. At TechnoYuga, we offer quality and cost effective mobile app
+                                    us now. At Plazmasoft, we offer quality and cost effective mobile app
                                     development service.</p>
                             </div>
                         </div>
@@ -2023,7 +2023,7 @@
                                                               </div>
                                                           </div>
                                                           <div class="vs-testimonial-description">
-                                                              <p>TechnoYuga and Krishna did an AWESOME Job on our two
+                                                              <p>Plazmasoft and Krishna did an AWESOME Job on our two
                                                                   projects Bubble Battle and
                                                                   Topline in last 2 years and we are very happy with the
                                                                   end results. They
@@ -2054,7 +2054,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react
@@ -2212,13 +2212,13 @@
                                                           <div class="vs-testimonial-description">
                                                               <p>As a finance consultant based out of Germany, I acquired
                                                                   the support of
-                                                                  Technoyuga developing a financial services app. Krishna
+                                                                  Plazmasoft developing a financial services app. Krishna
                                                                   and his team were able
                                                                   to convert my vision into an easy to use app well within
                                                                   the agreed deadline.
                                                                   Now they are supporting me in marketing and social media
                                                                   efforts. I can
-                                                                  recommend Krishna and Technoyuga to any business needing
+                                                                  recommend Krishna and Plazmasoft to any business needing
                                                                   IT support.</p>
                                                           </div>
                                                       </div>
@@ -2274,7 +2274,7 @@
                                                               </div>
                                                           </div>
                                                           <div class="vs-testimonial-description">
-                                                              <p>TechnoYuga and Krishna did an AWESOME Job on our two
+                                                              <p>Plazmasoft and Krishna did an AWESOME Job on our two
                                                                   projects Bubble Battle and
                                                                   Topline in last 2 years and we are very happy with the
                                                                   end results. They

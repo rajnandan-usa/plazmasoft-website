@@ -17,7 +17,7 @@
                         <div class="vs-landing-content__inner">
     <h1 class="vs-section-title vs-title-border">Taxi Booking</span></h1>
     <h2 class="vs-section-subtitle">App Development Company</h2>
-    <p class="vs-section-description">Are you looking for top-notch taxi booking app development services? TechnoYuga is just a click away! We are a well-known taxi booking app development company with years of experience; we offer a wide range of taxi booking app solutions. Feel free to share your project requirements with our dedicated taxi booking app developers today!</p>
+    <p class="vs-section-description">Are you looking for top-notch taxi booking app development services? Plazmasoft is just a click away! We are a well-known taxi booking app development company with years of experience; we offer a wide range of taxi booking app solutions. Feel free to share your project requirements with our dedicated taxi booking app developers today!</p>
 </div>
 
                 </div>
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Avail the Best Taxi Booking App Development Services</h2>
-                <p class="vs-section-description">At TechnoYuga, our team recognizes the significance of an easy-to-use taxi booking application. Counted among the premium online taxi booking <a href="https://technoyuga.com/services/mobile-app-development">app development services</a>, our dedicated developers prioritize passenger convenience and streamline operations for taxi businesses.</p>
+                <p class="vs-section-description">At Plazmasoft, our team recognizes the significance of an easy-to-use taxi booking application. Counted among the premium online taxi booking <a href="https://plazmasoft.com/services/mobile-app-development">app development services</a>, our dedicated developers prioritize passenger convenience and streamline operations for taxi businesses.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -166,7 +166,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Do you have any idea to start an online taxi booking business? Need professional assistance. Seek taxi booking app consulting services from TechnoYuga and let our professional guide you through the process to develop a popular taxi booking app like Uber and Ola.</p>
+                                <p class="vs-service-card-description">Do you have any idea to start an online taxi booking business? Need professional assistance. Seek taxi booking app consulting services from Plazmasoft and let our professional guide you through the process to develop a popular taxi booking app like Uber and Ola.</p>
                             </a>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">At TechnoYuga, we truly understand that every taxi business is unique. That's why we offer custom taxi booking app development services matching all-scale business requirements. So, if you are looking for custom taxi booking app development services, we are just a tap away.</p>
+                                <p class="vs-service-card-description">At Plazmasoft, we truly understand that every taxi business is unique. That's why we offer custom taxi booking app development services matching all-scale business requirements. So, if you are looking for custom taxi booking app development services, we are just a tap away.</p>
                             </a>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">UX/UI design plays a crucial role in the success of a taxi booking mobile app. At TechnoYuga, we understand this well, and hence, our creative designers create intuitive and visually appealing interfaces that enhance user engagement and satisfaction.</p>
+                                <p class="vs-service-card-description">UX/UI design plays a crucial role in the success of a taxi booking mobile app. At Plazmasoft, we understand this well, and hence, our creative designers create intuitive and visually appealing interfaces that enhance user engagement and satisfaction.</p>
                             </a>
                         </div>
                     </div>
@@ -221,7 +221,7 @@
                                         <img src="{{asset('web-assets/images/taxi-icon-alt.svg')}}" alt="wallet-app" class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Looking for skilled developers to bring your taxi booking <a href="https://technoyuga.com/services/mobile-app-development" > mobile app development </a> idea to life? Our taxi booking app development team comprises dedicated developers with expertise in mobile app development, backend systems, and database management. Hire taxi app developers now.</p>
+                                <p class="vs-service-card-description">Looking for skilled developers to bring your taxi booking <a href="https://plazmasoft.com/services/mobile-app-development" > mobile app development </a> idea to life? Our taxi booking app development team comprises dedicated developers with expertise in mobile app development, backend systems, and database management. Hire taxi app developers now.</p>
                             <!-- </a> -->
                         </div>
                     </div>
@@ -235,7 +235,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">With our comprehensive <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a>, you can keep your app running smoothly and efficiently. From bug fixes to feature enhancements, we handle all aspects of app maintenance so you can focus on growing your business.</p>
+                                <p class="vs-service-card-description">With our comprehensive <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a>, you can keep your app running smoothly and efficiently. From bug fixes to feature enhancements, we handle all aspects of app maintenance so you can focus on growing your business.</p>
                             <!-- </a> -->
                         </div>
                     </div>
@@ -251,7 +251,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Must-Have Features of Taxi Booking App Development</h2>
                 <p class="vs-section-description">
-                    Are you planning to develop a successful taxi booking app that could take your business to the heights? At TechnoYuga, we ensure to integrate the best features that could make your business app unique. Here is a quick glimpse of the key features of taxi booking app for different panels.
+                    Are you planning to develop a successful taxi booking app that could take your business to the heights? At Plazmasoft, we ensure to integrate the best features that could make your business app unique. Here is a quick glimpse of the key features of taxi booking app for different panels.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -795,7 +795,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Extensive Range of Taxi Booking App Development Solutions</h2>
                 <p class="vs-section-description">
-                    Whether you are planning to develop a ride hailing application or want to develop an on-demand taxi courier service app, TechnoYuga can create it all. We offer an extensive range of on-demand taxi booking app development solutions, catering to all-scale businesses needs and demands. Take a look at our exclusive range of taxi booking app development solutions.
+                    Whether you are planning to develop a ride hailing application or want to develop an on-demand taxi courier service app, Plazmasoft can create it all. We offer an extensive range of on-demand taxi booking app development solutions, catering to all-scale businesses needs and demands. Take a look at our exclusive range of taxi booking app development solutions.
                 </p>
             </div>
             <div class="vs-service-content mb-0">
@@ -922,7 +922,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">Uber</h3>
-                                <p class="vs-famous-fantasy-description">Uber is one of the most widely recognized taxi booking apps globally. It allows users to book rides conveniently, track their driver's location, and pay seamlessly via an app. Build an app like Uber with TechnoYuga.</p>
+                                <p class="vs-famous-fantasy-description">Uber is one of the most widely recognized taxi booking apps globally. It allows users to book rides conveniently, track their driver's location, and pay seamlessly via an app. Build an app like Uber with Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -955,7 +955,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">Ola</h3>
-                                <p class="vs-famous-fantasy-description">Ola is a popular taxi booking app in India. It provides services similar to Uber and has gained significant popularity in the Indian market. At TechnoYuga, our dedicated developers can build a taxi booking app like Ola.</p>
+                                <p class="vs-famous-fantasy-description">Ola is a popular taxi booking app in India. It provides services similar to Uber and has gained significant popularity in the Indian market. At Plazmasoft, our dedicated developers can build a taxi booking app like Ola.</p>
                             </div>
                         </div>
                     </div>
@@ -2411,7 +2411,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                    <p class="vs-fintech-forward-card-description">At TechnoYuga, we offer the flexibility to improve your taxi booking business operations by hiring dedicated developers on a part-time basis. With the right talent, our team of taxi booking app development professionals can bring their expertise to your projects.</p>
+                                    <p class="vs-fintech-forward-card-description">At Plazmasoft, we offer the flexibility to improve your taxi booking business operations by hiring dedicated developers on a part-time basis. With the right talent, our team of taxi booking app development professionals can bring their expertise to your projects.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2424,7 +2424,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Boost the success of your online taxi booking business when you hire developers full-time. Selecting full-time TechnoYuga taxi booking app developers gives you access to a group of skilled people who are committed to helping you reach your objectives.</p>
+                                    <p class="vs-fintech-forward-card-description">Boost the success of your online taxi booking business when you hire developers full-time. Selecting full-time Plazmasoft taxi booking app developers gives you access to a group of skilled people who are committed to helping you reach your objectives.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2437,7 +2437,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">For businesses with low budgets, TechnoYuga offers hourly hiring options that let you maximize expenses and resources. Our knowledgeable experts are available on an hourly basis, so you only pay for the actual work that needs to be done.</p>
+                                    <p class="vs-fintech-forward-card-description">For businesses with low budgets, Plazmasoft offers hourly hiring options that let you maximize expenses and resources. Our knowledgeable experts are available on an hourly basis, so you only pay for the actual work that needs to be done.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2450,7 +2450,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Achieve top-tier business performance by engaging dedicated developers for your taxi booking app. Our experts at TechnoYuga are fully devoted to your project. We always guarantee a seamless process throughout the app's creation. Get in touch with us today to experience excellence.</p>
+                                    <p class="vs-fintech-forward-card-description">Achieve top-tier business performance by engaging dedicated developers for your taxi booking app. Our experts at Plazmasoft are fully devoted to your project. We always guarantee a seamless process throughout the app's creation. Get in touch with us today to experience excellence.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2470,7 +2470,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -2485,7 +2485,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2493,7 +2493,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -2721,14 +2721,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -2903,7 +2903,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -2956,7 +2956,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -2980,7 +2980,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -3103,10 +3103,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -3152,7 +3152,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -3194,7 +3194,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -3275,7 +3275,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -3338,7 +3338,7 @@
                         <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>At TechnoYuga, Our on-demand taxi booking app development team combines technical expertise with a deep understanding of user needs and market trends to deliver innovative and user-friendly taxi booking solutions. Feel free to share your project requirements with us.</p>
+                                <p>At Plazmasoft, Our on-demand taxi booking app development team combines technical expertise with a deep understanding of user needs and market trends to deliver innovative and user-friendly taxi booking solutions. Feel free to share your project requirements with us.</p>
                             </div>
                         </div>
                     </div>
@@ -3366,7 +3366,7 @@
                         <div id="collapseFaq4" class="accordion-collapse collapse" aria-labelledby="headingFaq4"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Absolutely! At TechnoYuga, we believe in long-term business success. Therefore, we offer comprehensive mobile app support and maintenance services post-launch to ensure your app runs smoothly and efficiently. So, add more worth and lifetime to your taxi booking app while choosing our taxi booking app development company.</p>
+                                <p>Absolutely! At Plazmasoft, we believe in long-term business success. Therefore, we offer comprehensive mobile app support and maintenance services post-launch to ensure your app runs smoothly and efficiently. So, add more worth and lifetime to your taxi booking app while choosing our taxi booking app development company.</p>
                             </div>
                         </div>
                     </div>
@@ -3388,13 +3388,13 @@
                         <h2 class="accordion-header" id="headingFaq6">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                Why is TechnoYuga the Best for Taxi Booking App Development?
+                                Why is Plazmasoft the Best for Taxi Booking App Development?
                             </button>
                         </h2>
                         <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>For decades, TechnoYuga has been delivering exceptional website development and mobile app development services to all-scale businesses worldwide. With a proven track record of delivering outstanding business applications, we have gained the trust of thousands of clients. You can be the next one! So, be ready to discuss your taxi booking app development idea.</p>
+                                <p>For decades, Plazmasoft has been delivering exceptional website development and mobile app development services to all-scale businesses worldwide. With a proven track record of delivering outstanding business applications, we have gained the trust of thousands of clients. You can be the next one! So, be ready to discuss your taxi booking app development idea.</p>
                             </div>
                         </div>
                     </div>
@@ -3465,7 +3465,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Drop Your Taxi booking App Development Idea with Us!</h2>
-            <p class="vs-section-description">Got some amazing ideas to bring your taxi business online? Seek the industry-best taxi booking mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+            <p class="vs-section-description">Got some amazing ideas to bring your taxi business online? Seek the industry-best taxi booking mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3680,7 +3680,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

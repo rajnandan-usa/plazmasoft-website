@@ -17,7 +17,7 @@
         <h2 class="vs-section-subtitle">Developers</h2>
         <p class="vs-section-description">You are at the right place if you are looking for some
             full stack developers to develop your dream project or enterprise application. At
-            technoyuga you get to have full stack developers having the right mixture of skill,
+            plazmasoft you get to have full stack developers having the right mixture of skill,
             talent and experience at an economical cost with a convenient hiring process.</p>
         <ul class="vs-hire-developer-work-list list-unstyled">
             <li class="vs-hire-developer-work-item">Full stack Web Development</li>
@@ -170,7 +170,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Top Expertise of Our Full Stack Developers</h2>
-                <p class="vs-section-description">TechnoYuga, full stack developers are professionals and have expertise in both frontend and backend development, which makes them versatile and valuable assets for web and software development projects. Here are some of the top expertise areas of our full-stack developers.
+                <p class="vs-section-description">Plazmasoft, full stack developers are professionals and have expertise in both frontend and backend development, which makes them versatile and valuable assets for web and software development projects. Here are some of the top expertise areas of our full-stack developers.
 </p>
             </div>
             <div class="vs-service-content mb-0">
@@ -307,7 +307,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="https://technoyuga.com">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="https://plazmasoft.com">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -440,7 +440,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Full stack Developers</h2>
-                <p class="vs-section-description w-75 m-auto">At TechnoYuga, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our Full stack app development solutions, we have kept very flexible models to hire Full stack developers. Here’s a glimpse.
+                <p class="vs-section-description w-75 m-auto">At Plazmasoft, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our Full stack app development solutions, we have kept very flexible models to hire Full stack developers. Here’s a glimpse.
 </p>
             </div>
             <div class="vs-everyone-content">
@@ -1024,7 +1024,7 @@
 <div class="container">
     <div class="vs-heading-center">
         <h2 class="vs-section-title vs-title-border">Why You Should Hire Full Stack Developer From
-            Technoyuga</h2>
+            Plazmasoft</h2>
     </div>
     <div class="vs-why-choose-content">
         <div class="row align-items-center">
@@ -1795,7 +1795,7 @@
                 <h2 class="accordion-header" id="headingFaq2">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
-                        What is technoyuga Risk-Free Trial Plan?
+                        What is plazmasoft Risk-Free Trial Plan?
                     </button>
                 </h2>
                 <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
@@ -1862,7 +1862,7 @@
                 <h2 class="accordion-header" id="headingFaq6">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                        How can I transfer my project to Technoyuga from an existing service provider?
+                        How can I transfer my project to Plazmasoft from an existing service provider?
                     </button>
                 </h2>
                 <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
@@ -1888,7 +1888,7 @@
                     <div class="accordion-body">
                         <p>We are a custom software development company and work as a technology partner for
                             new and established startups to help them develop, manage, maintain and enhance
-                            their mobile apps from time to time. At technoyuga, we provide end-to-end mobile
+                            their mobile apps from time to time. At plazmasoft, we provide end-to-end mobile
                             app development services, which include UI/UX designing, Mobile App Development
                             using Full Stack, Native iOS Development, etc. Web Application Development, Full
                             Stack Development, Full Stack Development, Backend Development and Testing
@@ -1935,7 +1935,7 @@
                 <h2 class="accordion-header" id="headingFaq10">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq10" aria-expanded="false" aria-controls="collapseFaq10">
-                        How can I trust Technoyuga with the information I shared?
+                        How can I trust Plazmasoft with the information I shared?
                     </button>
                 </h2>
                 <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
@@ -1974,7 +1974,7 @@
             <div class="vs-looking-hire-content">
                 <div class="vs-heading-center mb-0">
                     <h1 class="vs-section-title">Want to Hire Dedicated Full stack Developers?</h1>
-                    <p class="vs-section-description">TechnoYuga, a leading full stack development company has a dedicated team of full stack developers for hire. Feel free to contact our experts and get outstanding solutions.</p>
+                    <p class="vs-section-description">Plazmasoft, a leading full stack development company has a dedicated team of full stack developers for hire. Feel free to contact our experts and get outstanding solutions.</p>
                     <a href="#" class="btn btn-outline-primary">Hire Full Stack Developers</a>
                 </div>
             </div>
@@ -2169,7 +2169,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

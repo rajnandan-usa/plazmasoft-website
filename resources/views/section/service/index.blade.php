@@ -21,8 +21,8 @@
                 <div class="row">
                     <div class="col col-12 col-md-12 col-lg-6">
                         <div class="vs-landing-content__inner mb-0">
-                            <h1 class="vs-section-title vs-title-border">Cutting-Edge Mobile App Development Services with Technoyuga.</h1>
-                            <p class="vs-section-description">Welcome to <a href="../index.html">Technoyuga</a>! We are a trailblazing mobile app development company. With our team experts in trending native and hybrid mobile app development technologies, we have help over hundred companies in transforming their businesses. We worked with startups to transform their magnificant startup idea into a market ready product, assidting mid size businesses in maintaninng and scaling up their businesses in this time of high competition. we can help you too in builing your own mobile app . Click the button below to get in touch with us.</p>
+                            <h1 class="vs-section-title vs-title-border">Cutting-Edge Mobile App Development Services with Plazmasoft.</h1>
+                            <p class="vs-section-description">Welcome to <a href="../index.html">Plazmasoft</a>! We are a trailblazing mobile app development company. With our team experts in trending native and hybrid mobile app development technologies, we have help over hundred companies in transforming their businesses. We worked with startups to transform their magnificant startup idea into a market ready product, assidting mid size businesses in maintaninng and scaling up their businesses in this time of high competition. we can help you too in builing your own mobile app . Click the button below to get in touch with us.</p>
                             <div class="vs-landing-btn">
                                 <a href="javascript:void(0)" class="btn btn-primary" data-bs-toggle="modal"
                                     data-bs-target="#requestProposalModal">Get a Free Quote Today!</a>
@@ -228,7 +228,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Reasonable Mobile App Development Models</h2>
-                <p class="vs-section-description w-75 m-auto">At <a href="../index.html">TechnoYuga</a>, we focus on delivering affordable
+                <p class="vs-section-description w-75 m-auto">At <a href="../index.html">Plazmasoft</a>, we focus on delivering affordable
                     mobile app development solutions. Seek the best mobile app development services from us without
                     putting more strain on your pocket. </p>
             </div>
@@ -543,7 +543,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="../index.html">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="../index.html">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -681,7 +681,7 @@
                     <div class="vs-why-choose-content__inner">
                         <div class="vs-why-choose-description">
                             <p>
-                                TechnoYuga excels in mobile app development services. We possess expertise in cutting-edge technologies, seamless user experience design, efficient project management, and a track record of delivering high-quality, tailored mobile app development solutions. Our commitment to meeting client requirements, timely delivery, and cost-effective solutions sets us apart in this competitive mobile app development industry. Choose us for a top-notch app development experience aligning with your business goals and vision.
+                                Plazmasoft excels in mobile app development services. We possess expertise in cutting-edge technologies, seamless user experience design, efficient project management, and a track record of delivering high-quality, tailored mobile app development solutions. Our commitment to meeting client requirements, timely delivery, and cost-effective solutions sets us apart in this competitive mobile app development industry. Choose us for a top-notch app development experience aligning with your business goals and vision.
                             </p>
                             <p>We add the following features that make it easy for turning your dream project
                                 into a reality.</p>
@@ -711,7 +711,7 @@
                             <div class="vs-why-choose-card-item">
                                 <div class="vs-why-choose-card">
                                     <h3 class="vs-why-choose-card-title">Source-Code Authorization:</h3>
-                                    <p class="vs-why-choose-card-desription">At TechnoYuga, we provide complete authority of the code. Also, the source code is updated timely on your server and code repository. So, you will be the sole owner of the source code.</p>
+                                    <p class="vs-why-choose-card-desription">At Plazmasoft, we provide complete authority of the code. Also, the source code is updated timely on your server and code repository. So, you will be the sole owner of the source code.</p>
                                 </div>
                             </div>
                             <div class="vs-why-choose-card-item">
@@ -754,7 +754,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Share Your Mobile App Idea Project with Us!</h2>
                 <p class="vs-section-description">Searching for a reliable mobile app development company that can
-                    convert your mobile application idea into reality? TechnoYuga can be your one-stop destination.
+                    convert your mobile application idea into reality? Plazmasoft can be your one-stop destination.
                     We have a team of dedicated mobile app developers who can be your perfect saviour! Drop your
                     idea now!</p>
             </div>
@@ -797,7 +797,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="mobile-app-development.html">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="mobile-app-development.html">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -9080,7 +9080,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -9104,7 +9104,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -9227,10 +9227,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -9284,7 +9284,7 @@
                                 </div> -->
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -9478,7 +9478,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    TechnoYuga is recognized as a top mobile app development company known for its quality, innovation, and customer satisfaction. However, "best" may vary based on specific project requirements and preferences. Share your requirements with us today.
+                                    Plazmasoft is recognized as a top mobile app development company known for its quality, innovation, and customer satisfaction. However, "best" may vary based on specific project requirements and preferences. Share your requirements with us today.
                                 </p>
                             </div>
                         </div>
@@ -9510,7 +9510,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    To hire the best mobile app developers, consider their experience, portfolio, expertise in relevant technologies, communication skills, and client reviews. Conduct interviews and assess their problem-solving abilities. At TechnoYuga, we have the best team of dedicated developers for hire. Feel free to connect with us at any hour of the day.
+                                    To hire the best mobile app developers, consider their experience, portfolio, expertise in relevant technologies, communication skills, and client reviews. Conduct interviews and assess their problem-solving abilities. At Plazmasoft, we have the best team of dedicated developers for hire. Feel free to connect with us at any hour of the day.
                                 </p>
                             </div>
                         </div>
@@ -9575,7 +9575,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    There is no fixed timing for mobile app development as the cost completely depends on the project requirements given. Still, if you want to know the exact time required to develop a mobile app, it is advisable to connect with TechnoYuga. Our professional will access your mobile app requirements and provide you with the time estimation accordingly.
+                                    There is no fixed timing for mobile app development as the cost completely depends on the project requirements given. Still, if you want to know the exact time required to develop a mobile app, it is advisable to connect with Plazmasoft. Our professional will access your mobile app requirements and provide you with the time estimation accordingly.
                                 </p>
                             </div>
                         </div>
@@ -9591,7 +9591,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                   At TechnoYuga, we follow industry best practices for mobile app security. We can also implement data encryption, authentication, and secure coding techniques to ensure mobile app safety and privacy. Apart from this, we always sign an NDA before developing a mobile app.
+                                   At Plazmasoft, we follow industry best practices for mobile app security. We can also implement data encryption, authentication, and secure coding techniques to ensure mobile app safety and privacy. Apart from this, we always sign an NDA before developing a mobile app.
                                 </p>
                             </div>
                         </div>
@@ -9607,7 +9607,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                   TechnoYuga mobile app development expertise, commitment to quality, and customer-centric approach make us stand out in the industry. We have a perfect team of dedicated developers, creative designers, experienced quality analysts, and testers who can help you get a successful mobile app.
+                                   Plazmasoft mobile app development expertise, commitment to quality, and customer-centric approach make us stand out in the industry. We have a perfect team of dedicated developers, creative designers, experienced quality analysts, and testers who can help you get a successful mobile app.
                                 </p>
                             </div>
                         </div>

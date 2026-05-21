@@ -27,7 +27,7 @@
               <h1 class="vs-section-title vs-title-border">AR & VR</h1>
               <h2 class="vs-section-subtitle">Development</h2>
               <p class="vs-section-description">
-                TechnoYuga is a top rated AR & VR development company that is
+                Plazmasoft is a top rated AR & VR development company that is
                 helping startups and enterprises across the globe.
               </p>
             </div>
@@ -114,7 +114,7 @@
             Growth-driven AR/VR Development Services
           </h2>
           <p class="vs-section-description w-100">
-            At <a href="https://technoyuga.com">TechnoYuga</a>, we leverage
+            At <a href="https://plazmasoft.com">Plazmasoft</a>, we leverage
             cutting-edge technology to create immersive and interactive
             business experiences. Our AR/VR app development services focus on
             iterative, data-driven development, continuously optimizing AR/VR
@@ -272,7 +272,7 @@
             Affordable AR/VR App Development Models
           </h2>
           <p class="vs-section-description w-75 m-auto">
-            At TechnoYuga, our commitment is to consistently provide
+            At Plazmasoft, our commitment is to consistently provide
             high-quality development solutions for AR/VR app development. Our
             offerings not only guarantee top-tier results but also deliver
             them at a cost-effective price point. Below, we offer a glimpse of
@@ -584,7 +584,7 @@
             We Provide Outsourced IT Services For All Business
           </h4>
           <p class="vs-section-description">
-            At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+            At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
             believe in the power of domain expertise. By choosing a partner
             with experience in an industry, the product is better, while
             timelines and cost are kept low. We are experts in:
@@ -729,7 +729,7 @@
               <div class="vs-why-choose-content__inner">
                 <div class="vs-why-choose-description">
                   <p>
-                    Get in touch with TechnoYuga for AR/VR development and get
+                    Get in touch with Plazmasoft for AR/VR development and get
                     immersive experiences that captivate and innovate. Our
                     seasoned team is a pioneer in crafting tailored AR/VR
                     solutions, blending creativity with technology. We ensure
@@ -788,7 +788,7 @@
                         Source-Code Authorization:
                       </h3>
                       <p class="vs-why-choose-card-desription">
-                        We at TechnoYuga offer comprehensive code
+                        We at Plazmasoft offer comprehensive code
                         authorization. Additionally, both your server and the
                         code repository regularly update the source code. As a
                         result, the source code will only belong to you.
@@ -865,7 +865,7 @@
           </h2>
           <p class="vs-section-description">
             Are you interested in creating an AR/VR-driven application for
-            your business? Your search ends here with TechnoYuga. We boast a
+            your business? Your search ends here with Plazmasoft. We boast a
             dedicated team of AR/VR app developers available around the clock
             to cater to your needs.
           </p>
@@ -886,7 +886,7 @@
           <p class="vs-section-description">
             At TechoYuga we use the scalable and trending frameworks and
             technologies to
-            <a href="https://technoyuga.com/services/mobile-app-development">
+            <a href="https://plazmasoft.com/services/mobile-app-development">
               build Mobile Apps</a>
             , Backend and Web applications for our clients.
           </p>
@@ -902,7 +902,7 @@
                     <p class="vs-stack-tab-description">
                       We follow the agile methodology and technology framework
                       to
-                      <a href="https://technoyuga.com/services/web-app-development">develop web applications</a>
+                      <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a>
                       that meets your expectations.
                     </p>
                   </div>
@@ -914,8 +914,8 @@
                       Mobile Development Stack
                     </h3>
                     <p class="vs-stack-tab-description">
-                      Technoyuga’s
-                      <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                      Plazmasoft’s
+                      <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                       teams follow the trending tech frameworks for your dream
                       Mobile apps.
                     </p>
@@ -4864,7 +4864,7 @@
                 </div>
                 <div class="vs-testimonial-description">
                   <p>
-                    TechnoYuga and Krishna did an AWESOME Job on our two
+                    Plazmasoft and Krishna did an AWESOME Job on our two
                     projects Bubble Battle and Topline in last 2 years and we
                     are very happy with the end results. They provided
                     exceptional support even after delivery of the project.
@@ -4892,7 +4892,7 @@
                   <p>
                     Thanks Krishna for completing this task in our social
                     networking app. This was my second project with Krishna
-                    and the team Technoyuga, they did a decent job and
+                    and the team Plazmasoft, they did a decent job and
                     delivered the work on time . I'm happy to recommend them
                     for any Web and react native app development work.
                   </p>
@@ -5070,11 +5070,11 @@
                 <div class="vs-testimonial-description">
                   <p>
                     As a finance consultant based out of Germany, I acquired
-                    the support of Technoyuga developing a financial services
+                    the support of Plazmasoft developing a financial services
                     app. Krishna and his team were able to convert my vision
                     into an easy to use app well within the agreed deadline.
                     Now they are supporting me in marketing and social media
-                    efforts. I can recommend Krishna and Technoyuga to any
+                    efforts. I can recommend Krishna and Plazmasoft to any
                     business needing IT support.
                   </p>
                 </div>
@@ -5142,7 +5142,7 @@
                 </div>
                 <div class="vs-testimonial-description">
                   <p>
-                    TechnoYuga and Krishna did an AWESOME Job on our two
+                    Plazmasoft and Krishna did an AWESOME Job on our two
                     projects Bubble Battle and Topline in last 2 years and we
                     are very happy with the end results. They provided
                     exceptional support even after delivery of the project.
@@ -5166,7 +5166,7 @@
         </div>
         <div class="vs-related-service-slider">
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/flutter-app-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/flutter-app-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -5251,7 +5251,7 @@
             </a>
           </div>
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/react-native-app-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/react-native-app-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="80" height="64" viewBox="0 0 80 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -5279,7 +5279,7 @@
             </a>
           </div>
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/mvp-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/mvp-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -5457,7 +5457,7 @@
                 data-bs-parent="#tyFaq">
                 <div class="accordion-body">
                   <p>
-                    Yes, at TechnoYuga, we customize AR/VR experiences to
+                    Yes, at Plazmasoft, we customize AR/VR experiences to
                     align with your unique business needs and objectives. Our
                     team works closely with you to understand your
                     requirements and design solutions that enhance brand
@@ -5515,7 +5515,7 @@
               <h2 class="accordion-header" id="headingFaq6">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                   data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                  Why Should I Choose TechnoYuga for AR/VR Development?
+                  Why Should I Choose Plazmasoft for AR/VR Development?
                 </button>
               </h2>
               <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
@@ -5544,7 +5544,7 @@
                 data-bs-parent="#tyFaq">
                 <div class="accordion-body">
                   <p>
-                    Yes, at TechnoYuga, we specialize in developing
+                    Yes, at Plazmasoft, we specialize in developing
                     tailor-made AR/VR solutions to meet your unique business
                     needs. So, whatever might be your business requirements,
                     just share with us, and let our experts offer you the best
@@ -5568,7 +5568,7 @@
                     competitive pricing and can provide a customized quote.
                     Still, the average cost to develop AR/VR app might lie
                     between $8,000 to $30,000 and more. To get an exact cost
-                    estimation, connect with the professionals of TechnoYuga.
+                    estimation, connect with the professionals of Plazmasoft.
                   </p>
                 </div>
               </div>
@@ -5858,7 +5858,7 @@
                               <p>
                                 Thanks Krishna for completing this task in our
                                 social networking app. This was my second
-                                project with Krishna and the team Technoyuga,
+                                project with Krishna and the team Plazmasoft,
                                 they did a decent job and delivered the work
                                 on time . I'm happy to recommend them for any
                                 Web and react native app development work.

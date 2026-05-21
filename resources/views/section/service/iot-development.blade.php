@@ -28,11 +28,11 @@
               </h1>
               <!-- <h2 class="vs-section-subtitle">Development</h2> -->
               <p class="vs-section-description">
-                TechnoYuga offers comprehensive IoT app development services
+                Plazmasoft offers comprehensive IoT app development services
                 catering to all-scale businesses seeking to harness the power
                 of the Internet of Things. Our expert team specializes in
                 creating custom IoT applications that seamlessly connect
-                devices and collect valuable data. With TechnoYuga, you can
+                devices and collect valuable data. With Plazmasoft, you can
                 unlock the potential of IoT technology to enhance efficiency
                 and drive innovation in your organization.
                 <!-- </p> -->
@@ -59,8 +59,8 @@
         <div class="row">
           <div class="col-sm-12">
             <p class="text-center big-p">
-              Technoyuga is a top rated IoT
-              <a href="https://technoyuga.com/services/mobile-app-development">app development company</a>
+              Plazmasoft is a top rated IoT
+              <a href="https://plazmasoft.com/services/mobile-app-development">app development company</a>
               that is helping startups, small businesses and <br />growing
               enterprises around the world.
             </p>
@@ -131,7 +131,7 @@
           </h2>
           <p class="vs-section-description">
             When it comes to seeking reliable IoT app development services,
-            there is no better destination than TechnoYuga. We have a team of
+            there is no better destination than Plazmasoft. We have a team of
             dedicated IoT app developers who can be your savior. So, let's
             connect and redefine business excellence with our top-notch IoT
             application development services.
@@ -201,7 +201,7 @@
                     </div>
                   </div>
                   <p class="vs-service-card-description">
-                    TechnoYuga's dedicated team develops web apps that enable
+                    Plazmasoft's dedicated team develops web apps that enable
                     users to access and control their IoT devices via a web
                     browser, dashboard, or portal.
                   </p>
@@ -247,7 +247,7 @@
                     </div>
                   </div>
                   <p class="vs-service-card-description">
-                    Hire dedicated IoT app developers from TechnoYuga and say
+                    Hire dedicated IoT app developers from Plazmasoft and say
                     goodbye to all your business worries right away. Choose
                     from our flexible hiring models available.
                   </p>
@@ -713,7 +713,7 @@
             We Provide Outsourced IT Services For All Business
           </h4>
           <p class="vs-section-description">
-            At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+            At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
             believe in the power of domain expertise. By choosing a partner
             with experience in an industry, the product is better, while
             timelines and cost are kept low. We are experts in:
@@ -859,7 +859,7 @@
                 <div class="vs-why-choose-description">
                   <p>
                     Looking for the best IoT development services provider?
-                    There’s no better option than TechnoYuga. We always
+                    There’s no better option than Plazmasoft. We always
                     embrace innovation with precision and deliver the best
                     business outcomes. Our experts craft tailored IoT
                     solutions that enhance efficiency, connectivity, and
@@ -929,7 +929,7 @@
                         Customization and Tailoring:
                       </h3>
                       <p class="vs-why-choose-card-desription">
-                        At TechnoYuga, we understand the unique requirements
+                        At Plazmasoft, we understand the unique requirements
                         of IoT projects and offer tailored solutions. Our
                         developers ensure a customized IoT ecosystem that fits
                         seamlessly into your business processes.
@@ -3823,7 +3823,7 @@
                     collect and exchange data, enabling automated actions and
                     enhanced efficiency. To seek the industry-best IoT
                     development services, connect with the professionals of
-                    TechnoYuga today.
+                    Plazmasoft today.
                   </p>
                 </div>
               </div>
@@ -3921,7 +3921,7 @@
                 data-bs-parent="#tyFaq">
                 <div class="accordion-body">
                   <p>
-                    To get started, reach out to TechnoYuga via our contact
+                    To get started, reach out to Plazmasoft via our contact
                     page or request a consultation. We'll schedule a meeting
                     to discuss your project, goals, and requirements. Our
                     dedicated developers will help you with IoT app
@@ -4000,7 +4000,7 @@
                 <div class="accordion-body">
                   <p>
                     To hire dedicated and experienced IoT app developers, get
-                    in touch with TechnoYuga. Book a consultation with our
+                    in touch with Plazmasoft. Book a consultation with our
                     professional, and they will craft tailor-made IoT app
                     development solutions for you.
                   </p>
@@ -4199,7 +4199,7 @@
           </h2>
           <p class="vs-section-description">
             Want to develop an upgraded IoT-based application for your
-            business? TechnoYuga has got you covered! Let’s turn your business
+            business? Plazmasoft has got you covered! Let’s turn your business
             vision into reality with our exclusive IoT app development
             services!
           </p>
@@ -4435,7 +4435,7 @@
                               <p>
                                 Thanks Krishna for completing this task in our
                                 social networking app. This was my second
-                                project with Krishna and the team Technoyuga,
+                                project with Krishna and the team Plazmasoft,
                                 they did a decent job and delivered the work
                                 on time . I'm happy to recommend them for any
                                 Web and react native app development work.

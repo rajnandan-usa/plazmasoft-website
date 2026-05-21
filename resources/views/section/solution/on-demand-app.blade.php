@@ -16,7 +16,7 @@
                         <div class="vs-landing-content__inner">
     <h1 class="vs-section-title vs-title-border">Best On-demand </span></h1>
     <h2 class="vs-section-subtitle">App Development Company</h2>
-    <p class="vs-section-description">Discover unparalleled on-demand app development solutions tailored to your business needs with TechnoYuga. As a leading B2B on-demand app development service provider, we specialize in crafting cutting-edge, scalable applications that enhance efficiency and user experience. Elevate your operations with our on-demand app development expertise and stay ahead in the dynamic marketplace. Partner with us for innovation and excellence in every digital endeavour.</p>
+    <p class="vs-section-description">Discover unparalleled on-demand app development solutions tailored to your business needs with Plazmasoft. As a leading B2B on-demand app development service provider, we specialize in crafting cutting-edge, scalable applications that enhance efficiency and user experience. Elevate your operations with our on-demand app development expertise and stay ahead in the dynamic marketplace. Partner with us for innovation and excellence in every digital endeavour.</p>
 </div>
 
                 </div>
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Impeccable On-demand App Development Services</h2>
-                <p class="vs-section-description">Experience the industry’s leading on-demand mobile app development services tailored to your business needs. Our expert team ensures cutting-edge solutions, seamless user experiences, and timely delivery. Transform your vision into reality with top-notch development services by TechnoYuga.</p>
+                <p class="vs-section-description">Experience the industry’s leading on-demand mobile app development services tailored to your business needs. Our expert team ensures cutting-edge solutions, seamless user experiences, and timely delivery. Transform your vision into reality with top-notch development services by Plazmasoft.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -221,7 +221,7 @@
                                         <img src="{{asset('web-assets/images/wallet-app.svg')}}" alt="wallet-app" class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Enlist the expertise of our on-demand app developers and watch your ideas come to life. Whether you need a full team or an hourly developer, we provide skilled professionals dedicated to turning your app dreams into reality. Hire dedicated developers from TechnoYuga.</p>
+                                <p class="vs-service-card-description">Enlist the expertise of our on-demand app developers and watch your ideas come to life. Whether you need a full team or an hourly developer, we provide skilled professionals dedicated to turning your app dreams into reality. Hire dedicated developers from Plazmasoft.</p>
                             </a>
                         </div>
                     </div>
@@ -251,7 +251,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">User-friendly Features of On-demand App Development</h2>
                 <p class="vs-section-description">
-                    Do you have an idea for on-demand application development? Want to bring it to real life? TechnoYuga, the best on-demand app development company, can be your saviour. With a proven track record of developing multiple types of applications, we focus on creating user-friendly panels. Here are the different panels of the on-demand app and its exclusive features.
+                    Do you have an idea for on-demand application development? Want to bring it to real life? Plazmasoft, the best on-demand app development company, can be your saviour. With a proven track record of developing multiple types of applications, we focus on creating user-friendly panels. Here are the different panels of the on-demand app and its exclusive features.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -727,7 +727,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Transform your living space with our home services app. Connect with reliable professionals for tasks like cleaning, repairs, and renovations. Effortlessly schedule services and track progress with an on-demand home services app. Connect with TechnoYuga, the best on-demand app development company.</p>
+                                <p class="vs-service-card-description">Transform your living space with our home services app. Connect with reliable professionals for tasks like cleaning, repairs, and renovations. Effortlessly schedule services and track progress with an on-demand home services app. Connect with Plazmasoft, the best on-demand app development company.</p>
                             </a>
                         </div>
                     </div>
@@ -817,7 +817,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">Instacart</h3>
-                                <p class="vs-famous-fantasy-description">Say goodbye to grocery store hassles with Instacart, your ultimate grocery shopping companion. Browse through your favorite stores, select your items, and let a personal shopper take care of the rest. Fresh produce, pantry staples, or gourmet treats – whatever your craving, Instacart delivers it to your doorstep. Develop an on-demand grocery delivery app like Instacart with TechnoYuga.</p>
+                                <p class="vs-famous-fantasy-description">Say goodbye to grocery store hassles with Instacart, your ultimate grocery shopping companion. Browse through your favorite stores, select your items, and let a personal shopper take care of the rest. Fresh produce, pantry staples, or gourmet treats – whatever your craving, Instacart delivers it to your doorstep. Develop an on-demand grocery delivery app like Instacart with Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -828,7 +828,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">DoorDash</h3>
-                                <p class="vs-famous-fantasy-description">Indulge in the culinary wonders of your city with DoorDash, the app that brings your favourite restaurants to you. Explore a world of flavours without leaving your couch, from local gems to national favourites and craving sushi, pizza, or something exotic? DoorDash delivers happiness, one meal at a time. Your taste adventure awaits. Hire on-demand app developers from TechnoYuga.</p>
+                                <p class="vs-famous-fantasy-description">Indulge in the culinary wonders of your city with DoorDash, the app that brings your favourite restaurants to you. Explore a world of flavours without leaving your couch, from local gems to national favourites and craving sushi, pizza, or something exotic? DoorDash delivers happiness, one meal at a time. Your taste adventure awaits. Hire on-demand app developers from Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2900,7 +2900,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Reasonable Models to Hire On-demand App Developers</h2>
-                <p class="vs-section-description">Do you want to hire on-demand app developers but do not have the desired budget? TechnoYuga can resolve all your budget concerns. We have a team of dedicated on-demand app developers willing to work full-time, part-time, and hourly. So, you can seamlessly choose the best-suitable hiring model as per your business needs and kickstart your digital business journey without putting more strain on your pocket.</p>
+                <p class="vs-section-description">Do you want to hire on-demand app developers but do not have the desired budget? Plazmasoft can resolve all your budget concerns. We have a team of dedicated on-demand app developers willing to work full-time, part-time, and hourly. So, you can seamlessly choose the best-suitable hiring model as per your business needs and kickstart your digital business journey without putting more strain on your pocket.</p>
             </div>
             <div class="vs-fintech-forward-content">
                 <div class="row">
@@ -2909,7 +2909,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire On-demand Developers Part-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Looking for flexible on-demand app developers’ support? Our on-demand developers are available part-time to meet your project needs. Get skilled professionals without the long-term commitment, ensuring cost-effective solutions for your business. Hire part-time developers from TechnoYuga.</p>
+                                    <p class="vs-fintech-forward-card-description">Looking for flexible on-demand app developers’ support? Our on-demand developers are available part-time to meet your project needs. Get skilled professionals without the long-term commitment, ensuring cost-effective solutions for your business. Hire part-time developers from Plazmasoft.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2935,7 +2935,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire On-demand Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">Need quick assistance on a project basis? Hire our on-demand developers hourly for efficient solutions. Pay only for the time you need, ensuring cost-effectiveness and flexibility in managing your development requirements. Hire developers hourly from TechnoYuga today!</p>
+                                    <p class="vs-fintech-forward-card-description">Need quick assistance on a project basis? Hire our on-demand developers hourly for efficient solutions. Pay only for the time you need, ensuring cost-effectiveness and flexibility in managing your development requirements. Hire developers hourly from Plazmasoft today!</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2948,7 +2948,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Elevate your project with dedicated developers committed to your success. Experience seamless collaboration, expertise, and focused attention on your goals. Choose dedicated developers to boost productivity and achieve exceptional results. Choose TechnoYuga to hire dedicated developers.</p>
+                                    <p class="vs-fintech-forward-card-description">Elevate your project with dedicated developers committed to your success. Experience seamless collaboration, expertise, and focused attention on your goals. Choose dedicated developers to boost productivity and achieve exceptional results. Choose Plazmasoft to hire dedicated developers.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2968,7 +2968,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -2983,7 +2983,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2991,7 +2991,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -3219,14 +3219,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -3401,7 +3401,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -3454,7 +3454,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -3478,7 +3478,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -3601,10 +3601,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -3650,7 +3650,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -3692,7 +3692,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -3773,7 +3773,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -3822,7 +3822,7 @@
                         <div id="collapseFaq1" class="accordion-collapse collapse show"
                             aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Our on-demand app development process involves thorough planning, design, development, testing, and deployment. At TechnoYuga, we prioritize user-centric design and agile development methodologies to ensure a seamless and efficient user experience. Feel free to seek on-demand app development services from us. </p>
+                                <p>Our on-demand app development process involves thorough planning, design, development, testing, and deployment. At Plazmasoft, we prioritize user-centric design and agile development methodologies to ensure a seamless and efficient user experience. Feel free to seek on-demand app development services from us. </p>
                             </div>
                         </div>
                     </div>
@@ -3893,7 +3893,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Share Your On-demand App Development Idea with Us!</h2>
-            <p class="vs-section-description">Ready to bring your on-demand app development idea to life? Share your vision with TechnoYuga. Let's innovate together and take your business to the heights!</p>
+            <p class="vs-section-description">Ready to bring your on-demand app development idea to life? Share your vision with Plazmasoft. Let's innovate together and take your business to the heights!</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -4108,7 +4108,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

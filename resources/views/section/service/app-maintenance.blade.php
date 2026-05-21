@@ -23,7 +23,7 @@
                         <div class="vs-landing-content__inner">
                             <h1 class="vs-section-title vs-title-border">Mobile App Maintenance
                                 Services.</h1>
-                            <p class="vs-section-description">At Technoyuga, we specialize in maintenaning custom
+                            <p class="vs-section-description">At Plazmasoft, we specialize in maintenaning custom
                                 mobile apps that are tailored to your unique needs and goals. From ideation to
                                 launch, our team of experienced developers will work closely with you to bring your
                                 vision to life.</p>
@@ -85,7 +85,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Top-notch Mobile App Maintenance Services</h2>
-                <p class="vs-section-description"><a href="https://technoyuga.com">TechnoYuga</a> top-tier mobile app maintenance services ensure your business application stays up-to-date, bug-free, and fully optimized, providing seamless user experiences and long-term success. Here's a glimpse of our mobile app maintenance services.</p>
+                <p class="vs-section-description"><a href="https://plazmasoft.com">Plazmasoft</a> top-tier mobile app maintenance services ensure your business application stays up-to-date, bug-free, and fully optimized, providing seamless user experiences and long-term success. Here's a glimpse of our mobile app maintenance services.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -220,7 +220,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Affordable Mobile App Maintenance Models</h2>
-                <p class="vs-section-description w-75 m-auto">TechnoYuga always believes in delivery quality over quantity. Connect with us to seek reliable and affordable MVP development services. </p>
+                <p class="vs-section-description w-75 m-auto">Plazmasoft always believes in delivery quality over quantity. Connect with us to seek reliable and affordable MVP development services. </p>
             </div>
             <div class="vs-everyone-content">
                 <div class="row">
@@ -586,7 +586,7 @@
     <section class="vs-app-technologies-section vs-section-spacer vs-section-background">
         <div class="container">
             <div class="vs-heading-center">
-                <h2 class="vs-section-title vs-title-border">Top Mobile App Technologies at Technoyuga</h2>
+                <h2 class="vs-section-title vs-title-border">Top Mobile App Technologies at Plazmasoft</h2>
             </div>
             <div class="vs-app-technologies-content-area">
                 <div class="row">
@@ -594,7 +594,7 @@
                         <div class="vs-app-technologies-card">
                             <div class="vs-app-technologies-card-head">
                                 <h3 class="vs-app-technologies-title">Hybrid App Development</h3>
-                                <p class="vs-app-technologies-description">At Technoyuga, we excel in creating
+                                <p class="vs-app-technologies-description">At Plazmasoft, we excel in creating
                                     cost-effective mobile applications with a single codebase for iOS, Android, and
                                     more ensures quick-to-market development and seamless integration with
                                     contemporary apps.</p>
@@ -7927,7 +7927,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="https://technoyuga.com">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="https://plazmasoft.com">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -8056,7 +8056,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Discuss Your App Maintenance Requirements Here!</h2>
-                <p class="vs-section-description">Want to get quality mobile app support and maintenance services for your project? Look no further than TechnoYuga assistance. With a team of <a href="https://technoyuga.com/services/mobile-app-development">dedicated mobile app developers</a>, we can offer the best maintenance assistance to all-scale businesses.</p>
+                <p class="vs-section-description">Want to get quality mobile app support and maintenance services for your project? Look no further than Plazmasoft assistance. With a team of <a href="https://plazmasoft.com/services/mobile-app-development">dedicated mobile app developers</a>, we can offer the best maintenance assistance to all-scale businesses.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" class="btn btn-outline-light" data-bs-toggle="modal"
@@ -8119,7 +8119,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -8143,7 +8143,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -8278,10 +8278,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -8329,7 +8329,7 @@
 
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -8356,7 +8356,7 @@
                     <div class="vs-why-choose-content__inner">
                         <div class="vs-why-choose-description">
                             <p>
-                                Get in touch with the professionals of TechnoYuga for MVP development. Our rapid prototyping, cost-efficient solutions, user-centric approach, and emphasis on essential features can help your business grow. We accelerate your product to market, validating the concept and gathering valuable user feedback early on. With a focus on scalability and minimal viable features, we ensure a robust foundation for your future product iterations. Choose us to efficiently launch a successful MVP that aligns with your vision and user needs.
+                                Get in touch with the professionals of Plazmasoft for MVP development. Our rapid prototyping, cost-efficient solutions, user-centric approach, and emphasis on essential features can help your business grow. We accelerate your product to market, validating the concept and gathering valuable user feedback early on. With a focus on scalability and minimal viable features, we ensure a robust foundation for your future product iterations. Choose us to efficiently launch a successful MVP that aligns with your vision and user needs.
                             </p>
                             <p>We add the following features that make it easy for turning your dream project
                                 into a reality.</p>
@@ -8380,7 +8380,7 @@
                             <div class="vs-why-choose-card-item">
                                 <div class="vs-why-choose-card">
                                     <h3 class="vs-why-choose-card-title">Rapid Development and Deployment:</h3>
-                                    <p class="vs-why-choose-card-desription">At TechnoYuga, we emphasize the swift development and deployment of the MVP. Our experts enable you to test your product concept in the market and gather valuable feedback.</p>
+                                    <p class="vs-why-choose-card-desription">At Plazmasoft, we emphasize the swift development and deployment of the MVP. Our experts enable you to test your product concept in the market and gather valuable feedback.</p>
                                 </div>
                             </div>
                             <div class="vs-why-choose-card-item">
@@ -8445,7 +8445,7 @@
                             aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    App maintenance involves regular updates, improvements, bug fixes, and optimizations to ensure an app functions efficiently. A well-maintained app stays up-to-date with evolving technology, user needs, and security requirements. To seek mobile app support and maintenance services, connect with TechnoYuga.
+                                    App maintenance involves regular updates, improvements, bug fixes, and optimizations to ensure an app functions efficiently. A well-maintained app stays up-to-date with evolving technology, user needs, and security requirements. To seek mobile app support and maintenance services, connect with Plazmasoft.
                                 </p>
                             </div>
                         </div>
@@ -8527,7 +8527,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    TechnoYuga is one of the leading mobile app development companies that offer both app development and app maintenance services. We have a team of experts who can help you properly maintain your app while adding more life and worth to your project.
+                                    Plazmasoft is one of the leading mobile app development companies that offer both app development and app maintenance services. We have a team of experts who can help you properly maintain your app while adding more life and worth to your project.
 
 
                                 </p>
@@ -8562,7 +8562,7 @@
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
                                 <p>
-                                    Ensuring the safety and security of your mobile app data during maintenance is a critical concern. TechnoYuga, a reputable mobile app maintenance company, takes various measures to keep your data safe. So, remain sure of your app safety while choosing us as your mobile app support and maintenance services partner.
+                                    Ensuring the safety and security of your mobile app data during maintenance is a critical concern. Plazmasoft, a reputable mobile app maintenance company, takes various measures to keep your data safe. So, remain sure of your app safety while choosing us as your mobile app support and maintenance services partner.
                                 </p>
                             </div>
                         </div>
@@ -8979,7 +8979,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

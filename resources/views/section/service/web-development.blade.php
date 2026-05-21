@@ -28,7 +28,7 @@
                     Web App Development <br />Services
                   </h1>
                   <p class="vs-section-description">
-                    TechnoYuga offers comprehensive web app development
+                    Plazmasoft offers comprehensive web app development
                     services, specializing in creating custom, responsive, and
                     user-friendly web applications. Our expert web app
                     developers leverages the latest technologies to deliver
@@ -102,7 +102,7 @@
             </h2>
             <p class="vs-section-description">
               Get ready to avail expert web
-              <a href="https://technoyuga.com/services/mobile-app-development">app development services</a>
+              <a href="https://plazmasoft.com/services/mobile-app-development">app development services</a>
               to create tailored, efficient, and user-friendly solutions for
               your business needs. Contact us for a competitive edge in the
               digital landscape.
@@ -247,7 +247,7 @@
             </h2>
             <p class="vs-section-description w-75 m-auto">
               Are you looking forward to seek cost-effective web app development
-              services? Look no further than TechnoYuga. We offer reasonable
+              services? Look no further than Plazmasoft. We offer reasonable
               models for web app development. Here are our top models you can
               choose from!
             </p>
@@ -557,7 +557,7 @@
               We Provide Outsourced IT Services For All Business
             </h4>
             <p class="vs-section-description">
-              At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+              At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
               believe in the power of domain expertise. By choosing a partner
               with experience in an industry, the product is better, while
               timelines and cost are kept low. We are experts in:
@@ -761,7 +761,7 @@
                           Technological Proficiency:
                         </h3>
                         <p class="vs-why-choose-card-desription">
-                          At TechnoYuga, our professionals have proficiency in
+                          At Plazmasoft, our professionals have proficiency in
                           using the latest and most relevant technologies. We
                           always ensure that your web app is modern, secure, and
                           efficient.
@@ -839,7 +839,7 @@
             </h2>
             <p class="vs-section-description">
               Do you want to bring your web app development idea to real life?
-              Need professional web app developers’ assistance? TechnoYuga can
+              Need professional web app developers’ assistance? Plazmasoft can
               be your savior. Let’s connect, discuss your project idea with us,
               and watch how we convert a revenue-generating web app for you.
             </p>
@@ -860,7 +860,7 @@
             <p class="vs-section-description">
               At TechoYuga we use the scalable and trending frameworks and
               technologies to
-              <a href="https://technoyuga.com/services/mobile-app-development">
+              <a href="https://plazmasoft.com/services/mobile-app-development">
                 build Mobile Apps</a>
               , Backend and Web applications for our clients.
             </p>
@@ -876,7 +876,7 @@
                       <p class="vs-stack-tab-description">
                         We follow the agile methodology and technology framework
                         to
-                        <a href="https://technoyuga.com/services/web-app-development">develop web applications</a>
+                        <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a>
                         that meets your expectations.
                       </p>
                     </div>
@@ -888,8 +888,8 @@
                         Mobile Development Stack
                       </h3>
                       <p class="vs-stack-tab-description">
-                        Technoyuga’s
-                        <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                        Plazmasoft’s
+                        <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                         teams follow the trending tech frameworks for your dream
                         Mobile apps.
                       </p>
@@ -2611,7 +2611,7 @@
                   </div>
                   <div class="vs-testimonial-description">
                     <p>
-                      TechnoYuga and Krishna did an AWESOME Job on our two
+                      Plazmasoft and Krishna did an AWESOME Job on our two
                       projects Bubble Battle and Topline in last 2 years and we
                       are very happy with the end results. They provided
                       exceptional support even after delivery of the project.
@@ -2639,7 +2639,7 @@
                     <p>
                       Thanks Krishna for completing this task in our social
                       networking app. This was my second project with Krishna
-                      and the team Technoyuga, they did a decent job and
+                      and the team Plazmasoft, they did a decent job and
                       delivered the work on time . I'm happy to recommend them
                       for any Web and react native app development work.
                     </p>
@@ -2809,11 +2809,11 @@
                   <div class="vs-testimonial-description">
                     <p>
                       As a finance consultant based out of Germany, I acquired
-                      the support of Technoyuga developing a financial services
+                      the support of Plazmasoft developing a financial services
                       app. Krishna and his team were able to convert my vision
                       into an easy to use app well within the agreed deadline.
                       Now they are supporting me in marketing and social media
-                      efforts. I can recommend Krishna and Technoyuga to any
+                      efforts. I can recommend Krishna and Plazmasoft to any
                       business needing IT support.
                     </p>
                   </div>
@@ -2865,7 +2865,7 @@
                   </div>
                   <div class="vs-testimonial-description">
                     <p>
-                      TechnoYuga and Krishna did an AWESOME Job on our two
+                      Plazmasoft and Krishna did an AWESOME Job on our two
                       projects Bubble Battle and Topline in last 2 years and we
                       are very happy with the end results. They provided
                       exceptional support even after delivery of the project.
@@ -2886,7 +2886,7 @@
           </div>
           <div class="vs-related-service-slider">
             <div class="vs-related-services-item">
-              <a href="https://technoyuga.com/services/flutter-app-development" style="color: initial">
+              <a href="https://plazmasoft.com/services/flutter-app-development" style="color: initial">
                 <div class="vs-related-card">
                   <div class="vs-related-card-icon">
                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2971,7 +2971,7 @@
               </a>
             </div>
             <div class="vs-related-services-item">
-              <a href="https://technoyuga.com/services/react-native-app-development" style="color: initial">
+              <a href="https://plazmasoft.com/services/react-native-app-development" style="color: initial">
                 <div class="vs-related-card">
                   <div class="vs-related-card-icon">
                     <svg width="80" height="64" viewBox="0 0 80 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -2999,7 +2999,7 @@
               </a>
             </div>
             <div class="vs-related-services-item">
-              <a href="https://technoyuga.com/services/mvp-development" style="color: initial">
+              <a href="https://plazmasoft.com/services/mvp-development" style="color: initial">
                 <div class="vs-related-card">
                   <div class="vs-related-card-icon">
                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -3070,7 +3070,7 @@
                   <div class="accordion-body">
                     <p>
                       Although there is a long list of the best web app
-                      development companies, TechnoYuga outshines all. We are
+                      development companies, Plazmasoft outshines all. We are
                       recognized as a leading web app development company known
                       for expertise, client satisfaction, and delivery of
                       top-notch development solutions. Get in touch with us
@@ -3211,7 +3211,7 @@
                   <div class="accordion-body">
                     <p>
                       Yes, we prioritize data security and confidentiality. At
-                      TechnoYuga, we always sign a non-disclosure agreement to
+                      Plazmasoft, we always sign a non-disclosure agreement to
                       ensure your project's safety. So, remain assured of it.
                     </p>
                   </div>
@@ -3481,7 +3481,7 @@
                                 <p>
                                   Thanks Krishna for completing this task in our
                                   social networking app. This was my second
-                                  project with Krishna and the team Technoyuga,
+                                  project with Krishna and the team Plazmasoft,
                                   they did a decent job and delivered the work
                                   on time . I'm happy to recommend them for any
                                   Web and react native app development work.

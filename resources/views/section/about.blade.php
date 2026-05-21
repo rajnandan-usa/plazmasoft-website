@@ -113,14 +113,10 @@
                         <div class="vs-journey-content__inner">
                             <h2 class="vs-section-title">The Beginning of Our Journey</h2>
                             <p class="vs-section-description">Fueled by a vision to empower small businesses and startups,
-                                {{ config('app.company_name') }} was founded in {{ env('FOUNDED_ON') }} to provide exceptional Web and Mobile
-                                App Development solutions. Within just 20 months, we proudly served over 10+ startups, small
-                                businesses, and organizations, including the European Union. Our dedication earned us
-                                recognition as a Top Rated Mobile App Developer on Upwork, completing 20+ successful
-                                projects with 5-star feedback and a 100% success rate.</p>
-                            <p class="vs-section-description">Starting with a team of just three freelancers, our unwavering
-                                commitment and passion for technology helped us grow rapidly. In less than a year, we built
-                                a strong, skilled team of 20+ technology enthusiasts, and we continue to expand every month.
+                                {{ config('app.company_name') }} was founded in {{ config('app.founded_on') }} by Rajnandan Kushwaha — a full-stack developer from East Champaran, Bihar, India.
+                                Since then we have delivered 18+ projects across fintech, fleet management, agritech, e-commerce, and AI — serving clients from India, the UAE, and beyond.</p>
+                            <p class="vs-section-description">We are a founder-led boutique studio. Every project is handled personally with direct communication, transparent pricing, and no middlemen.
+                                For larger engagements we bring in a trusted network of specialist freelancers — selected per project for the right fit, not the cheapest bid.
                             </p>
                         </div>
 

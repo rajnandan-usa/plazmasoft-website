@@ -27,7 +27,7 @@
                 ChatGpt Development <br />Services
               </h1>
               <p class="vs-section-description">
-                TechnoYuga offers exclusive ChatGPT development services to
+                Plazmasoft offers exclusive ChatGPT development services to
                 help businesses harness the power of this cutting-edge AI
                 model to build engaging conversational experiences. Our team
                 of dedicated developers can help you create custom
@@ -103,8 +103,8 @@
         </h2>
         <p class="vs-section-description">
           Looking for reliable ChatGPT app development services? You are at
-          the right place. TechnoYuga, being a leading
-          <a href="https://technoyuga.com/services/mobile-app-development">mobile app development</a>
+          the right place. Plazmasoft, being a leading
+          <a href="https://plazmasoft.com/services/mobile-app-development">mobile app development</a>
           and web development company can help you develop an app like
           ChatGPT. Feel free to discuss your project idea with us.
         </p>
@@ -236,7 +236,7 @@
           Pocket-Friendly ChatGPT App Development Models
         </h2>
         <p class="vs-section-description w-75 m-auto">
-          At <a href="https://technoyuga.com">TechnoYuga</a>, we believe in
+          At <a href="https://plazmasoft.com">Plazmasoft</a>, we believe in
           delivering upgraded and reasonable mobile app development
           solutions. Get in touch with us to avail reasonable ChatGPT
           development services.
@@ -2369,7 +2369,7 @@
           We Provide Outsourced IT Services For All Business
         </h4>
         <p class="vs-section-description">
-          At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+          At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
           believe in the power of domain expertise. By choosing a partner
           with experience in an industry, the product is better, while
           timelines and cost are kept low. We are experts in:
@@ -2585,7 +2585,7 @@
               </div>
               <div class="vs-testimonial-description">
                 <p>
-                  TechnoYuga and Krishna did an AWESOME Job on our two
+                  Plazmasoft and Krishna did an AWESOME Job on our two
                   projects Bubble Battle and Topline in last 2 years and we
                   are very happy with the end results. They provided
                   exceptional support even after delivery of the project.
@@ -2613,7 +2613,7 @@
                 <p>
                   Thanks Krishna for completing this task in our social
                   networking app. This was my second project with Krishna
-                  and the team Technoyuga, they did a decent job and
+                  and the team Plazmasoft, they did a decent job and
                   delivered the work on time . I'm happy to recommend them
                   for any Web and react native app development work.
                 </p>
@@ -2756,11 +2756,11 @@
               <div class="vs-testimonial-description">
                 <p>
                   As a finance consultant based out of Germany, I acquired
-                  the support of Technoyuga developing a financial services
+                  the support of Plazmasoft developing a financial services
                   app. Krishna and his team were able to convert my vision
                   into an easy to use app well within the agreed deadline.
                   Now they are supporting me in marketing and social media
-                  efforts. I can recommend Krishna and Technoyuga to any
+                  efforts. I can recommend Krishna and Plazmasoft to any
                   business needing IT support.
                 </p>
               </div>
@@ -2814,7 +2814,7 @@
               </div>
               <div class="vs-testimonial-description">
                 <p>
-                  TechnoYuga and Krishna did an AWESOME Job on our two
+                  Plazmasoft and Krishna did an AWESOME Job on our two
                   projects Bubble Battle and Topline in last 2 years and we
                   are very happy with the end results. They provided
                   exceptional support even after delivery of the project.
@@ -2845,7 +2845,7 @@
               <div class="vs-why-choose-description">
                 <p>
                   Looking for ChatGPT development services? Look no further
-                  than TechnoYuga. We have expertise in natural language
+                  than Plazmasoft. We have expertise in natural language
                   processing, robust AI capabilities, seamless integration,
                   and commitment to personalized solutions. We prioritize
                   understanding your unique needs, ensuring our ChatGPT
@@ -2900,7 +2900,7 @@
                       Technological Acumen:
                     </h3>
                     <p class="vs-why-choose-card-desription">
-                      At TechnoYuga, our professionals exhibit a high level
+                      At Plazmasoft, our professionals exhibit a high level
                       of proficiency in employing the latest and most
                       pertinent technologies, ensuring that your ChatGPT app
                       remains modern, secure, and efficient.
@@ -2998,7 +2998,7 @@
                   fine-tuning the model to generate human-like text
                   responses in a chat format. So, if you are looking for
                   ChatGPT development services, look no further than
-                  TechnoYuga.
+                  Plazmasoft.
                 </p>
               </div>
             </div>
@@ -3136,7 +3136,7 @@
                   approach. It can range from free (for simple bots) to
                   thousands of dollars for more advanced projects. To get an
                   accurate ChatGPT app development cost, get in touch with
-                  TechnoYuga today.
+                  Plazmasoft today.
                 </p>
               </div>
             </div>
@@ -3155,7 +3155,7 @@
                 <p>
                   Yes, consider data privacy, compliance with regulations,
                   and ethical use of AI in your ChatGPT development to avoid
-                  legal issues and maintain trust. At TechnoYuga, we always
+                  legal issues and maintain trust. At Plazmasoft, we always
                   take care of data privacy and security while developing
                   any mobile app or website.
                 </p>
@@ -3174,7 +3174,7 @@
               <div class="accordion-body">
                 <p>
                   Although there is a long list of the best ChatGPT app
-                  development companies, TechnoYuga outshines all. We have a
+                  development companies, Plazmasoft outshines all. We have a
                   team of experts who can create an app similar to ChatGPT.
                   Feel free to share your requirements with our experts.
                 </p>
@@ -3586,7 +3586,7 @@
                             <p>
                               Thanks Krishna for completing this task in our
                               social networking app. This was my second
-                              project with Krishna and the team Technoyuga,
+                              project with Krishna and the team Plazmasoft,
                               they did a decent job and delivered the work
                               on time . I'm happy to recommend them for any
                               Web and react native app development work.

@@ -17,7 +17,7 @@
                         <div class="vs-landing-content__inner">
     <h1 class="vs-section-title vs-title-border">Dating App</span></h1>
     <h2 class="vs-section-subtitle">Development Company</h2>
-    <p class="vs-section-description">Are you into the dating industry and want to extend your business to a big level? Avail dating app development services from TechnoYuga and get exclusively developed dating apps like Tinder and Bumble. Choose our dating app development company today and let your business soar to the heights of success where it belongs. Drop your requirements to build a dating app within your budget and remain assured of quality dating app development solutions.</p>
+    <p class="vs-section-description">Are you into the dating industry and want to extend your business to a big level? Avail dating app development services from Plazmasoft and get exclusively developed dating apps like Tinder and Bumble. Choose our dating app development company today and let your business soar to the heights of success where it belongs. Drop your requirements to build a dating app within your budget and remain assured of quality dating app development solutions.</p>
 </div>
 
                 </div>
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Top-Notch Dating App Development Services</h2>
-                <p class="vs-section-description">Do you want to create a successful and popular dating app like Tinder? TechnoYuga is just a call away! Create your dating mobile application with the leading dating <a href="https://technoyuga.com/services/mobile-app-development">app development company</a>. Experience the industry's best online dating app development services backed by cutting-edge and inventive dating app solutions. Elevate your dating platform to the next level with TechnoYuga's exclusive on-demand dating app development services and dedicated developers for hire. Let's take a glimpse!</p>
+                <p class="vs-section-description">Do you want to create a successful and popular dating app like Tinder? Plazmasoft is just a call away! Create your dating mobile application with the leading dating <a href="https://plazmasoft.com/services/mobile-app-development">app development company</a>. Experience the industry's best online dating app development services backed by cutting-edge and inventive dating app solutions. Elevate your dating platform to the next level with Plazmasoft's exclusive on-demand dating app development services and dedicated developers for hire. Let's take a glimpse!</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -166,7 +166,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Do you have an idea for beginning an online dating business? Seek dating app consulting services from TechnoYuga. We have a team of dedicated developers who can develop a dating app that complies with your business needs. Drop your requirements while availing our consultation services.</p>
+                                <p class="vs-service-card-description">Do you have an idea for beginning an online dating business? Seek dating app consulting services from Plazmasoft. We have a team of dedicated developers who can develop a dating app that complies with your business needs. Drop your requirements while availing our consultation services.</p>
                             </a>
                         </div>
                     </div>
@@ -180,7 +180,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">If you want to get tailor-made dating app development solutions, we are just a tap away. Avail custom dating app development services from TechnoYuga and let your dating app users get a personalized experience. Drop your project requirements with us.  </p>
+                                <p class="vs-service-card-description">If you want to get tailor-made dating app development solutions, we are just a tap away. Avail custom dating app development services from Plazmasoft and let your dating app users get a personalized experience. Drop your project requirements with us.  </p>
                             </a>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Let your dating app grab thousands of users' attention in just a glance. Wondering how? Well, seek dating UX/UI designing services from TechnoYuga and let our professionals craft a user-friendly design for your dating apps like Tinder and Bumble. Hire dating app developers.</p>
+                                <p class="vs-service-card-description">Let your dating app grab thousands of users' attention in just a glance. Wondering how? Well, seek dating UX/UI designing services from Plazmasoft and let our professionals craft a user-friendly design for your dating apps like Tinder and Bumble. Hire dating app developers.</p>
                             </a>
                         </div>
                     </div>
@@ -208,7 +208,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Experience seamless connections while availing on-demand dating app development services from TechnoYuga. From customized dating mobile app features to intuitive app interfaces, we bring your dating platform vision to life. Feel free to discuss your idea with us. </p>
+                                <p class="vs-service-card-description">Experience seamless connections while availing on-demand dating app development services from Plazmasoft. From customized dating mobile app features to intuitive app interfaces, we bring your dating platform vision to life. Feel free to discuss your idea with us. </p>
                             </a>
                         </div>
                     </div>
@@ -235,7 +235,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Let your dating app run smoothly while seeking comprehensive dating <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a>, From regular updates to bug fixes, our team at TechnoYuga ensures that your dating app remains reliable. Connect with us now.</p>
+                                <p class="vs-service-card-description">Let your dating app run smoothly while seeking comprehensive dating <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a>, From regular updates to bug fixes, our team at Plazmasoft ensures that your dating app remains reliable. Connect with us now.</p>
                             <!-- </a> -->
                         </div>
                     </div>
@@ -251,7 +251,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Key Features of On-demand Dating App Development</h2>
                 <p class="vs-section-description">
-                    Do you want to create dating app like Tinder that is feature-rich and user-friendly? Look no further than TechnoYuga! Our dating app developers make sure to integrate the latest features and functionalities while developing a dating mobile application. Let’s take a quick glimpse at the key features required for on-demand dating app development.
+                    Do you want to create dating app like Tinder that is feature-rich and user-friendly? Look no further than Plazmasoft! Our dating app developers make sure to integrate the latest features and functionalities while developing a dating mobile application. Let’s take a quick glimpse at the key features required for on-demand dating app development.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -498,7 +498,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Wide Range of Dating App Development Solutions</h2>
                 <p class="vs-section-description">
-                    Are you looking for exclusive dating app development solutions that could take your small dating business to a huge level? You are just a tap away. TechnoYuga, a premium dating app development company offers the best dating app development services and solutions to businesses worldwide. Have a look at the extensive range of solutions we offer to develop dating app.
+                    Are you looking for exclusive dating app development solutions that could take your small dating business to a huge level? You are just a tap away. Plazmasoft, a premium dating app development company offers the best dating app development services and solutions to businesses worldwide. Have a look at the extensive range of solutions we offer to develop dating app.
                 </p>
             </div>
             <div class="vs-service-content mb-0">
@@ -533,7 +533,7 @@
 
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Connecting fans and celebrities like never before! At TechnoYuga, we create a Celebrity dating app that offers a unique platform for fans to interact with their favorite stars. With a simple swipe, users can match and chat with verified celebrities, fostering genuine connections in a safe and exclusive environment. Get your app developed today!</p>
+                                <p class="vs-service-card-description">Connecting fans and celebrities like never before! At Plazmasoft, we create a Celebrity dating app that offers a unique platform for fans to interact with their favorite stars. With a simple swipe, users can match and chat with verified celebrities, fostering genuine connections in a safe and exclusive environment. Get your app developed today!</p>
                             </a>
                         </div>
                     </div>
@@ -586,7 +586,7 @@
 
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Revolutionize the dating experience for your users with video dating app development solutions. As a business owner, you must understand the importance of visual communication. Hence, at TechnoYuga, we integrate video features that allow users to engage in virtual dates. Get ready to stay ahead of the competition while choosing our dating app development company.</p>
+                                <p class="vs-service-card-description">Revolutionize the dating experience for your users with video dating app development solutions. As a business owner, you must understand the importance of visual communication. Hence, at Plazmasoft, we integrate video features that allow users to engage in virtual dates. Get ready to stay ahead of the competition while choosing our dating app development company.</p>
                             </a>
                         </div>
                     </div>
@@ -603,7 +603,7 @@
 
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Empower inclusivity and diversity in the dating world. Seek LGBTQ+ Dating App development solutions from TechnoYuga. Our solutions are tailored for business owners who prioritize a safe and welcoming space for all users like LGBTQ+ community. So, what are you waiting for? Stand out in the dating industry while availing dating mobile app development services from us.</p>
+                                <p class="vs-service-card-description">Empower inclusivity and diversity in the dating world. Seek LGBTQ+ Dating App development solutions from Plazmasoft. Our solutions are tailored for business owners who prioritize a safe and welcoming space for all users like LGBTQ+ community. So, what are you waiting for? Stand out in the dating industry while availing dating mobile app development services from us.</p>
                             </a>
                         </div>
                     </div>
@@ -1576,7 +1576,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Dating App Developers</h2>
-                <p class="vs-section-description">Do you want to hire dedicated developers for dating app development? Connect with TechnoYuga right away. We have a dedicated team of on-demand dating app developers who can be a great asset. Here is a glimpse of our available flexible hiring models.</p>
+                <p class="vs-section-description">Do you want to hire dedicated developers for dating app development? Connect with Plazmasoft right away. We have a dedicated team of on-demand dating app developers who can be a great asset. Here is a glimpse of our available flexible hiring models.</p>
             </div>
             <div class="vs-fintech-forward-content">
                 <div class="row">
@@ -1585,7 +1585,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Do you want to hire developers part-time for your dating app project? You are just a tap away! At TechnoYuga, our team comprises proficient dating app developers available to collaborate part-time. Feel free to share your dating app development requirements with our committed team of mobile app developers for hire.</p>
+                                    <p class="vs-fintech-forward-card-description">Do you want to hire developers part-time for your dating app project? You are just a tap away! At Plazmasoft, our team comprises proficient dating app developers available to collaborate part-time. Feel free to share your dating app development requirements with our committed team of mobile app developers for hire.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1598,7 +1598,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Elevate your small dating business to new heights. Avail full-time dating app developers' assistance and let them develop a unique dating app like Tinder for you. Hire developers full-time from TechnoYuga. We have a very flexible and reasonable dating app hiring model available. Feel free to choose from any of our models for dating app development. </p>
+                                    <p class="vs-fintech-forward-card-description">Elevate your small dating business to new heights. Avail full-time dating app developers' assistance and let them develop a unique dating app like Tinder for you. Hire developers full-time from Plazmasoft. We have a very flexible and reasonable dating app hiring model available. Feel free to choose from any of our models for dating app development. </p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1611,7 +1611,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">Want to hire developers hourly? Connect with TechnoYuga and access affordable hiring models where you can hire developers hourly, part-time, and full-time. Now, say goodbye to all your budget concerns and feel free to hire dedicated professionals for your dating app development project. Schedule a consultation with our experts now and leave the rest to us. </p>
+                                    <p class="vs-fintech-forward-card-description">Want to hire developers hourly? Connect with Plazmasoft and access affordable hiring models where you can hire developers hourly, part-time, and full-time. Now, say goodbye to all your budget concerns and feel free to hire dedicated professionals for your dating app development project. Schedule a consultation with our experts now and leave the rest to us. </p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1624,7 +1624,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Are you interested in hiring dedicated developers for an on-demand dating app development project? Share your project vision with TechnoYuga professionals. Engage in a discussion about your concept, and allow us to offer you optimal assistance. Share your project requisites now, and then you can hire dedicated developers for as long as you want. </p>
+                                    <p class="vs-fintech-forward-card-description">Are you interested in hiring dedicated developers for an on-demand dating app development project? Share your project vision with Plazmasoft professionals. Engage in a discussion about your concept, and allow us to offer you optimal assistance. Share your project requisites now, and then you can hire dedicated developers for as long as you want. </p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1644,7 +1644,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -1659,7 +1659,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -1667,7 +1667,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -1895,14 +1895,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -2077,7 +2077,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -2130,7 +2130,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -2154,7 +2154,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -2277,10 +2277,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -2326,7 +2326,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -2365,7 +2365,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2446,7 +2446,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2495,7 +2495,7 @@
                         <div id="collapseFaq1" class="accordion-collapse collapse show"
                             aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga stands at the forefront of dating app development with decades of operation. Our adept team specializes in crafting outstanding custom dating applications for Android and iOS platforms. Don't hesitate to converse about your project needs with our dedicated developers.</p>
+                                <p>Plazmasoft stands at the forefront of dating app development with decades of operation. Our adept team specializes in crafting outstanding custom dating applications for Android and iOS platforms. Don't hesitate to converse about your project needs with our dedicated developers.</p>
                             </div>
                         </div>
                     </div>
@@ -2509,7 +2509,7 @@
                         <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>The cost of developing a dating mobile app fluctuates based on its feature set. Crafting a comprehensive dating platform typically costs between $5,000 to $20,000+. For precise pricing tailored to your project, consult with the experts at TechnoYuga.</p>
+                                <p>The cost of developing a dating mobile app fluctuates based on its feature set. Crafting a comprehensive dating platform typically costs between $5,000 to $20,000+. For precise pricing tailored to your project, consult with the experts at Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2523,7 +2523,7 @@
                         <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>If you don't have the desired budget to hire developers at expensive mobile app development costs, don't panic. TechnoYuga, a dating app development company running for decades, can be your saviour. We have flexible models available so everyone can hire developers per their budget. Connect with our experts today. </p>
+                                <p>If you don't have the desired budget to hire developers at expensive mobile app development costs, don't panic. Plazmasoft, a dating app development company running for decades, can be your saviour. We have flexible models available so everyone can hire developers per their budget. Connect with our experts today. </p>
                             </div>
                         </div>
                     </div>
@@ -2537,7 +2537,7 @@
                         <div id="collapseFaq4" class="accordion-collapse collapse" aria-labelledby="headingFaq4"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>The timeline to develop a dating app varies based on project complexity and specific requirements, typically spanning 3 to 6 months from inception to launch. For precise development estimates tailored to your on-demand dating app, contact our dedicated developers at TechnoYuga.</p>
+                                <p>The timeline to develop a dating app varies based on project complexity and specific requirements, typically spanning 3 to 6 months from inception to launch. For precise development estimates tailored to your on-demand dating app, contact our dedicated developers at Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2551,7 +2551,7 @@
                         <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>At TechnoYuga, we prioritize long-term success by offering ongoing mobile app support and maintenance services post-launch. It ensures optimal performance and user satisfaction for your dating app like Bumble. Trust in the reliability and excellence of our dating app development services when choosing TechnoYuga.</p>
+                                <p>At Plazmasoft, we prioritize long-term success by offering ongoing mobile app support and maintenance services post-launch. It ensures optimal performance and user satisfaction for your dating app like Bumble. Trust in the reliability and excellence of our dating app development services when choosing Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2559,13 +2559,13 @@
                         <h2 class="accordion-header" id="headingFaq6">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                Why Choose TechnoYuga As A Dating App Development Company?
+                                Why Choose Plazmasoft As A Dating App Development Company?
                             </button>
                         </h2>
                         <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga stands out for dating app development due to its expertise in creating innovative, user-friendly interfaces and robust backend systems. With a focus on customization, security, and scalability, TechnoYuga offers tailored solutions that cater to clients' unique needs, ensuring exceptional user experiences and business growth.</p>
+                                <p>Plazmasoft stands out for dating app development due to its expertise in creating innovative, user-friendly interfaces and robust backend systems. With a focus on customization, security, and scalability, Plazmasoft offers tailored solutions that cater to clients' unique needs, ensuring exceptional user experiences and business growth.</p>
                             </div>
                         </div>
                     </div>
@@ -2579,7 +2579,7 @@
                         <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Yes, you can hire dating app developers hourly and part-time. At TechnoYuga, flexible hiring models are available where businesses can hire developers per their project's needs and demands. Connect with us and choose from our flexible models to hire developers. </p>
+                                <p>Yes, you can hire dating app developers hourly and part-time. At Plazmasoft, flexible hiring models are available where businesses can hire developers per their project's needs and demands. Connect with us and choose from our flexible models to hire developers. </p>
                             </div>
                         </div>
                     </div>
@@ -2607,7 +2607,7 @@
                         <div id="collapseFaq9" class="accordion-collapse collapse" aria-labelledby="headingFaq9"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>We always believe in transparency. So, we will mention everything whenever we offer you a quote to develop a dating app. So, remain assured of the hidden charges while choosing TechnoYuga as your dating app development company. </p>
+                                <p>We always believe in transparency. So, we will mention everything whenever we offer you a quote to develop a dating app. So, remain assured of the hidden charges while choosing Plazmasoft as your dating app development company. </p>
                             </div>
                         </div>
                     </div>
@@ -2621,7 +2621,7 @@
                         <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Yes definitely. At TechnoYuga, we can build dating applications for all businesses, irrespective of the complexity. So, do not worry about the deadline. Just share your dating app development requirements with us, let our experts analyze them, and provide you with the shortest development time required. </p>
+                                <p>Yes definitely. At Plazmasoft, we can build dating applications for all businesses, irrespective of the complexity. So, do not worry about the deadline. Just share your dating app development requirements with us, let our experts analyze them, and provide you with the shortest development time required. </p>
                             </div>
                         </div>
                     </div>
@@ -2636,7 +2636,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-            <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+            <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -2851,7 +2851,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

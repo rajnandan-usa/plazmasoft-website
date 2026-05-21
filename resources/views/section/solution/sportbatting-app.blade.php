@@ -17,7 +17,7 @@
         <h1 class="vs-section-title vs-title-border">Sports Betting App</span></h1>
         <h2 class="vs-section-subtitle">Development Company</h2>
         <p class="vs-section-description">
-            Take your sports betting business to new heights with game-changing AI-powered sports betting solutions. As a prominent sports betting app development company, our dedicated team collaborates with you and creates technologically advanced and impactful software solutions that could surpass your expectations. Seek sports betting app development services from TechnoYuga  and get pocket-friendly business solutions.
+            Take your sports betting business to new heights with game-changing AI-powered sports betting solutions. As a prominent sports betting app development company, our dedicated team collaborates with you and creates technologically advanced and impactful software solutions that could surpass your expectations. Seek sports betting app development services from Plazmasoft  and get pocket-friendly business solutions.
         </p>
     </div>
 
@@ -154,7 +154,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Our Sports Betting App Development Services</h2>
                     <p class="vs-section-description">
-                        Level up your sports betting game while choosing TechnoYuga as your sports betting app development partner. From live sports betting features to secure payment gateways, we ensure a top-notch betting experience with our exclusive sports betting app development services. Right from sports betting app consultation to sports app development and maintenance, we provide exclusive services. Let’s take a quick glimpse at the exclusive services offered by our dedicated sports betting app developers.
+                        Level up your sports betting game while choosing Plazmasoft as your sports betting app development partner. From live sports betting features to secure payment gateways, we ensure a top-notch betting experience with our exclusive sports betting app development services. Right from sports betting app consultation to sports app development and maintenance, we provide exclusive services. Let’s take a quick glimpse at the exclusive services offered by our dedicated sports betting app developers.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -170,7 +170,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    Do you have an idea to start a sports betting business? Need sports betting app consultation services to get started? Look no further than TechnoYuga! Our team of business analysts will help you convert your business idea into reality. Feel free to discuss your requirements. </p>
+                                    Do you have an idea to start a sports betting business? Need sports betting app consultation services to get started? Look no further than Plazmasoft! Our team of business analysts will help you convert your business idea into reality. Feel free to discuss your requirements. </p>
                                 </a>
                             </div>
                         </div>
@@ -200,7 +200,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    Deliver an intuitive and engaging user experience with our sports betting app UX/UI design service. At TechnoYuga, we specialize in creating visually appealing interfaces that enhance user interaction and drive user engagement, ensuring your app stands out.</p>
+                                    Deliver an intuitive and engaging user experience with our sports betting app UX/UI design service. At Plazmasoft, we specialize in creating visually appealing interfaces that enhance user interaction and drive user engagement, ensuring your app stands out.</p>
                                 </a>
                             </div>
                         </div>
@@ -229,7 +229,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                        If you are looking forward to hire sports betting app developers who can develop an interactive application for your sports business, you are at the right place. At TechnoYuga, we can create perfect mobile apps and websites adhering to your business domains.
+                                        If you are looking forward to hire sports betting app developers who can develop an interactive application for your sports business, you are at the right place. At Plazmasoft, we can create perfect mobile apps and websites adhering to your business domains.
                                     </p>
                                 <!-- </a> -->
                             </div>
@@ -245,7 +245,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                        Let your sports betting app successfully run for years without worrying about performance issues. Avail sports betting <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a> from TechnoYuga. Drop your requirements with our dedicated developers.</p>
+                                        Let your sports betting app successfully run for years without worrying about performance issues. Avail sports betting <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a> from Plazmasoft. Drop your requirements with our dedicated developers.</p>
                                 <!-- </a> -->
                             </div>
                         </div>
@@ -541,7 +541,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Extensive Range of Sports Betting App Development Solutions</h2>
                     <p class="vs-section-description">
-                        Are you planning to create an on-demand sports betting application? Need industry-best sports betting app development solutions? Get in touch with TechnoYuga. Our dedicated developers offer premium solutions at affordable cost to build sports betting apps. Let’s look at the wide range of sports betting app development services.
+                        Are you planning to create an on-demand sports betting application? Need industry-best sports betting app development solutions? Get in touch with Plazmasoft. Our dedicated developers offer premium solutions at affordable cost to build sports betting apps. Let’s look at the wide range of sports betting app development services.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -557,7 +557,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Are you ready to transform the way sports fans experience betting exchange? You’ve reached the right place. At TechnoYuga, we can help you create a betting exchange platform that offers dynamic odds, peer-to-peer betting, providing users with the ultimate betting experience. Discuss your betting exchange app development requirements today!</p>
+                                    <p class="vs-service-card-description">Are you ready to transform the way sports fans experience betting exchange? You’ve reached the right place. At Plazmasoft, we can help you create a betting exchange platform that offers dynamic odds, peer-to-peer betting, providing users with the ultimate betting experience. Discuss your betting exchange app development requirements today!</p>
                                 </a>
                             </div>
                         </div>
@@ -576,7 +576,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Experience the thrill of real-time sports betting with our live betting app development solutions. Stay engaged with the action. With instant updates and interactive features, a live betting application brings the excitement of live sports to your fingertips. Drop your live betting app development requirements with the experts of TechnoYuga.</p>
+                                    <p class="vs-service-card-description">Experience the thrill of real-time sports betting with our live betting app development solutions. Stay engaged with the action. With instant updates and interactive features, a live betting application brings the excitement of live sports to your fingertips. Drop your live betting app development requirements with the experts of Plazmasoft.</p>
                                 </a>
                             </div>
                         </div>
@@ -592,7 +592,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Let your potential users engage with friends and fellow bettors. Avail exclusive social betting app development solutions from us. With social features integrated into the betting experience, it enhances camaraderie. It also adds a new dimension to sports betting enjoyment. Hire dedicated developers from TechnoYuga, and let us tackle the rest. </p>
+                                    <p class="vs-service-card-description">Let your potential users engage with friends and fellow bettors. Avail exclusive social betting app development solutions from us. With social features integrated into the betting experience, it enhances camaraderie. It also adds a new dimension to sports betting enjoyment. Hire dedicated developers from Plazmasoft, and let us tackle the rest. </p>
                                 </a>
                             </div>
                         </div>
@@ -638,7 +638,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">From real-time odds updates to seamless bet placement, our in-play betting app solutions ensure users stay at the forefront of every game. Get ready to experience the thrill of instant wagering and unparalleled excitement with our cutting-edge in-play betting app solutions.  Hire dedicated sports betting app developers from TechnoYuga.</p>
+                                    <p class="vs-service-card-description">From real-time odds updates to seamless bet placement, our in-play betting app solutions ensure users stay at the forefront of every game. Get ready to experience the thrill of instant wagering and unparalleled excitement with our cutting-edge in-play betting app solutions.  Hire dedicated sports betting app developers from Plazmasoft.</p>
                                 </a>
                             </div>
                         </div>
@@ -659,7 +659,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Looking for traditional sportsbook app development solutions? TechnoYuga is the right place to rely on. From football to basketball, cricket to tennis, our apps offer comprehensive betting markets to satisfy every sports enthusiast. Elevate your brand with our customizable sportsbook app solutions. Discuss your requirements now.</p>
+                                    <p class="vs-service-card-description">Looking for traditional sportsbook app development solutions? Plazmasoft is the right place to rely on. From football to basketball, cricket to tennis, our apps offer comprehensive betting markets to satisfy every sports enthusiast. Elevate your brand with our customizable sportsbook app solutions. Discuss your requirements now.</p>
                                 </a>
                             </div>
                         </div>
@@ -1114,7 +1114,7 @@
             <div class="container">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Sports Betting App Developers</h2>
-                    <p class="vs-section-description">Do you want to hire dedicated developers for sports betting app development? Look no further than TechnoYuga. We have a dedicated team of sports betting app developers who can be your savior. Here is a glimpse of our flexible hiring models available. </p>
+                    <p class="vs-section-description">Do you want to hire dedicated developers for sports betting app development? Look no further than Plazmasoft. We have a dedicated team of sports betting app developers who can be your savior. Here is a glimpse of our flexible hiring models available. </p>
                 </div>
                 <div class="vs-fintech-forward-content">
                     <div class="row">
@@ -1149,7 +1149,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">Are you looking forward to hire developers hourly? You are just a click away! TechnoYuga offers a flexible model for hiring developers hourly so that businesses can seek expert assistance at their convenience. Feel free to connect with us. </p>
+                                        <p class="vs-fintech-forward-card-description">Are you looking forward to hire developers hourly? You are just a click away! Plazmasoft offers a flexible model for hiring developers hourly so that businesses can seek expert assistance at their convenience. Feel free to connect with us. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1162,7 +1162,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for sports betting app development? Discuss your project idea with TechnoYuga professionals. Discuss your idea with us, and let us provide you with the best assistance. Share your project requirements now!</p>
+                                        <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for sports betting app development? Discuss your project idea with Plazmasoft professionals. Discuss your idea with us, and let us provide you with the best assistance. Share your project requirements now!</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1182,7 +1182,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -1197,7 +1197,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -1205,7 +1205,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -1433,14 +1433,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -1615,7 +1615,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -1668,7 +1668,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -1692,7 +1692,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -1815,10 +1815,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -1872,7 +1872,7 @@
                                     </div> -->
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -1911,7 +1911,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -1992,7 +1992,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2043,7 +2043,7 @@
                             <div id="collapseFaq1" class="accordion-collapse collapse show"
                                 aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Running for decades, TechnoYuga is a leading sports betting app development company. We have a team of dedicated sports betting app developers. Our professionals create exceptional sports betting applications for both Android and iOS platforms. Feel free to discuss your project requirements with our dedicated developers.  </p>
+                                    <p>Running for decades, Plazmasoft is a leading sports betting app development company. We have a team of dedicated sports betting app developers. Our professionals create exceptional sports betting applications for both Android and iOS platforms. Feel free to discuss your project requirements with our dedicated developers.  </p>
                                 </div>
                             </div>
                         </div>
@@ -2057,7 +2057,7 @@
                             <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>The development cost of sports betting mobile app development varies depending on the multiple features. Generally, creating a fully functional sports betting application ranges between $5,000 and $20,000+. To get an exact sports betting app development cost, connect with the professionals of TechnoYuga. </p>
+                                    <p>The development cost of sports betting mobile app development varies depending on the multiple features. Generally, creating a fully functional sports betting application ranges between $5,000 and $20,000+. To get an exact sports betting app development cost, connect with the professionals of Plazmasoft. </p>
                                 </div>
                             </div>
                         </div>
@@ -2071,7 +2071,7 @@
                             <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>If you want to hire dedicated developers to build a sports betting app, connect with TechnoYuga. We have a pool of experienced developers for hire. Feel free to discuss your idea to build a sports betting app. </p>
+                                    <p>If you want to hire dedicated developers to build a sports betting app, connect with Plazmasoft. We have a pool of experienced developers for hire. Feel free to discuss your idea to build a sports betting app. </p>
                                 </div>
                             </div>
                         </div>
@@ -2085,7 +2085,7 @@
                             <div id="collapseFaq4" class="accordion-collapse collapse" aria-labelledby="headingFaq4"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>The duration to develop a sports betting mobile app depends on the project's complexity and specific demands. Generally, it ranges from 3 to 6 months from the initial stages to the final launch. To know the exact development time for your sports betting app development, contact our dedicated developers of TechnoYuga.</p>
+                                    <p>The duration to develop a sports betting mobile app depends on the project's complexity and specific demands. Generally, it ranges from 3 to 6 months from the initial stages to the final launch. To know the exact development time for your sports betting app development, contact our dedicated developers of Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -2099,7 +2099,7 @@
                             <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Yes! At TechnoYuga, we emphasize long-term success and provide mobile app support and maintenance services following the launch to guarantee optimal performance and user satisfaction for your sports betting platform like ESPN. Rest assured; you can count on the reliability and quality of our sports betting app development services when choosing TechnoYuga.</p>
+                                    <p>Yes! At Plazmasoft, we emphasize long-term success and provide mobile app support and maintenance services following the launch to guarantee optimal performance and user satisfaction for your sports betting platform like ESPN. Rest assured; you can count on the reliability and quality of our sports betting app development services when choosing Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -2107,7 +2107,7 @@
                             <h2 class="accordion-header" id="headingFaq6">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                    Q6. Why Choose TechnoYuga for On-demand Sports Betting App Development?
+                                    Q6. Why Choose Plazmasoft for On-demand Sports Betting App Development?
                                 </button>
                             </h2>
                             <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
@@ -2127,7 +2127,7 @@
                             <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Yes, you can hire sports betting app developers on a part-time basis. Many developers offer flexible arrangements to accommodate different project needs and budgets. At TechnoYuga, we ensure clear communication regarding project scope and expectations. Feel free to connect with us at any hour of the day. </p>
+                                    <p>Yes, you can hire sports betting app developers on a part-time basis. Many developers offer flexible arrangements to accommodate different project needs and budgets. At Plazmasoft, we ensure clear communication regarding project scope and expectations. Feel free to connect with us at any hour of the day. </p>
                                 </div>
                             </div>
                         </div>
@@ -2141,7 +2141,7 @@
                             <div id="collapseFaq8" class="accordion-collapse collapse" aria-labelledby="headingFaq8"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Yes, we provide flexible hiring models. Our services include hourly rates, fixed-price contracts, and dedicated teams. We always ensure flexibility to suit your project requirements and budget constraints. Develop a sports betting app with TechnoYuga without burning a hole in your pocket.</p>
+                                    <p>Yes, we provide flexible hiring models. Our services include hourly rates, fixed-price contracts, and dedicated teams. We always ensure flexibility to suit your project requirements and budget constraints. Develop a sports betting app with Plazmasoft without burning a hole in your pocket.</p>
                                 </div>
                             </div>
                         </div>
@@ -2184,7 +2184,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -2402,7 +2402,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

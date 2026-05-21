@@ -16,7 +16,7 @@
                             <div class="vs-landing-content__inner">
         <h1 class="vs-section-title vs-title-border">Best Food Ordering</span></h1>
         <h2 class="vs-section-subtitle">App Development Company</h2>
-        <p class="vs-section-description">TechnoYuga offers top-notch food ordering app development services, delivering cutting-edge solutions tailored to meet your specific requirements. With a team of skilled and dedicated food-ordering app developers, TechnoYuga ensures seamless user experiences, robust    functionality, and intuitive designs. Our expertise in crafting efficient and user-friendly apps makes us a trusted food ordering app development company. Feel free to drop your on-demand food ordering app development requirements with us.</p>
+        <p class="vs-section-description">Plazmasoft offers top-notch food ordering app development services, delivering cutting-edge solutions tailored to meet your specific requirements. With a team of skilled and dedicated food-ordering app developers, Plazmasoft ensures seamless user experiences, robust    functionality, and intuitive designs. Our expertise in crafting efficient and user-friendly apps makes us a trusted food ordering app development company. Feel free to drop your on-demand food ordering app development requirements with us.</p>
     </div>
 
                     </div>
@@ -152,7 +152,7 @@
             <div class="container">
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Future-Proof Food Ordering App Development Services</h2>
-                    <p class="vs-section-description">Here is a quick glimpse at the best food ordering app development services offered by TechnoYuga.</p>
+                    <p class="vs-section-description">Here is a quick glimpse at the best food ordering app development services offered by Plazmasoft.</p>
                 </div>
                 <div class="vs-service-content mb-0">
                     <div class="row">
@@ -166,7 +166,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">These online restaurant apps aggregate various restaurants and their menus, allowing users to browse and order from multiple restaurants. Hire dedicated developers from TechnoYuga.</p>
+                                    <p class="vs-service-card-description">These online restaurant apps aggregate various restaurants and their menus, allowing users to browse and order from multiple restaurants. Hire dedicated developers from Plazmasoft.</p>
                                 </a>
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">At TechnoYuga, we develop apps for a specific restaurant or chain, offering a streamlined experience focused on their menu items. These apps often include loyalty programs and personalized features.</p>
+                                    <p class="vs-service-card-description">At Plazmasoft, we develop apps for a specific restaurant or chain, offering a streamlined experience focused on their menu items. These apps often include loyalty programs and personalized features.</p>
                                 </a>
                             </div>
                         </div>
@@ -208,7 +208,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">At TechnoYuga, we build applications that facilitate the operation of virtual or cloud kitchens, allowing restaurants to prepare and fulfil online orders without a traditional dine-in setting.</p>
+                                    <p class="vs-service-card-description">At Plazmasoft, we build applications that facilitate the operation of virtual or cloud kitchens, allowing restaurants to prepare and fulfil online orders without a traditional dine-in setting.</p>
                                 </a>
                             </div>
                         </div>
@@ -251,7 +251,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Salient Features of Restaurant Food Ordering App</h2>
                     <p class="vs-section-description">
-                        Are you planning to build an online food ordering app that can help your business grow with 2x speed? TechnoYuga, food ordering app development services, can be your biggest saviour. Choose our custom restaurant food ordering app development company and get a perfect business application with feature-rich panels.
+                        Are you planning to build an online food ordering app that can help your business grow with 2x speed? Plazmasoft, food ordering app development services, can be your biggest saviour. Choose our custom restaurant food ordering app development company and get a perfect business application with feature-rich panels.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -745,7 +745,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Wide Range of Online Food Ordering App Development Solutions</h2>
                     <p class="vs-section-description">
-                        TechnoYuga offers various food ordering app development solutions for seamless user experiences. We create apps that elevate the dining experience from intuitive interfaces to robust backend systems. Harness our expertise to build customized, user-friendly, and efficient food ordering apps for multiple businesses.
+                        Plazmasoft offers various food ordering app development solutions for seamless user experiences. We create apps that elevate the dining experience from intuitive interfaces to robust backend systems. Harness our expertise to build customized, user-friendly, and efficient food ordering apps for multiple businesses.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -800,7 +800,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Some apps focus on specific cuisines, such as pizza delivery apps, sushi delivery apps, or dessert delivery apps. So, if you want to develop specialized cuisine apps, look no further than TechnoYuga online food delivery app development solutions. Hire dedicated developers from us now.</p>
+                                    <p class="vs-service-card-description">Some apps focus on specific cuisines, such as pizza delivery apps, sushi delivery apps, or dessert delivery apps. So, if you want to develop specialized cuisine apps, look no further than Plazmasoft online food delivery app development solutions. Hire dedicated developers from us now.</p>
                                 </a>
                             </div>
                         </div>
@@ -2274,7 +2274,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                        <p class="vs-fintech-forward-card-description">At TechnoYuga, we provide the flexibility to enhance your food delivery and restaurant business by bringing on board skilled developers part-time. Our team of food delivery app development experts can contribute their proficiency to your projects, offering the right talent.</p>
+                                        <p class="vs-fintech-forward-card-description">At Plazmasoft, we provide the flexibility to enhance your food delivery and restaurant business by bringing on board skilled developers part-time. Our team of food delivery app development experts can contribute their proficiency to your projects, offering the right talent.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2287,7 +2287,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Elevate your online food delivery initiatives with our full-time developers who propel your projects to success. By choosing full-time food delivery app developers from TechnoYuga, you gain access to a pool of talented individuals dedicated to achieving your goals.</p>
+                                        <p class="vs-fintech-forward-card-description">Elevate your online food delivery initiatives with our full-time developers who propel your projects to success. By choosing full-time food delivery app developers from Plazmasoft, you gain access to a pool of talented individuals dedicated to achieving your goals.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2300,7 +2300,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">TechnoYuga provides hourly hiring solutions for on-demand food delivery app developers, allowing you to optimize costs and resources. Our skilled professionals are available hourly, ensuring you only pay for the needed time.</p>
+                                        <p class="vs-fintech-forward-card-description">Plazmasoft provides hourly hiring solutions for on-demand food delivery app developers, allowing you to optimize costs and resources. Our skilled professionals are available hourly, ensuring you only pay for the needed time.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2313,7 +2313,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">When hiring dedicated developers from TechnoYuga, you secure a team fully immersed in your Fintech projects. Share your custom food delivery app development requirements and hire dedicated developers accordingly.</p>
+                                        <p class="vs-fintech-forward-card-description">When hiring dedicated developers from Plazmasoft, you secure a team fully immersed in your Fintech projects. Share your custom food delivery app development requirements and hire dedicated developers accordingly.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2333,7 +2333,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2348,7 +2348,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2356,7 +2356,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2584,14 +2584,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2766,7 +2766,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2819,7 +2819,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2843,7 +2843,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2967,10 +2967,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -3017,7 +3017,7 @@
 
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -3057,7 +3057,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3138,7 +3138,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3189,7 +3189,7 @@
                             <div id="collapseFaq1" class="accordion-collapse collapse show"
                                 aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>We prioritize user-friendly interfaces, seamless order processing, and robust backend systems to ensure a superior experience for customers and businesses. Do not look further than TechnoYuga if you want to connect with the best restaurant food ordering app development company.</p>
+                                    <p>We prioritize user-friendly interfaces, seamless order processing, and robust backend systems to ensure a superior experience for customers and businesses. Do not look further than Plazmasoft if you want to connect with the best restaurant food ordering app development company.</p>
                                 </div>
                             </div>
                         </div>
@@ -3203,7 +3203,7 @@
                             <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>The development timeline varies based on features and complexity. Generally, it takes anywhere from 4 to 6 months for a fully functional app, including testing and deployment. Still, you can connect with TechnoYuga food delivery app developers for detailed information.</p>
+                                    <p>The development timeline varies based on features and complexity. Generally, it takes anywhere from 4 to 6 months for a fully functional app, including testing and deployment. Still, you can connect with Plazmasoft food delivery app developers for detailed information.</p>
                                 </div>
                             </div>
                         </div>
@@ -3245,7 +3245,7 @@
                             <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>There is no such fixed cost to develop a food delivery app. An average budget might be between $8,000 to $25,000 and more. For accurate food delivery app development cost estimation, connect with the professionals of TechnoYuga.</p>
+                                    <p>There is no such fixed cost to develop a food delivery app. An average budget might be between $8,000 to $25,000 and more. For accurate food delivery app development cost estimation, connect with the professionals of Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -3260,7 +3260,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Discuss Your Food Delivery App Idea with Us!</h2>
-                <p class="vs-section-description">Boost your small food delivery business growth with a feature-rich food delivery application. Connect with TechnoYuga, a leading food delivery app development company.</p>
+                <p class="vs-section-description">Boost your small food delivery business growth with a feature-rich food delivery application. Connect with Plazmasoft, a leading food delivery app development company.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3476,7 +3476,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

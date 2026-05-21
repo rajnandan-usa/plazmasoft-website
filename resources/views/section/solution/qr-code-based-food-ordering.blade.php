@@ -15,7 +15,7 @@
                         <div class="vs-landing-content__inner">
     <h1 class="vs-section-title vs-title-border">QR-based Food Ordering</span></h1>
     <h2 class="vs-section-subtitle">App Development Company</h2>
-    <p class="vs-section-description">Welcome to the future of dining with our cutting-edge QR-based Food Ordering App Development services. At TechnoYuga, we craft seamless digital experiences that revolutionize the way your customers order and enjoy food. Our innovative QR-based food ordering app development solutions empower restaurants to enhance efficiency, boost customer satisfaction, and stay ahead in the competitive landscape. Elevate your dining experience with TechnoYuga today!</p>
+    <p class="vs-section-description">Welcome to the future of dining with our cutting-edge QR-based Food Ordering App Development services. At Plazmasoft, we craft seamless digital experiences that revolutionize the way your customers order and enjoy food. Our innovative QR-based food ordering app development solutions empower restaurants to enhance efficiency, boost customer satisfaction, and stay ahead in the competitive landscape. Elevate your dining experience with Plazmasoft today!</p>
 </div>
 
                 </div>
@@ -150,7 +150,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Best QR-based Food Ordering App Development Services</h2>
-                <p class="vs-section-description">Step into the FlavorQuest, where innovation meets appetite! Explore TechnoYuga's cutting-edge QR-based Food Ordering App Development Services and savour the taste of seamless culinary experiences. Here is a glimpse of our top food ordering app development services.</p>
+                <p class="vs-section-description">Step into the FlavorQuest, where innovation meets appetite! Explore Plazmasoft's cutting-edge QR-based Food Ordering App Development Services and savour the taste of seamless culinary experiences. Here is a glimpse of our top food ordering app development services.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -164,7 +164,7 @@
                                             class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Dive into delectable mobile app development consultations with our experts, crafting a QR-based food ordering app that tantalizes taste buds and elevates dining convenience. Your app, your flavour. Choose TechnoYuga's consultation services today! </p>
+                                <p class="vs-service-card-description">Dive into delectable mobile app development consultations with our experts, crafting a QR-based food ordering app that tantalizes taste buds and elevates dining convenience. Your app, your flavour. Choose Plazmasoft's consultation services today! </p>
                             </a>
                         </div>
                     </div>
@@ -219,7 +219,7 @@
                                         <img src="{{asset('web-assets/images/wallet-app.svg')}}" alt="wallet-app" class="img-fluid">
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Embark on a culinary journey with our seasoned developers. Hire QR-based food ordering app developers who blend technology with gastronomy, crafting apps that leave a lasting taste sensation. Connect with TechnoYuga's dedicated developers today.</p>
+                                <p class="vs-service-card-description">Embark on a culinary journey with our seasoned developers. Hire QR-based food ordering app developers who blend technology with gastronomy, crafting apps that leave a lasting taste sensation. Connect with Plazmasoft's dedicated developers today.</p>
                             </a>
                         </div>
                     </div>
@@ -249,7 +249,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">User-friendly Features of QR-based Food Application</h2>
                 <p class="vs-section-description">
-                    Are you planning to develop a QR-based food ordering app for your business? If yes, then you can trust TechnoYuga’s food ordering app development services. Our team of dedicated developers ensures the integration of user-friendly features while developing a QR-based food ordering application. Here are the top panels and their features.
+                    Are you planning to develop a QR-based food ordering app for your business? If yes, then you can trust Plazmasoft’s food ordering app development services. Our team of dedicated developers ensures the integration of user-friendly features while developing a QR-based food ordering application. Here are the top panels and their features.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -658,7 +658,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">Such apps are dedicated to a single restaurant or chain. Users can scan a QR code at the table or on promotional material to access the specific restaurant's menu and place orders. Connect with the professionals of TechnoYuga, a leading food ordering app development company, to get such apps.</p>
+                                <p class="vs-service-card-description">Such apps are dedicated to a single restaurant or chain. Users can scan a QR code at the table or on promotional material to access the specific restaurant's menu and place orders. Connect with the professionals of Plazmasoft, a leading food ordering app development company, to get such apps.</p>
                             </a>
                         </div>
                     </div>
@@ -676,7 +676,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">These apps are designed for food courts where users can scan a QR code at a central location and browse menus from different food vendors within the food court. They can then place orders and pay through the app. If you want to create a similar app, hire dedicated developers from TechnoYuga.</p>
+                                <p class="vs-service-card-description">These apps are designed for food courts where users can scan a QR code at a central location and browse menus from different food vendors within the food court. They can then place orders and pay through the app. If you want to create a similar app, hire dedicated developers from Plazmasoft.</p>
                             </a>
                         </div>
                     </div>
@@ -748,7 +748,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">Grubhub</h3>
-                                <p class="vs-famous-fantasy-description">GrubHub is a widely used food delivery and takeout app that allows users to order food from local restaurants. It often utilizes QR codes for easy access to menus and ordering. Do you want to develop a QR-based food ordering app like GrubHub? TechnoYuga can help you with that.</p>
+                                <p class="vs-famous-fantasy-description">GrubHub is a widely used food delivery and takeout app that allows users to order food from local restaurants. It often utilizes QR codes for easy access to menus and ordering. Do you want to develop a QR-based food ordering app like GrubHub? Plazmasoft can help you with that.</p>
                             </div>
                         </div>
                     </div>
@@ -759,7 +759,7 @@
                             </div>
                             <div class="vs-famous-fantasy-card-body">
                                 <h3 class="vs-famous-fantasy-card-title">Postmates</h3>
-                                <p class="vs-famous-fantasy-description">Postmates is known for delivering not only food but also a variety of other goods. Users can use QR codes to access restaurant menus and place orders for delivery. So, if you plan to develop a food delivery app like Postmates, hire dedicated developers from TechnoYuga. </p>
+                                <p class="vs-famous-fantasy-description">Postmates is known for delivering not only food but also a variety of other goods. Users can use QR codes to access restaurant menus and place orders for delivery. So, if you plan to develop a food delivery app like Postmates, hire dedicated developers from Plazmasoft. </p>
                             </div>
                         </div>
                     </div>
@@ -1072,7 +1072,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">Embrace the agile rhythm of hourly food app developers, orchestrating bites of brilliance in real-time. Your QR-based app will sizzle with efficiency, delivering a tech-infused banquet, one billable hour at a time. Choose TechnoYuga to hire developers hourly for your food ordering project.</p>
+                                    <p class="vs-fintech-forward-card-description">Embrace the agile rhythm of hourly food app developers, orchestrating bites of brilliance in real-time. Your QR-based app will sizzle with efficiency, delivering a tech-infused banquet, one billable hour at a time. Choose Plazmasoft to hire developers hourly for your food ordering project.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1086,7 +1086,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for your QR-based food ordering app development project? TechnoYuga is here to accomplish all your business needs and demands, and that too, at a very affordable mobile app development cost. Feel free to contact our professionals today. </p>
+                                    <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for your QR-based food ordering app development project? Plazmasoft is here to accomplish all your business needs and demands, and that too, at a very affordable mobile app development cost. Feel free to contact our professionals today. </p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1106,7 +1106,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -1121,7 +1121,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -1129,7 +1129,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -1357,14 +1357,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -1539,7 +1539,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -1592,7 +1592,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -1616,7 +1616,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -1739,10 +1739,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -1788,7 +1788,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -1828,7 +1828,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -1909,7 +1909,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -1987,7 +1987,7 @@
                         <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Identifying the best QR-based food ordering app development company depends on various factors such as expertise, experience, and client satisfaction. At TechnoYuga, we stand strong on all the factors and can help you develop a perfect mobile application that adheres to all your business needs. Feel free to choose our QR-based food ordering app development services. </p>
+                                <p>Identifying the best QR-based food ordering app development company depends on various factors such as expertise, experience, and client satisfaction. At Plazmasoft, we stand strong on all the factors and can help you develop a perfect mobile application that adheres to all your business needs. Feel free to choose our QR-based food ordering app development services. </p>
                             </div>
                         </div>
                     </div>
@@ -2245,7 +2245,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

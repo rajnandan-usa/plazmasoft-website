@@ -9,7 +9,7 @@
     <!-- landing section start  -->
     <section class="vs-career-landing-section vs-landing-section">
         <div class="vs-career-landing-img">
-            <img src="https://technoyuga.com/web-assets/images/landing_bg.png')}}" alt="" class="img-fluid w-100">
+            <img src="https://plazmasoft.com/web-assets/images/landing_bg.png')}}" alt="" class="img-fluid w-100">
         </div>
         <div class="vs-career-landing-section-content">
             <div class="container">
@@ -33,11 +33,11 @@
     <!-- our culture section start  -->
     <section class="vs-our-culture-section vs-section-spacer">
         <div class="vs-culture-particle-top">
-            <img src="https://technoyuga.com/web-assets/images/culture-top-particle.svg')}}" alt="culture particle"
+            <img src="https://plazmasoft.com/web-assets/images/culture-top-particle.svg')}}" alt="culture particle"
                 class="img-fluid">
         </div>
         <div class="vs-culture-particle-bottom">
-            <img src="https://technoyuga.com/web-assets/images/culture-bottom-particle.svg')}}" alt="culture particle"
+            <img src="https://plazmasoft.com/web-assets/images/culture-bottom-particle.svg')}}" alt="culture particle"
                 class="img-fluid">
         </div>
         <div class="container">
@@ -45,7 +45,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Our Culture</h2>
                     <h4 class="vs-section-subtitle">Together, we can</h4>
-                    <p class="vs-section-description">At Technoyuga, We are everything because of our team, and we
+                    <p class="vs-section-description">At Plazmasoft, We are everything because of our team, and we
                         are extremely proud of each and every team member who is part of our family,helping us to
                         grow and learn every step.</p>
                 </div>
@@ -54,11 +54,11 @@
                         <div class="col col-12 col-md-3 col-lg-twenty">
                             <div class="our-item1 text-end">
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img1.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img1.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img2.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img2.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                             </div>
@@ -66,11 +66,11 @@
                         <div class="col col-12 col-md-2 col-lg-twenty">
                             <div class="our-item2">
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img3.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img3.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img4.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img4.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                             </div>
@@ -78,11 +78,11 @@
                         <div class="col col-12 col-md-4 col-lg-forty">
                             <div class="our-item3">
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img5.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img5.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img6.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img6.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                             </div>
@@ -90,15 +90,15 @@
                         <div class="col col-12 col-md-2 col-lg-twenty">
                             <div class="our-item4">
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img7.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img7.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img8.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img8.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-our-culture-item">
-                                    <img src="https://technoyuga.com/web-assets/images/career-img9.png')}}" alt=""
+                                    <img src="https://plazmasoft.com/web-assets/images/career-img9.png')}}" alt=""
                                         class="img-fluid">
                                 </div>
                             </div>
@@ -113,14 +113,14 @@
     <!-- choose section start  -->
     <section class="vs-choose-section vs-section-spacer vs-section-background">
         <div class="vs-why-choose-particle">
-            <img src="https://technoyuga.com/web-assets/images/why-choose-particle.svg')}}" alt="culture particle"
+            <img src="https://plazmasoft.com/web-assets/images/why-choose-particle.svg')}}" alt="culture particle"
                 class="img-fluid">
         </div>
         <div class="container">
             <div class="vs-choose-section-content">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Why choose us ?</h2>
-                    <h4 class="vs-section-subtitle">Aspects of Technoyuga</h4>
+                    <h4 class="vs-section-subtitle">Aspects of Plazmasoft</h4>
                     <p class="vs-section-description">We promise you an inclusive work environment where you will
                         fall in love with challenging as well as getting challenged.</p>
                 </div>
@@ -129,7 +129,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/flexible-icon.svg')}}" alt="flexible"
+                                    <img src="https://plazmasoft.com/web-assets/images/flexible-icon.svg')}}" alt="flexible"
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -143,7 +143,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/ott-icon.svg')}}" alt="ott"
+                                    <img src="https://plazmasoft.com/web-assets/images/ott-icon.svg')}}" alt="ott"
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -156,7 +156,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/oppurtunities-icon.svg')}}"
+                                    <img src="https://plazmasoft.com/web-assets/images/oppurtunities-icon.svg')}}"
                                         alt="oppurtunities" class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -172,7 +172,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/interests-icon.svg')}}" alt="interests"
+                                    <img src="https://plazmasoft.com/web-assets/images/interests-icon.svg')}}" alt="interests"
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -185,7 +185,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/company-icon.svg')}}"
+                                    <img src="https://plazmasoft.com/web-assets/images/company-icon.svg')}}"
                                         alt="company-icon" class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -200,7 +200,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item m-0">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/compensation-icon.svg')}}"
+                                    <img src="https://plazmasoft.com/web-assets/images/compensation-icon.svg')}}"
                                         alt="compensation" class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -213,7 +213,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item m-0">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/enviourment-icon.svg')}}"
+                                    <img src="https://plazmasoft.com/web-assets/images/enviourment-icon.svg')}}"
                                         alt="enviourment" class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -226,7 +226,7 @@
                         <div class="col col-12 col-md-6 col-lg-4 col-xl-4">
                             <div class="vs-choose-item m-0">
                                 <div class="vs-choose-item-img">
-                                    <img src="https://technoyuga.com/web-assets/images/awards-icon.svg')}}" alt="award"
+                                    <img src="https://plazmasoft.com/web-assets/images/awards-icon.svg')}}" alt="award"
                                         class="img-fluid">
                                 </div>
                                 <div class="vs-choose-item-detail">
@@ -246,13 +246,13 @@
     <!-- opportunities section start  -->
     <section class="vs-faq-section vs-section-spacer">
         <div class="vs-opportunities-particle">
-            <img src="https://technoyuga.com/web-assets/images/opportunities-particle.svg')}}" alt="culture particle"
+            <img src="https://plazmasoft.com/web-assets/images/opportunities-particle.svg')}}" alt="culture particle"
                 class="img-fluid">
         </div>
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Trending Opportunities </h2>
-                <p class="vs-section-description">Openings At Technoyuga’s</p>
+                <p class="vs-section-description">Openings At Plazmasoft’s</p>
             </div>
             <div class="vs-faq-content">
                 <div class="accordion" id="tyOpportunities6">
@@ -387,7 +387,7 @@
                 <div class="row align-items-center">
                     <div class="col col-12 col-md-6 col-lg-6 col-xl-6">
                         <div class="vs-join-team-heading">
-                            <h2 class="vs-section-title">Join the Technoyuga team!</h2>
+                            <h2 class="vs-section-title">Join the Plazmasoft team!</h2>
                             <p class="vs-section-description">Innovate with the latest and greatest technologies &
                                 get to work on some of the coolest projects you can imagine.</p>
                             <div class="vs-join-team-button">
@@ -397,7 +397,7 @@
                     </div>
                     <div class="col col-12 col-md-6 col-lg-6 col-xl-6">
                         <div class="vs-join-team-img">
-                            <img src="https://technoyuga.com/web-assets/images/career-team.png')}}" alt="career-team"
+                            <img src="https://plazmasoft.com/web-assets/images/career-team.png')}}" alt="career-team"
                                 class="img-fluid">
                         </div>
                     </div>

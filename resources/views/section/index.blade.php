@@ -39,7 +39,7 @@
     <!-- Transparency Section Start -->
 
     <!-- Transparency Section End -->
-    <!-- Technoyuga Section Start -->
+    <!-- Plazmasoft Section Start -->
     <section class="vs-vediccode-info-section vs-section-spacer bg-white sec-pad">
         <div class="container">
             <div class="vs-vediccode-info__inner">
@@ -52,7 +52,7 @@
                             </div>
                             <div class="vs-technoyuga-info-description">
                                 <p> {{ config('app.company_name') }} is a rising web and mobile app development company
-                                    founded in {{ env('FOUNDED_ON') }}, dedicated to supporting startups, small businesses,
+                                    founded in {{ config('app.founded_on') }}, dedicated to supporting startups, small businesses,
                                     and brands with their technology needs. We offer complete end-to-end product development
                                     services, acting as true technology partners throughout your product journey—from
                                     ideation to launch.</p>
@@ -71,32 +71,25 @@
                                 <div class="col col-12 col-md-6 col-lg-6">
                                     <div class="vs-vediccode-count-card">
                                         <h3 class="vs-vediccode-count">5+</h3>
-                                        <p class="vs-vediccode-description">Successful years experience in Mobile
-                                            and
-                                            Web App Design and Development</p>
+                                        <p class="vs-vediccode-description">Years of experience building web and mobile products</p>
                                     </div>
                                 </div>
                                 <div class="col col-12 col-md-6 col-lg-6">
                                     <div class="vs-vediccode-count-card">
-                                        <h3 class="vs-vediccode-count">10k+</h3>
-                                        <p class="vs-vediccode-description">Hours worked on web and mobile app
-                                            projects
-                                            through Upwork with Top Rated Plus and 5* Feedbacks.</p>
-                                    </div>
-                                </div>
-
-                                <div class="col col-12 col-md-6 col-lg-6">
-                                    <div class="vs-vediccode-count-card">
-                                        <h3 class="vs-vediccode-count">10+</h3>
-                                        <p class="vs-vediccode-description">Dedicated Developers & Designers
-                                            worldwide.
-                                        </p>
+                                        <h3 class="vs-vediccode-count">18+</h3>
+                                        <p class="vs-vediccode-description">Projects delivered across web, mobile, and AI</p>
                                     </div>
                                 </div>
                                 <div class="col col-12 col-md-6 col-lg-6">
                                     <div class="vs-vediccode-count-card">
-                                        <h3 class="vs-vediccode-count">40+</h3>
-                                        <p class="vs-vediccode-description">Apps and Websites Developed</p>
+                                        <h3 class="vs-vediccode-count">15+</h3>
+                                        <p class="vs-vediccode-description">Happy clients from India, UAE, and beyond</p>
+                                    </div>
+                                </div>
+                                <div class="col col-12 col-md-6 col-lg-6">
+                                    <div class="vs-vediccode-count-card">
+                                        <h3 class="vs-vediccode-count">7+</h3>
+                                        <p class="vs-vediccode-description">Industries served — fintech, agritech, fleet, e-commerce, and more</p>
                                     </div>
                                 </div>
                             </div>
@@ -107,35 +100,7 @@
         </div>
 
     </section>
-    <!-- Technoyuga Section End -->
-    <!-- Awards Section Start -->
-    <section class="vs-awards-section vs-section-spacer vs-section-background sec-pad">
-
-        <div class="container">
-            <div class="vs-awards-content">
-                <div class="vs-heading-center">
-                    <h2 class="vs-section-title vs-title-border">Awards & <br />Recognitions</h2>
-                </div>
-                <div class="vs-awards-list">
-                    <div class="vs-awards-list-item">
-                        <img src="{{ asset('web-assets/images/award-clutch.svg') }}" alt="award-clutch" class="img-fluid">
-                    </div>
-                    <div class="vs-awards-list-item">
-                        <img src="{{ asset('web-assets/images/award-upwork.svg') }}" alt="award-upwork" class="img-fluid">
-                    </div>
-                    <div class="vs-awards-list-item">
-                        <img src="{{ asset('web-assets/images/award-softwareworld.svg') }}" alt="award-softwareworld"
-                            class="img-fluid">
-                    </div>
-                    <div class="vs-awards-list-item">
-                        <img src="{{ asset('web-assets/images/award-appdevelopment.svg') }}" alt="award-appdevelopment"
-                            class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Awards  Section End -->
+    <!-- Plazmasoft Section End -->
     <!-- White Space Devider Start -->
  
     <!-- White Space Devider End -->
@@ -150,7 +115,7 @@
                 <div class="row">
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="">
+                            <a href="/services/mobile-app-development">
                                 <h3 class="vs-service-card-title">Mobile App Development</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -159,35 +124,35 @@
                                         <img src="{{ asset('web-assets/images/services/react-native.svg') }}"
                                             alt="react-native" class="img-fluid">
                                     </div>
-                                    <p class="vs-service-card-item-label"><a href="">React Native</a></p>
+                                    <p class="vs-service-card-item-label"><a href="/services/react-native-app-development">React Native</a></p>
                                 </div>
                                 <div class="vs-service-card-item">
                                     <div class="vs-service-card-item-logo">
                                         <img src="{{ asset('web-assets/images/services/flutter.svg') }}" alt="flutter"
                                             class="img-fluid">
                                     </div>
-                                    <p class="vs-service-card-item-label"><a href="">Flutter</a></p>
+                                    <p class="vs-service-card-item-label"><a href="/services/flutter-app-development">Flutter</a></p>
                                 </div>
                                 <div class="vs-service-card-item">
                                     <div class="vs-service-card-item-logo">
                                         <img src="{{ asset('web-assets/images/services/android.svg') }}" alt="android"
                                             class="img-fluid">
                                     </div>
-                                    <p class="vs-service-card-item-label"><a href="">Android App</a></p>
+                                    <p class="vs-service-card-item-label"><a href="/services/android-app-development">Android App</a></p>
                                 </div>
                                 <div class="vs-service-card-item">
                                     <div class="vs-service-card-item-logo">
                                         <img src="{{ asset('web-assets/images/services/ios.svg') }}" alt="ios"
                                             class="img-fluid">
                                     </div>
-                                    <p class="vs-service-card-item-label"><a href="">iOS App</a></p>
+                                    <p class="vs-service-card-item-label"><a href="/services/ios-app-development">iOS App</a></p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="">
+                            <a href="/services/web-app-development">
                                 <h3 class="vs-service-card-title">Web App Development</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -224,7 +189,7 @@
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="services/ui-ux-design.html">
+                            <a href="/services/ui-ux-development">
                                 <h3 class="vs-service-card-title">UI/UX Design</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -261,7 +226,7 @@
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="services/app-maintenance.html">
+                            <a href="/services/app-maintenance">
                                 <h3 class="vs-service-card-title">App Maintenance</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -298,7 +263,7 @@
                     </div>
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="">
+                            <a href="/services/iot-development">
                                 <h3 class="vs-service-card-title">IoT Development</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -336,7 +301,7 @@
 
                     <div class="col col-12 col-md-6 col-lg-4">
                         <div class="vs-service-card">
-                            <a href="">
+                            <a href="/services/chatgpt-development">
                                 <h3 class="vs-service-card-title">ChatGPT development</h3>
                             </a>
                             <div class="vs-service-card-item-list">
@@ -384,7 +349,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Excel At</h2>
                 <h4 class="vs-section-subtitle">Delivering Outsourced IT Services for Every Industry </h4>
-                <p class="vs-section-description">At <a href="{{ route('index') }}">{{ env('COMPANY_NAME') }}</a> we
+                <p class="vs-section-description">At <a href="{{ route('index') }}">{{ config('app.company_name') }}</a> we
                     believe in the power of industry expertise. By partnering with experienced professionals, we deliver
                     superior products while keeping timelines and costs in check. Our areas of expertise include:</p>
             </div>
@@ -521,7 +486,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Development Toolkit</h2>
                 <p class="vs-section-description">
-                    At {{ env('COMPANY_NAME') }}, we leverage scalable and cutting-edge frameworks and technologies to
+                    At {{ config('app.company_name') }}, we leverage scalable and cutting-edge frameworks and technologies to
                     build mobile apps, backend systems, and web applications for our clients.
                 </p>
             </div>
@@ -544,7 +509,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Toolkit</h3>
-                                    <p class="vs-stack-tab-description">{{ env('COMPANY_NAME') }} Mobile App Development
+                                    <p class="vs-stack-tab-description">{{ config('app.company_name') }} Mobile App Development
                                         teams utilize the latest tech frameworks to bring your dream mobile apps to life.
                                     </p>
                                 </div>

@@ -16,7 +16,7 @@
                             <div class="vs-landing-content__inner">
         <h1 class="vs-section-title vs-title-border">Best Fitness </span></h1>
         <h2 class="vs-section-subtitle">App Development Company</h2>
-        <p class="vs-section-description">Take your small fitness business one step ahead and make it a well-known fitness brand. TechnoYuga's revenue-driven fitness app development services can help you with that. Elevate user engagement, streamline business operations, and stay ahead of the competition with our assistance. From personalized workout modules to robust data analytics, we deliver scalable and feature-rich fitness app development solutions. Transform your fitness vision into a digital reality with TechnoYuga – A leading fitness app development company.</p>
+        <p class="vs-section-description">Take your small fitness business one step ahead and make it a well-known fitness brand. Plazmasoft's revenue-driven fitness app development services can help you with that. Elevate user engagement, streamline business operations, and stay ahead of the competition with our assistance. From personalized workout modules to robust data analytics, we deliver scalable and feature-rich fitness app development solutions. Transform your fitness vision into a digital reality with Plazmasoft – A leading fitness app development company.</p>
     </div>
 
                     </div>
@@ -151,7 +151,7 @@
             <div class="container">
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Outstanding Fitness App Development Services</h2>
-                    <p class="vs-section-description">Accelerate your fitness business growth with the best fitness mobile app development services by TechnoYuga. We have a pool of dedicated fitness app developers for hire who can be saviour. So, tighten your belt, share your requirements to create a fitness application and leave the rest to us. Take a glimpse at our fitness app development services.</p>
+                    <p class="vs-section-description">Accelerate your fitness business growth with the best fitness mobile app development services by Plazmasoft. We have a pool of dedicated fitness app developers for hire who can be saviour. So, tighten your belt, share your requirements to create a fitness application and leave the rest to us. Take a glimpse at our fitness app development services.</p>
                 </div>
                 <div class="vs-service-content mb-0">
                     <div class="row">
@@ -165,7 +165,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Elevate your fitness app vision with our professional mobile app consultation services. At TechnoYuga, we analyze market trends, and craft a strategic roadmap, ensuring your app stands out in the competitive fitness tech landscape. Let’s connect now!</p>
+                                    <p class="vs-service-card-description">Elevate your fitness app vision with our professional mobile app consultation services. At Plazmasoft, we analyze market trends, and craft a strategic roadmap, ensuring your app stands out in the competitive fitness tech landscape. Let’s connect now!</p>
                                 </a>
                             </div>
                         </div>
@@ -193,7 +193,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Seize the on-demand fitness revolution while choosing TechnoYuga as your fitness app development partner. Our specialized team designs and develops dynamic apps, offering personalized fitness experiences, convenient scheduling, and real-time access to trainers.</p>
+                                    <p class="vs-service-card-description">Seize the on-demand fitness revolution while choosing Plazmasoft as your fitness app development partner. Our specialized team designs and develops dynamic apps, offering personalized fitness experiences, convenient scheduling, and real-time access to trainers.</p>
                                 </a>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">User-friendly Features of Fitness App Development</h2>
                     <p class="vs-section-description">
-                        Are you planning to develop a fitness app that can attract millions of fitness freaks in a go? If yes, creating user-friendly panels with unique features is the best bet. TechnoYuga, the best fitness app development company can create perfect panels for fitness applications so that everyone can easily access them, be it a fitness professional or a user. Have a look!
+                        Are you planning to develop a fitness app that can attract millions of fitness freaks in a go? If yes, creating user-friendly panels with unique features is the best bet. Plazmasoft, the best fitness app development company can create perfect panels for fitness applications so that everyone can easily access them, be it a fitness professional or a user. Have a look!
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -661,7 +661,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Result-Oriented Fitness App Development Solutions</h2>
                     <p class="vs-section-description">
-                        At TechnoYuga, our result-oriented fitness mobile app development solutions focus on creating applications that deliver tangible outcomes and positive user results. Our every fitness app is designed to help individuals achieve their fitness goals. Here are the different types of result-oriented fitness app development solutions we offer.
+                        At Plazmasoft, our result-oriented fitness mobile app development solutions focus on creating applications that deliver tangible outcomes and positive user results. Our every fitness app is designed to help individuals achieve their fitness goals. Here are the different types of result-oriented fitness app development solutions we offer.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -734,7 +734,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Integrating health monitoring features, such as heart rate tracking and sleep analysis, provides a holistic approach to wellness. TechnoYuga, being the best fitness app development company use the best health monitoring integration while offering fitness app development services. </p>
+                                    <p class="vs-service-card-description">Integrating health monitoring features, such as heart rate tracking and sleep analysis, provides a holistic approach to wellness. Plazmasoft, being the best fitness app development company use the best health monitoring integration while offering fitness app development services. </p>
                                 </a>
                             </div>
                         </div>
@@ -770,7 +770,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Some result-oriented fitness apps offer virtual coaching through video tutorials, voice guidance, or interactive features. If you also want to develop a virtual coaching fitness app, feel free to contact the experts of TechnoYuga today. We have a team of professionals who can help you with that.</p>
+                                    <p class="vs-service-card-description">Some result-oriented fitness apps offer virtual coaching through video tutorials, voice guidance, or interactive features. If you also want to develop a virtual coaching fitness app, feel free to contact the experts of Plazmasoft today. We have a team of professionals who can help you with that.</p>
                                 </a>
                             </div>
                         </div>
@@ -1940,7 +1940,7 @@
             <div class="container">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Affordable Models to Hire Fitness App Developers</h2>
-                    <p class="vs-section-description">Do you want to embark on your fitness app journey without breaking the bank? Discover a realm of affordable models to hire fitness app developers from TechnoYuga. Our skilled professionals craft tailored solutions, ensuring your vision comes to life at a budget-friendly fitness app development cost. Unleash the power of innovation without compromising quality. Elevate your fitness app with TechnoYuga today!</p>
+                    <p class="vs-section-description">Do you want to embark on your fitness app journey without breaking the bank? Discover a realm of affordable models to hire fitness app developers from Plazmasoft. Our skilled professionals craft tailored solutions, ensuring your vision comes to life at a budget-friendly fitness app development cost. Unleash the power of innovation without compromising quality. Elevate your fitness app with Plazmasoft today!</p>
                 </div>
                 <div class="vs-fintech-forward-content">
                     <div class="row">
@@ -1949,7 +1949,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Fitness App Developers Part-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Want to hire dedicated fitness app developers on a part-time basis? TechnoYuga can be your one-stop destination. Harness their talent for your fitness app goals without the constraints of a full-time commitment. Elevate your on-demand fitness application with part-time fitness app developers.</p>
+                                        <p class="vs-fintech-forward-card-description">Want to hire dedicated fitness app developers on a part-time basis? Plazmasoft can be your one-stop destination. Harness their talent for your fitness app goals without the constraints of a full-time commitment. Elevate your on-demand fitness application with part-time fitness app developers.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1988,7 +1988,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">Looking forward to hire dedicated developers for fitness app development. TechnoYuga, the best fitness app development company, can help you. With a pool of experts, we can be your perfect partner. Say goodbye to all your budget concerns while choosing us as your development partner. </p>
+                                        <p class="vs-fintech-forward-card-description">Looking forward to hire dedicated developers for fitness app development. Plazmasoft, the best fitness app development company, can help you. With a pool of experts, we can be your perfect partner. Say goodbye to all your budget concerns while choosing us as your development partner. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2008,7 +2008,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2023,7 +2023,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2031,7 +2031,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2259,14 +2259,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2441,7 +2441,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2494,7 +2494,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2518,7 +2518,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2641,10 +2641,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2690,7 +2690,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2732,7 +2732,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2813,7 +2813,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2862,7 +2862,7 @@
                             <div id="collapseFaq1" class="accordion-collapse collapse show"
                                 aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>TechnoYuga, a well-known fitness app development company, focuses on delivering high-quality mobile app development solutions at a reasonable cost. Our team works day and night to deliver the project within the promised deadline. </p>
+                                    <p>Plazmasoft, a well-known fitness app development company, focuses on delivering high-quality mobile app development solutions at a reasonable cost. Our team works day and night to deliver the project within the promised deadline. </p>
                                 </div>
                             </div>
                         </div>
@@ -2890,7 +2890,7 @@
                             <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>If you are developing a basic fitness application, it may cost around $8,000. If you create a highly advanced fitness mobile app, the cost will go beyond $25,000, depending on the shared requirements. To know the exact fitness app development cost, connect with TechnoYuga. </p>
+                                    <p>If you are developing a basic fitness application, it may cost around $8,000. If you create a highly advanced fitness mobile app, the cost will go beyond $25,000, depending on the shared requirements. To know the exact fitness app development cost, connect with Plazmasoft. </p>
                                 </div>
                             </div>
                         </div>
@@ -2933,7 +2933,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Share Your Fitness App Development Idea with Us!</h2>
-                <p class="vs-section-description">Do you have a fitness app idea? Want to bring it to real life? Turn to TechnoYuga’s fitness app development services and kickstart your online journey right away!</p>
+                <p class="vs-section-description">Do you have a fitness app idea? Want to bring it to real life? Turn to Plazmasoft’s fitness app development services and kickstart your online journey right away!</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3148,7 +3148,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

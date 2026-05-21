@@ -17,7 +17,7 @@
         <h1 class="vs-section-title vs-title-border">Best FinTech</span></h1>
         <h2 class="vs-section-subtitle">App Development Company</h2>
         <p class="vs-section-description">Transform your financial business with cutting-edge
-            FinTech app development services from Technoyuga Technologies! Our FinTech software
+            FinTech app development services from Plazmasoft Technologies! Our FinTech software
             development team streamlines operations, secures transactions, and improves customer
             experience. Accelerate your digital innovation now.</p>
     </div>
@@ -156,7 +156,7 @@
             <div class="container">
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Result-Driven Fintech App Development Services</h2>
-                    <p class="vs-section-description">Take a glimpse at the best fintech app development solutions offered by TechnoYuga.</p>
+                    <p class="vs-section-description">Take a glimpse at the best fintech app development solutions offered by Plazmasoft.</p>
                 </div>
                 <div class="vs-service-content mb-0">
                     <div class="row">
@@ -212,7 +212,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">At TechnoYuga, we create insurance apps for policy management, claims processing, and underwriting, allowing users to access their insurance policies and file claims. Connect with us now!</p>
+                                    <p class="vs-service-card-description">At Plazmasoft, we create insurance apps for policy management, claims processing, and underwriting, allowing users to access their insurance policies and file claims. Connect with us now!</p>
                                 </a>
                             </div>
                         </div>
@@ -255,7 +255,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Salient Features of Fintech Mobile App</h2>
                     <p class="vs-section-description">
-                        Do you want to develop an interactive fintech app that can take your business to the heights? Look no further than TechnoYuga fintech mobile app development services. Our professionals create a fintech app with user-friendly panels that are easy to access. Let’s take a glimpse.
+                        Do you want to develop an interactive fintech app that can take your business to the heights? Look no further than Plazmasoft fintech mobile app development services. Our professionals create a fintech app with user-friendly panels that are easy to access. Let’s take a glimpse.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -652,7 +652,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Domain-Oriented Fintech App Development Services</h2>
                     <p class="vs-section-description">
-                        TechnoYuga can be your trusted partner in domain-oriented fintech app development services. Explore our expertise in crafting cutting-edge solutions across various financial domains to empower your business and meet the evolving needs of your users. Here’s a quick glimpse of the domain-oriented fintech app development services offered by us.
+                        Plazmasoft can be your trusted partner in domain-oriented fintech app development services. Explore our expertise in crafting cutting-edge solutions across various financial domains to empower your business and meet the evolving needs of your users. Here’s a quick glimpse of the domain-oriented fintech app development services offered by us.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -2121,7 +2121,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Fintech Developers Part-time</h3>
-                                        <p class="vs-fintech-forward-card-description">TechnoYuga offers the flexibility to bolster your Fintech projects with skilled developers part-time. Our curated team of Fintech app development experts are ready to contribute their expertise to your projects, ensuring you get the right talent without the commitment of a full-time hire.</p>
+                                        <p class="vs-fintech-forward-card-description">Plazmasoft offers the flexibility to bolster your Fintech projects with skilled developers part-time. Our curated team of Fintech app development experts are ready to contribute their expertise to your projects, ensuring you get the right talent without the commitment of a full-time hire.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2147,7 +2147,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Fintech Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">Need Fintech expertise on a flexible schedule? Look no further. TechnoYuga offers hourly hiring solutions for Fintech app developers, allowing you to optimize costs and resources. Our skilled professionals are available hourly, ensuring you only pay for the needed time.</p>
+                                        <p class="vs-fintech-forward-card-description">Need Fintech expertise on a flexible schedule? Look no further. Plazmasoft offers hourly hiring solutions for Fintech app developers, allowing you to optimize costs and resources. Our skilled professionals are available hourly, ensuring you only pay for the needed time.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2160,7 +2160,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Fintech Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">Experience unparalleled commitment with our dedicated Fintech developers at TechnoYuga. When you hire dedicated developers from us, you secure a team fully immersed in your Fintech projects. Share your fintech app development requirements and hire dedicated developers accordingly.</p>
+                                        <p class="vs-fintech-forward-card-description">Experience unparalleled commitment with our dedicated Fintech developers at Plazmasoft. When you hire dedicated developers from us, you secure a team fully immersed in your Fintech projects. Share your fintech app development requirements and hire dedicated developers accordingly.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2180,7 +2180,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2195,7 +2195,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2203,7 +2203,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2431,14 +2431,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2613,7 +2613,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2666,7 +2666,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2690,7 +2690,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2813,10 +2813,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2863,7 +2863,7 @@
 
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2905,7 +2905,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2986,7 +2986,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3108,7 +3108,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Discuss Your Fintech App Idea with Us!</h2>
-                <p class="vs-section-description">Accelerate your banking and fintech business growth with a revenue-driven fintech app crafted by TechnoYuga professionals. Feel free to share your requirements to develop a fintech app.</p>
+                <p class="vs-section-description">Accelerate your banking and fintech business growth with a revenue-driven fintech app crafted by Plazmasoft professionals. Feel free to share your requirements to develop a fintech app.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3326,7 +3326,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

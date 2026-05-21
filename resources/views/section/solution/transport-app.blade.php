@@ -16,7 +16,7 @@
                             <div class="vs-landing-content__inner">
         <h1 class="vs-section-title vs-title-border">Best Transport</span></h1>
         <h2 class="vs-section-subtitle">App Development Company</h2>
-        <p class="vs-section-description">Revolutionize your small transport business into a leading one with the assistance of the best transport app development company. TechnoYuga specializes in crafting innovative applications tailored to streamline logistics, enhance fleet management, and boost overall operational business efficiency. Get ready to embrace the future of transportation technology with our expert team, ensuring seamless connectivity and optimization at every turn. Drop your project requirements today.</p>
+        <p class="vs-section-description">Revolutionize your small transport business into a leading one with the assistance of the best transport app development company. Plazmasoft specializes in crafting innovative applications tailored to streamline logistics, enhance fleet management, and boost overall operational business efficiency. Get ready to embrace the future of transportation technology with our expert team, ensuring seamless connectivity and optimization at every turn. Drop your project requirements today.</p>
     </div>
 
                     </div>
@@ -151,7 +151,7 @@
             <div class="container">
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Business-Oriented Transport App Development Services</h2>
-                    <p class="vs-section-description">Step into a journey of innovation with our business-oriented transport app development services. TechnoYuga, the best transport app development company, seamlessly blends cutting-edge technology and business acumen to craft apps that revolutionize your transportation game. Elevate your operations, enhance efficiency, and drive success with bespoke solutions tailored to your unique needs.</p>
+                    <p class="vs-section-description">Step into a journey of innovation with our business-oriented transport app development services. Plazmasoft, the best transport app development company, seamlessly blends cutting-edge technology and business acumen to craft apps that revolutionize your transportation game. Elevate your operations, enhance efficiency, and drive success with bespoke solutions tailored to your unique needs.</p>
                 </div>
                 <div class="vs-service-content mb-0">
                     <div class="row">
@@ -207,7 +207,7 @@
                                                 class="img-fluid">
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Navigate the intersection of aesthetics and functionality with our transport app UX/UI design services. From interactive interfaces to captivating designs, TechnoYuga designers always ensure your app transports users physically and captivates them on a visual journey.</p>
+                                    <p class="vs-service-card-description">Navigate the intersection of aesthetics and functionality with our transport app UX/UI design services. From interactive interfaces to captivating designs, Plazmasoft designers always ensure your app transports users physically and captivates them on a visual journey.</p>
                                 </a>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">User-Driven Features of Transport Mobile App</h2>
                     <p class="vs-section-description">
-                        Do you run a transport business and plan to develop a mobile app to create a strong online presence? If yes, then TechnoYuga is your go-to transport app development company. With a pool of transport app developers, we can help you integrate user-friendly features into every panel that keeps users engaged and satisfied.
+                        Do you run a transport business and plan to develop a mobile app to create a strong online presence? If yes, then Plazmasoft is your go-to transport app development company. With a pool of transport app developers, we can help you integrate user-friendly features into every panel that keeps users engaged and satisfied.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -661,7 +661,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Growth-Driven Transport App Development Solutions</h2>
                     <p class="vs-section-description">
-                        Turn your small transportation business into profit-driven transportation services. From revolutionizing daily commutes through our Ride-Sharing App to crafting unforgettable travel experiences with the Tour Travel App, we redefine convenience. Explore seamless Car Rentals, efficient Deliveries, and more with our Logistics App and power up the future with our Electric Vehicle Charging App. Connect with TechnoYuga, a leading transport app development company, for the best solutions.
+                        Turn your small transportation business into profit-driven transportation services. From revolutionizing daily commutes through our Ride-Sharing App to crafting unforgettable travel experiences with the Tour Travel App, we redefine convenience. Explore seamless Car Rentals, efficient Deliveries, and more with our Logistics App and power up the future with our Electric Vehicle Charging App. Connect with Plazmasoft, a leading transport app development company, for the best solutions.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -698,7 +698,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Explore the world with our Tour and travel App development solutions. From itinerary planning to real-time updates, empower travellers to embark on unforgettable journeys, making every adventure memorable and stress-free. Request a quote from TechnoYuga professionals.</p>
+                                    <p class="vs-service-card-description">Explore the world with our Tour and travel App development solutions. From itinerary planning to real-time updates, empower travellers to embark on unforgettable journeys, making every adventure memorable and stress-free. Request a quote from Plazmasoft professionals.</p>
                                 </a>
                             </div>
                         </div>
@@ -752,7 +752,7 @@
                                             </svg>
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Embrace eco-friendly mobility with our Bike and scooter-sharing app services. Transform urban transportation by providing an accessible, sustainable, cost-effective solution for short-distance travel. Shake hands with TechnoYuga, the best transport app development company; we will take care of the rest.</p>
+                                    <p class="vs-service-card-description">Embrace eco-friendly mobility with our Bike and scooter-sharing app services. Transform urban transportation by providing an accessible, sustainable, cost-effective solution for short-distance travel. Shake hands with Plazmasoft, the best transport app development company; we will take care of the rest.</p>
                                 </a>
                             </div>
                         </div>
@@ -2114,7 +2114,7 @@
             <div class="container">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Affordable Models to Hire Transport App Developers</h2>
-                    <p class="vs-section-description">Planning to embark on your online transportation app project without breaking the bank? Discover a wide range of budget-friendly alternatives for skilled transport app developers at TechnoYuga. Our skilled professionals craft tailored solutions, transforming your ideas into reality at an affordable price for personalized transportation mobile app development. Let’s take a glimpse at the reasonable hiring models we offer.</p>
+                    <p class="vs-section-description">Planning to embark on your online transportation app project without breaking the bank? Discover a wide range of budget-friendly alternatives for skilled transport app developers at Plazmasoft. Our skilled professionals craft tailored solutions, transforming your ideas into reality at an affordable price for personalized transportation mobile app development. Let’s take a glimpse at the reasonable hiring models we offer.</p>
                 </div>
                 <div class="vs-fintech-forward-content">
                     <div class="row">
@@ -2182,7 +2182,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2197,7 +2197,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2205,7 +2205,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2433,14 +2433,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2615,7 +2615,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2668,7 +2668,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2692,7 +2692,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2815,10 +2815,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2864,7 +2864,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2903,7 +2903,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2984,7 +2984,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3104,7 +3104,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Drop Your Transport App Development Idea with Us!</h2>
-                <p class="vs-section-description">Got some amazing ideas to bring your transport business online? Seek the industry-best transportation mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+                <p class="vs-section-description">Got some amazing ideas to bring your transport business online? Seek the industry-best transportation mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3316,7 +3316,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

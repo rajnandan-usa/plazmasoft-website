@@ -76,13 +76,15 @@ Route::middleware('redirectExceptAllowed')->group(function () {
     // Team routes
     Route::controller(TeamController::class)->name("team.")->prefix("team")->group(function () {
         Route::get("/", "index")->name("index");
-        Route::get("/flutter-developer", "flutter_developer")->name("flutter_developer");
-        Route::get("/reactjs-developer", "reactjs_developer")->name("reactjs_developer");
-        Route::get("/fullstack-developer", "fullstack_developer")->name("fullstack_developer");
-        Route::get("/mernstack-developer", "mernstack_developer")->name("mernstack_developer");
-        Route::get("/reactnative-developer", "reactnative_developer")->name("reactnative_developer");
-        Route::get("/dedicated-developer", "dedicated_developer")->name("dedicated_developer");
     });
+
+    // 301 redirects for removed "Hire Developers" pages
+    Route::redirect('/team/flutter-developer', '/contact', 301);
+    Route::redirect('/team/reactjs-developer', '/contact', 301);
+    Route::redirect('/team/fullstack-developer', '/contact', 301);
+    Route::redirect('/team/mernstack-developer', '/contact', 301);
+    Route::redirect('/team/reactnative-developer', '/contact', 301);
+    Route::redirect('/team/dedicated-developer', '/contact', 301);
 
     // Portfolio routes
     Route::controller(PortfolioController::class)->name("portfolio.")->prefix("portfolio-projects")->group(function () {

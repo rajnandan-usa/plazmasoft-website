@@ -16,7 +16,7 @@
     <h1 class="vs-section-title vs-title-border">Stock Trading App</span></h1>
     <h2 class="vs-section-subtitle">Development Company</h2>
     <p class="vs-section-description">
-        Looking for a leading stock trading app development company? TechnoYuga is just one click away! We have a team of dedicated stock trading app developers who can build a trading app with perfection. Our exclusive stock trading app development services empower all-scale businesses to stay ahead of the competition. Feel free to discuss your stock trading app development idea with our experts and let them take care of the rest.
+        Looking for a leading stock trading app development company? Plazmasoft is just one click away! We have a team of dedicated stock trading app developers who can build a trading app with perfection. Our exclusive stock trading app development services empower all-scale businesses to stay ahead of the competition. Feel free to discuss your stock trading app development idea with our experts and let them take care of the rest.
     </p>
 </div>
 
@@ -152,7 +152,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Top-Notch Stock Trading App Development Services</h2>
-                <p class="vs-section-description">Elevate your trading experience with TechnoYuga's best stock trading app development services. We craft dynamic, user-centric applications that seamlessly integrate real-time market data. Our custom stock trading app development solutions empower users with comprehensive portfolio management tools. Trust us to deliver a cutting-edge stock trading mobile app tailored to your unique requirements, revolutionizing your trading journey.</p>
+                <p class="vs-section-description">Elevate your trading experience with Plazmasoft's best stock trading app development services. We craft dynamic, user-centric applications that seamlessly integrate real-time market data. Our custom stock trading app development solutions empower users with comprehensive portfolio management tools. Trust us to deliver a cutting-edge stock trading mobile app tailored to your unique requirements, revolutionizing your trading journey.</p>
             </div>
             <div class="vs-service-content mb-0">
                 <div class="row">
@@ -167,7 +167,7 @@
                                     </div>
                                 </div>
                                 <p class="vs-service-card-description">
-                                Do you have an idea for trading app development? Want to bring it to real life? Avail stock trading app consultation services from TechnoYuga. Our experts will analyze the project requirements and help you build stock trading app that will withstand competition.</p>
+                                Do you have an idea for trading app development? Want to bring it to real life? Avail stock trading app consultation services from Plazmasoft. Our experts will analyze the project requirements and help you build stock trading app that will withstand competition.</p>
                             </a>
                         </div>
                     </div>
@@ -226,7 +226,7 @@
                                     </div>
                                 </div>
                                 <p class="vs-service-card-description">
-                                    Do you want to hire dedicated developers from a leading mobile app development company for your project? We've got you covered! Choose from our flexible hiring models and let our experts be your savior. Hire stock trading app developers from TechnoYuga now.  </p>
+                                    Do you want to hire dedicated developers from a leading mobile app development company for your project? We've got you covered! Choose from our flexible hiring models and let our experts be your savior. Hire stock trading app developers from Plazmasoft now.  </p>
                             <!-- </a> -->
                         </div>
                     </div>
@@ -241,7 +241,7 @@
                                     </div>
                                 </div>
                                 <p class="vs-service-card-description">
-                                    We offer comprehensive <a href="https://technoyuga.com/services/app-maintenance">support and maintenance services</a> for stock trading apps. Our expert team provides timely updates, bug fixes, and technical assistance to optimize app performance. With dedicated support, users can trade confidently, enhancing their overall experience.</p>
+                                    We offer comprehensive <a href="https://plazmasoft.com/services/app-maintenance">support and maintenance services</a> for stock trading apps. Our expert team provides timely updates, bug fixes, and technical assistance to optimize app performance. With dedicated support, users can trade confidently, enhancing their overall experience.</p>
                             <!-- </a> -->
                         </div>
                     </div>
@@ -257,7 +257,7 @@
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Key Features of Stock Trading App Development</h2>
                 <p class="vs-section-description">
-                    Are you planning to develop stock trading mobile app that is feature-rich? At TechnoYuga, our dedicated developers can help you build stock trading app that users will love to access. Here’s a glimpse of the key features mentioned by our on-demand app development company professionals.
+                    Are you planning to develop stock trading mobile app that is feature-rich? At Plazmasoft, our dedicated developers can help you build stock trading app that users will love to access. Here’s a glimpse of the key features mentioned by our on-demand app development company professionals.
                 </p>
             </div>
             <div class="vs-fintech-app-feature-content">
@@ -1782,7 +1782,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Stock Trading App Developers</h2>
-                <p class="vs-section-description">Interested in hiring dedicated developers for custom stock trading app development? Reach out to TechnoYuga. Our trading app development team comprises skilled professional developers who can serve as invaluable assets. Below, you'll find flexible models to hire dedicated developers.</p>
+                <p class="vs-section-description">Interested in hiring dedicated developers for custom stock trading app development? Reach out to Plazmasoft. Our trading app development team comprises skilled professional developers who can serve as invaluable assets. Below, you'll find flexible models to hire dedicated developers.</p>
             </div>
             <div class="vs-fintech-forward-content">
                 <div class="row">
@@ -1791,7 +1791,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Want to hire developers on a part-time basis for your stock trading app development project? Choose this model for stock trading app development solutions. TechnoYuga offers experienced professionals available for part-time engagements. Discuss your app requirements with our dedicated mobile app developers.</p>
+                                    <p class="vs-fintech-forward-card-description">Want to hire developers on a part-time basis for your stock trading app development project? Choose this model for stock trading app development solutions. Plazmasoft offers experienced professionals available for part-time engagements. Discuss your app requirements with our dedicated mobile app developers.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1804,7 +1804,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                    <p class="vs-fintech-forward-card-description">Optimize your business potential with full-time support from top-tier stock trading mobile app developers. Choose TechnoYuga to hire full-time developers and benefit from our adaptable and cost-effective stock trading app development approach. Feel free to choose us as your on-demand app development company or hire developers full-time.</p>
+                                    <p class="vs-fintech-forward-card-description">Optimize your business potential with full-time support from top-tier stock trading mobile app developers. Choose Plazmasoft to hire full-time developers and benefit from our adaptable and cost-effective stock trading app development approach. Feel free to choose us as your on-demand app development company or hire developers full-time.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1817,7 +1817,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                    <p class="vs-fintech-forward-card-description">Are you looking forward to hire developers hourly? Utilize TechnoYuga's efficient recruitment strategies to find full-time, part-time, or hourly developers for your stock trading app development project. Let our dedicated developers handle the hiring process after scheduling a meeting. Discuss your project idea with our professionals.</p>
+                                    <p class="vs-fintech-forward-card-description">Are you looking forward to hire developers hourly? Utilize Plazmasoft's efficient recruitment strategies to find full-time, part-time, or hourly developers for your stock trading app development project. Let our dedicated developers handle the hiring process after scheduling a meeting. Discuss your project idea with our professionals.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1830,7 +1830,7 @@
                             <div class="vs-fintech-forward-card-head">
                                 <div class="vs-fintech-forward-detail">
                                     <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                    <p class="vs-fintech-forward-card-description">Interested in hiring dedicated developers for on-demand stock trading app development? Consult with TechnoYuga's professionals to discuss your project goals and requirements. Share your project details to engage experienced and committed developers for your project. Get ready to hire dedicated developers for stock trading app development.</p>
+                                    <p class="vs-fintech-forward-card-description">Interested in hiring dedicated developers for on-demand stock trading app development? Consult with Plazmasoft's professionals to discuss your project goals and requirements. Share your project details to engage experienced and committed developers for your project. Get ready to hire dedicated developers for stock trading app development.</p>
                                 </div>
                                 <div class="vs-fintech-forward-icon">
                                     <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -1850,7 +1850,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                 <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                    technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                    technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                     Apps</a> , Backend and Web applications for our clients. </p>
             </div>
             <div class="vs-technology-content">
@@ -1865,7 +1865,7 @@
                                     <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                     <p class="vs-stack-tab-description">We follow the agile methodology and
                                         technology
-                                        framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                        framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                 </div>
                             </div>
                             <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -1873,7 +1873,7 @@
                                 aria-selected="false">
                                 <div class="vs-technology-stack-tab-btn">
                                     <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                    <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                    <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                         teams follow the
                                         trending tech frameworks for your dream Mobile apps.
                                     </p>
@@ -2101,14 +2101,14 @@
         </div>
     </section>
     <!-- Technology Stack Section End -->
-<!-- Why Technoyuga Section Start -->
+<!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
 <div class="vs-why-technoyuga-particles">
     <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
 </div>
 <div class="container">
     <div class="vs-heading-center">
-        <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+        <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
         <p class="vs-section-description">ROI-focussed finance app development services</p>
     </div>
     <div class="vs-app-project-content">
@@ -2283,7 +2283,7 @@
     </div>
 </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
 <!-- Testimonials Section Start -->
     <section class="vs-testimonials-section vs-section-spacer vs-section-background">
         <div class="container">
@@ -2336,7 +2336,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.</p>
                             </div>
@@ -2360,7 +2360,7 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                    second project with Krishna and the team Technoyuga, they did a decent job and
+                                    second project with Krishna and the team Plazmasoft, they did a decent job and
                                     delivered the work on time . I'm happy to recommend them for any Web and react
                                     native app development work.</p>
                             </div>
@@ -2483,10 +2483,10 @@
                             </div>
                             <div class="vs-testimonial-description">
                                 <p>As a finance consultant based out of Germany, I acquired the support of
-                                    Technoyuga developing a financial services app. Krishna and his team were able
+                                    Plazmasoft developing a financial services app. Krishna and his team were able
                                     to convert my vision into an easy to use app well within the agreed deadline.
                                     Now they are supporting me in marketing and social media efforts. I can
-                                    recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                    recommend Krishna and Plazmasoft to any business needing IT support.</p>
                             </div>
                         </div>
                     </div>
@@ -2532,7 +2532,7 @@
                                 </div>
                             </div>
                             <div class="vs-testimonial-description">
-                                <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                     Topline in last 2 years and we are very happy with the end results. They
                                     provided exceptional support even after delivery of the project.
                                 </p>
@@ -2571,7 +2571,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                            <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2652,7 +2652,7 @@
                             </svg>
                         </div>
                         <div class="vs-related-card-body">
-                            <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                            <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                         </div>
                     </div>
                 </div>
@@ -2701,7 +2701,7 @@
                         <div id="collapseFaq1" class="accordion-collapse collapse show"
                             aria-labelledby="headingFaq1" data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga is a top stock trading app development company known for its expertise and quality services. We have been delivering exceptional stock trading app development services to all-scale businesses for decades. Feel free to connect with our mobile app development company.</p>
+                                <p>Plazmasoft is a top stock trading app development company known for its expertise and quality services. We have been delivering exceptional stock trading app development services to all-scale businesses for decades. Feel free to connect with our mobile app development company.</p>
                             </div>
                         </div>
                     </div>
@@ -2715,7 +2715,7 @@
                         <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>The cost of to build stock trading app is based on multiple factors, such as project size, complexity, features, technologies, and more. Stock Trading App Development costs vary based on features and complexity but typically range from $5,000 to $25,000. To get an accurate cost estimation, connect with TechnoYuga.</p>
+                                <p>The cost of to build stock trading app is based on multiple factors, such as project size, complexity, features, technologies, and more. Stock Trading App Development costs vary based on features and complexity but typically range from $5,000 to $25,000. To get an accurate cost estimation, connect with Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2729,7 +2729,7 @@
                         <div id="collapseFaq3" class="accordion-collapse collapse" aria-labelledby="headingFaq3"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>If you are worried about stock trading app development professionals, hire developers at low stock trading mobile app development costs. TechnoYuga offers dedicated Stock Trading App developers at competitive rates without compromising on quality, ensuring cost-effectiveness for your project.</p>
+                                <p>If you are worried about stock trading app development professionals, hire developers at low stock trading mobile app development costs. Plazmasoft offers dedicated Stock Trading App developers at competitive rates without compromising on quality, ensuring cost-effectiveness for your project.</p>
                             </div>
                         </div>
                     </div>
@@ -2757,7 +2757,7 @@
                         <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga provides comprehensive mobile app support and maintenance services for Stock Trading Mobile Apps. We ensure smooth operation and timely updates for every mobile app and website we create. </p>
+                                <p>Plazmasoft provides comprehensive mobile app support and maintenance services for Stock Trading Mobile Apps. We ensure smooth operation and timely updates for every mobile app and website we create. </p>
                             </div>
                         </div>
                     </div>
@@ -2765,13 +2765,13 @@
                         <h2 class="accordion-header" id="headingFaq6">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                Q6. Why Should I Choose TechnoYuga As A Stock Trading App Development Company?
+                                Q6. Why Should I Choose Plazmasoft As A Stock Trading App Development Company?
                             </button>
                         </h2>
                         <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga stands out for its expertise, reliability, and commitment to delivering high-quality Stock Trading Apps tailored to client needs. So, you can choose TechnoYuga as your stock trading app development company without worrying about project safety and budget.</p>
+                                <p>Plazmasoft stands out for its expertise, reliability, and commitment to delivering high-quality Stock Trading Apps tailored to client needs. So, you can choose Plazmasoft as your stock trading app development company without worrying about project safety and budget.</p>
                             </div>
                         </div>
                     </div>
@@ -2785,7 +2785,7 @@
                         <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Yes, you can hire stock trading app developers part-time or full-time. TechnoYuga offers flexible hiring options, including part-time arrangements, to suit your project requirements. </p>
+                                <p>Yes, you can hire stock trading app developers part-time or full-time. Plazmasoft offers flexible hiring options, including part-time arrangements, to suit your project requirements. </p>
                             </div>
                         </div>
                     </div>
@@ -2799,7 +2799,7 @@
                         <div id="collapseFaq8" class="accordion-collapse collapse" aria-labelledby="headingFaq8"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>Stock Trading Mobile Apps offer convenience, accessibility, real-time data, enhanced security features, and personalized investment options for users. You can take your business to the heights while seeking stock trading mobile app development services from TechnoYuga.</p>
+                                <p>Stock Trading Mobile Apps offer convenience, accessibility, real-time data, enhanced security features, and personalized investment options for users. You can take your business to the heights while seeking stock trading mobile app development services from Plazmasoft.</p>
                             </div>
                         </div>
                     </div>
@@ -2813,7 +2813,7 @@
                         <div id="collapseFaq9" class="accordion-collapse collapse" aria-labelledby="headingFaq9"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga believes in transparent pricing, and no hidden charges are involved in building a Stock Trading App. All costs are communicated upfront. So, you need not worry about the hidden charges while choosing our stock trading app development company.</p>
+                                <p>Plazmasoft believes in transparent pricing, and no hidden charges are involved in building a Stock Trading App. All costs are communicated upfront. So, you need not worry about the hidden charges while choosing our stock trading app development company.</p>
                             </div>
                         </div>
                     </div>
@@ -2827,7 +2827,7 @@
                         <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
                             data-bs-parent="#tyFaq">
                             <div class="accordion-body">
-                                <p>TechnoYuga employs agile development methodologies and skilled professionals to expedite the Stock Trading App development process without compromising quality.</p>
+                                <p>Plazmasoft employs agile development methodologies and skilled professionals to expedite the Stock Trading App development process without compromising quality.</p>
                             </div>
                         </div>
                     </div>
@@ -2842,7 +2842,7 @@
     <div class="container">
         <div class="vs-heading-center">
             <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-            <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+            <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
         </div>
         <div class="text-center">
             <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3054,7 +3054,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

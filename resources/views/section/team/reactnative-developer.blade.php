@@ -16,12 +16,12 @@
         <h1 class="vs-section-title vs-title-border">Hire React Native</h1>
         <h2 class="vs-section-subtitle">Developers</h2>
         <p class="vs-section-description">Are you looking to hire a react native developer for
-            your dream project? Well, you are at the right place because at Technoyuga we
+            your dream project? Well, you are at the right place because at Plazmasoft we
             provide dedicated react-native developers who are highly efficient and experienced
             with their job. We have a team of over 15+ react native developers who are working
             on the technology since it was rolled out in 2015 by facebook. They have worked on
             several projects in developing applications for android, ios, windows, mac and
-            linux. We can confidently say that developers at technoyuga are a right mixture of
+            linux. We can confidently say that developers at plazmasoft are a right mixture of
             skill, experience and talent.</p>
         <ul class="vs-hire-developer-work-list list-unstyled">
             <li class="vs-hire-developer-work-item">Maintenance Of your Existing React Native
@@ -174,7 +174,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Top Expertise of Our React Native Developers</h2>
-                <p class="vs-section-description">React Native developers are typically skilled in a variety of areas to build cross-platform mobile applications efficiently. At TechnoYuga, our team of dedicated React Native app developers possess expertise in crafting outstanding mobile apps and websites. Here's their expertise.
+                <p class="vs-section-description">React Native developers are typically skilled in a variety of areas to build cross-platform mobile applications efficiently. At Plazmasoft, our team of dedicated React Native app developers possess expertise in crafting outstanding mobile apps and websites. Here's their expertise.
 </p>
             </div>
             <div class="vs-service-content mb-0">
@@ -251,7 +251,7 @@
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="vs-service-card-description">TechnoYuga, the React Native app development team, can create custom native modules and integrate third-party libraries and native APIs for platform-specific functionality.
+                                <p class="vs-service-card-description">Plazmasoft, the React Native app development team, can create custom native modules and integrate third-party libraries and native APIs for platform-specific functionality.
 </p>
                             </a>
                         </div>
@@ -312,7 +312,7 @@
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">What We Do Best</h2>
                 <h4 class="vs-section-subtitle">We Provide Outsourced IT Services For All Business </h4>
-                <p class="vs-section-description">At <a href="https://technoyuga.com">TechnoYuga</a> we truly believe in the power of domain expertise.
+                <p class="vs-section-description">At <a href="https://plazmasoft.com">Plazmasoft</a> we truly believe in the power of domain expertise.
                     By choosing a partner with experience in an industry, the product is better, while timelines and
                     cost are kept low. We are experts in:</p>
             </div>
@@ -445,7 +445,7 @@
         <div class="container">
             <div class="vs-heading-center w-100">
                 <h2 class="vs-section-title vs-title-border">Flexible Models to Hire React Native Developers</h2>
-                <p class="vs-section-description w-75 m-auto">At TechnoYuga, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our React Native app development solutions, we have kept very flexible models to hire React Native developers. Here’s a glimpse.
+                <p class="vs-section-description w-75 m-auto">At Plazmasoft, we completely understand and value the budget of all-scale businesses. Hence, to make sure that every business owner can afford our React Native app development solutions, we have kept very flexible models to hire React Native developers. Here’s a glimpse.
 
 </p>
             </div>
@@ -785,7 +785,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Bring Your Vision for a React Native Mobile Web App to Life</h2>
-                <p class="vs-section-description">Do you have an idea for React Native app development and want to execute it with the help of professionals? Hire React Native app developers from TechnoYuga and make your dreams come true. Discuss your project requirements with us today!
+                <p class="vs-section-description">Do you have an idea for React Native app development and want to execute it with the help of professionals? Hire React Native app developers from Plazmasoft and make your dreams come true. Discuss your project requirements with us today!
 
 
 </p>
@@ -1032,7 +1032,7 @@
 <div class="container">
     <div class="vs-heading-center">
         <h2 class="vs-section-title vs-title-border">Why You Should Hire React Native Developer From
-            Technoyuga</h2>
+            Plazmasoft</h2>
     </div>
     <div class="vs-why-choose-content">
         <div class="row align-items-center">
@@ -1993,7 +1993,7 @@
                 <h2 class="accordion-header" id="headingFaq2">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq2" aria-expanded="false" aria-controls="collapseFaq2">
-                        What is technoyuga Risk-Free Trial Plan?
+                        What is plazmasoft Risk-Free Trial Plan?
                     </button>
                 </h2>
                 <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
@@ -2060,7 +2060,7 @@
                 <h2 class="accordion-header" id="headingFaq6">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                        How can I transfer my project to Technoyuga from an existing service provider?
+                        How can I transfer my project to Plazmasoft from an existing service provider?
                     </button>
                 </h2>
                 <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
@@ -2086,7 +2086,7 @@
                     <div class="accordion-body">
                         <p>We are a custom software development company and work as a technology partner for
                             new and established startups to help them develop, manage, maintain and enhance
-                            their mobile apps from time to time. At technoyuga, we provide end-to-end mobile
+                            their mobile apps from time to time. At plazmasoft, we provide end-to-end mobile
                             app development services, which include UI/UX designing, Mobile App Development
                             using React Native, Native iOS Development, etc. Web Application Development, Full
                             Stack Development, React Native Development, Backend Development and Testing
@@ -2133,7 +2133,7 @@
                 <h2 class="accordion-header" id="headingFaq10">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#collapseFaq10" aria-expanded="false" aria-controls="collapseFaq10">
-                        How can I trust Technoyuga with the information I shared?
+                        How can I trust Plazmasoft with the information I shared?
                     </button>
                 </h2>
                 <div id="collapseFaq10" class="accordion-collapse collapse" aria-labelledby="headingFaq10"
@@ -2172,7 +2172,7 @@
             <div class="vs-looking-hire-content">
                 <div class="vs-heading-center mb-0">
                     <h1 class="vs-section-title">Do You Want to Hire Dedicated React Native Developers?</h1>
-                    <p class="vs-section-description">TechnoYuga isn't just a leading React Native development company; we're the bridge to a dedicated team of React Native experts eagerly anticipating your outreach. Connect with us and open the door to exceptional solutions. Hire React Native Developers today.</p>
+                    <p class="vs-section-description">Plazmasoft isn't just a leading React Native development company; we're the bridge to a dedicated team of React Native experts eagerly anticipating your outreach. Connect with us and open the door to exceptional solutions. Hire React Native Developers today.</p>
                     <a href="#" class="btn btn-outline-primary">Hire  React Native Developers</a>
                 </div>
             </div>
@@ -2367,7 +2367,7 @@
                                                     <div class="vs-testimonial-description">
                                                         <p>Thanks Krishna for completing this task in our social
                                                             networking app. This was my
-                                                            second project with Krishna and the team Technoyuga,
+                                                            second project with Krishna and the team Plazmasoft,
                                                             they did a decent job and
                                                             delivered the work on time . I'm happy to recommend them
                                                             for any Web and react

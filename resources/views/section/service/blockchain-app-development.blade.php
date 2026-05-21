@@ -31,7 +31,7 @@
               <h1 class="vs-section-title vs-title-border">Blockchain</h1>
               <h2 class="vs-section-subtitle">Development</h2>
               <p class="vs-section-description">
-                Technoyuga strategize and develop Blockchain Services
+                Plazmasoft strategize and develop Blockchain Services
                 including secure and Scalable ICO creation, Decentralized
                 Applications (DApp) solutions, Crypto Wallet Development,
                 Crypto Exchange Development and Crypto-Token Development with
@@ -117,11 +117,11 @@
           </h2>
           <p class="vs-section-description w-100">
             Transform your business success with our impeccable blockchain
-            <a href="https://technoyuga.com/services/mobile-app-development">app development services</a>. Our services
+            <a href="https://plazmasoft.com/services/mobile-app-development">app development services</a>. Our services
             include smart contract development, DApp
             development, blockchain integration, and consultation to harness
             the full potential of blockchain technology. Shake hands with
-            TechnoYuga today and ensure a successful tomorrow.
+            Plazmasoft today and ensure a successful tomorrow.
           </p>
         </div>
         <div class="vs-service-content mb-0">
@@ -316,7 +316,7 @@
             Reasonable Blockchain App Development Models
           </h2>
           <p class="vs-section-description w-75 m-auto">
-            At <a href="https://technoyuga.com">TechnoYuga</a>, we always
+            At <a href="https://plazmasoft.com">Plazmasoft</a>, we always
             ensure to deliver quality blockchain app development solutions.
             With our services, you can get the best outcomes within reasonable
             blockchain app development cost. Here’s a glimpse of our
@@ -628,7 +628,7 @@
             We Provide Outsourced IT Services For All Business
           </h4>
           <p class="vs-section-description">
-            At <a href="https://technoyuga.com">TechnoYuga</a> we truly
+            At <a href="https://plazmasoft.com">Plazmasoft</a> we truly
             believe in the power of domain expertise. By choosing a partner
             with experience in an industry, the product is better, while
             timelines and cost are kept low. We are experts in:
@@ -773,7 +773,7 @@
               <div class="vs-why-choose-content__inner">
                 <div class="vs-why-choose-description">
                   <p>
-                    Opt for TechnoYuga for blockchain development to harness
+                    Opt for Plazmasoft for blockchain development to harness
                     cutting-edge technology, secure transactions, and
                     transform your business processes. We offer expertise,
                     reliability, and a track record of successful blockchain
@@ -840,7 +840,7 @@
                       <p class="vs-why-choose-card-desription">
                         Understanding the unique requirements of projects, we
                         provide tailored blockchain development services at
-                        TechnoYuga. Our developers ensure a customized
+                        Plazmasoft. Our developers ensure a customized
                         solution within your desired budget.
                       </p>
                     </div>
@@ -877,7 +877,7 @@
                         Collaborative Partnership:
                       </h3>
                       <p class="vs-why-choose-card-desription">
-                        At TechnoYuga, we believe in fostering collaborative
+                        At Plazmasoft, we believe in fostering collaborative
                         and long-term partnerships with our clients. We
                         provide continuous support, updates, and maintenance
                         to ensure the longevity and success of your projects.
@@ -902,7 +902,7 @@
           </h2>
           <p class="vs-section-description">
             Do you want to build a blockchain-powered app for your business?
-            Look no further than TechnoYuga. We have a team of dedicated
+            Look no further than Plazmasoft. We have a team of dedicated
             blockchain app developers who are there to serve you 24*7.
           </p>
         </div>
@@ -922,7 +922,7 @@
           <p class="vs-section-description">
             At TechoYuga we use the scalable and trending frameworks and
             technologies to
-            <a href="https://technoyuga.com/services/mobile-app-development">
+            <a href="https://plazmasoft.com/services/mobile-app-development">
               build Mobile Apps</a>
             , Backend and Web applications for our clients.
           </p>
@@ -938,7 +938,7 @@
                     <p class="vs-stack-tab-description">
                       We follow the agile methodology and technology framework
                       to
-                      <a href="https://technoyuga.com/services/web-app-development">develop web applications</a>
+                      <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a>
                       that meets your expectations.
                     </p>
                   </div>
@@ -950,8 +950,8 @@
                       Mobile Development Stack
                     </h3>
                     <p class="vs-stack-tab-description">
-                      Technoyuga’s
-                      <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                      Plazmasoft’s
+                      <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                       teams follow the trending tech frameworks for your dream
                       Mobile apps.
                     </p>
@@ -4119,7 +4119,7 @@
                 </div>
                 <div class="vs-testimonial-description">
                   <p>
-                    TechnoYuga and Krishna did an AWESOME Job on our two
+                    Plazmasoft and Krishna did an AWESOME Job on our two
                     projects Bubble Battle and Topline in last 2 years and we
                     are very happy with the end results. They provided
                     exceptional support even after delivery of the project.
@@ -4147,7 +4147,7 @@
                   <p>
                     Thanks Krishna for completing this task in our social
                     networking app. This was my second project with Krishna
-                    and the team Technoyuga, they did a decent job and
+                    and the team Plazmasoft, they did a decent job and
                     delivered the work on time . I'm happy to recommend them
                     for any Web and react native app development work.
                   </p>
@@ -4290,11 +4290,11 @@
                 <div class="vs-testimonial-description">
                   <p>
                     As a finance consultant based out of Germany, I acquired
-                    the support of Technoyuga developing a financial services
+                    the support of Plazmasoft developing a financial services
                     app. Krishna and his team were able to convert my vision
                     into an easy to use app well within the agreed deadline.
                     Now they are supporting me in marketing and social media
-                    efforts. I can recommend Krishna and Technoyuga to any
+                    efforts. I can recommend Krishna and Plazmasoft to any
                     business needing IT support.
                   </p>
                 </div>
@@ -4348,7 +4348,7 @@
                 </div>
                 <div class="vs-testimonial-description">
                   <p>
-                    TechnoYuga and Krishna did an AWESOME Job on our two
+                    Plazmasoft and Krishna did an AWESOME Job on our two
                     projects Bubble Battle and Topline in last 2 years and we
                     are very happy with the end results. They provided
                     exceptional support even after delivery of the project.
@@ -4372,7 +4372,7 @@
         </div>
         <div class="vs-related-service-slider">
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/flutter-app-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/flutter-app-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -4457,7 +4457,7 @@
             </a>
           </div>
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/react-native-app-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/react-native-app-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="80" height="64" viewBox="0 0 80 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -4485,7 +4485,7 @@
             </a>
           </div>
           <div class="vs-related-services-item">
-            <a href="https://technoyuga.com/services/mvp-development" style="color: initial">
+            <a href="https://plazmasoft.com/services/mvp-development" style="color: initial">
               <div class="vs-related-card">
                 <div class="vs-related-card-icon">
                   <svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -4541,7 +4541,7 @@
                     that leverage blockchain technology to securely store and
                     manage data in a decentralized and immutable manner. So,
                     if you want to hire blockchain developers or avail the
-                    best blockchain development services, TechnoYuga is there
+                    best blockchain development services, Plazmasoft is there
                     to assist you.
                   </p>
                 </div>
@@ -4969,7 +4969,7 @@
                               <p>
                                 Thanks Krishna for completing this task in our
                                 social networking app. This was my second
-                                project with Krishna and the team Technoyuga,
+                                project with Krishna and the team Plazmasoft,
                                 they did a decent job and delivered the work
                                 on time . I'm happy to recommend them for any
                                 Web and react native app development work.

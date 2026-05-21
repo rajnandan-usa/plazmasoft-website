@@ -16,7 +16,7 @@
         <h1 class="vs-section-title vs-title-border">Video Streaming App</span></h1>
         <h2 class="vs-section-subtitle">Development Company</h2>
         <p class="vs-section-description">
-            Connect with the industry's best video-streaming app development company and offer your customers an exclusive live-streaming experience. At TechnoYuga, we have a team of dedicated video-streaming app developers who can develop live-streaming apps for Android and iOS platforms. Discuss your requirements for video streaming app development services at a very affordable cost.
+            Connect with the industry's best video-streaming app development company and offer your customers an exclusive live-streaming experience. At Plazmasoft, we have a team of dedicated video-streaming app developers who can develop live-streaming apps for Android and iOS platforms. Discuss your requirements for video streaming app development services at a very affordable cost.
         </p>
     </div>
 
@@ -153,7 +153,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Our Video Streaming App Development Services</h2>
                     <p class="vs-section-description">
-                        At TechnoYuga, our dedicated video streaming app development team understand the significance of delivering user-friendly live streaming applications. Hence, we always work 24*7 to deliver outstanding video streaming app development solutions to businesses worldwide. We deliver top-notch streaming app development services from consultation to video streaming app maintenance. Here’s a quick glimpse of some of them.
+                        At Plazmasoft, our dedicated video streaming app development team understand the significance of delivering user-friendly live streaming applications. Hence, we always work 24*7 to deliver outstanding video streaming app development solutions to businesses worldwide. We deliver top-notch streaming app development services from consultation to video streaming app maintenance. Here’s a quick glimpse of some of them.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -169,7 +169,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    Do you have any plans to launch an online video streaming service? Do you require professional guidance? Seek video streaming app consulting services from TechnoYuga and let our experts assist you in developing a popular video streaming app like Netflix and Hulu.</p>
+                                    Do you have any plans to launch an online video streaming service? Do you require professional guidance? Seek video streaming app consulting services from Plazmasoft and let our experts assist you in developing a popular video streaming app like Netflix and Hulu.</p>
                                 </a>
                             </div>
                         </div>
@@ -184,7 +184,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    At TechnoYuga, we acknowledge the uniqueness of every video streaming business. Hence, we offer tailored video streaming app development services that cater to businesses of all sizes. If you're seeking custom video streaming app development services, we're just a click away.</p>
+                                    At Plazmasoft, we acknowledge the uniqueness of every video streaming business. Hence, we offer tailored video streaming app development services that cater to businesses of all sizes. If you're seeking custom video streaming app development services, we're just a click away.</p>
                                 </a>
                             </div>
                         </div>
@@ -199,7 +199,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    The UX/UI design is pivotal for the success of a video streaming mobile app. At TechnoYuga, we comprehend this aspect deeply. Our creative designers craft intuitive and visually captivating interfaces to amplify user engagement and satisfaction.</p>
+                                    The UX/UI design is pivotal for the success of a video streaming mobile app. At Plazmasoft, we comprehend this aspect deeply. Our creative designers craft intuitive and visually captivating interfaces to amplify user engagement and satisfaction.</p>
                                 </a>
                             </div>
                         </div>
@@ -244,7 +244,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                        At TechnoYuga, we also provide <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a>. You can ensure the smooth and efficient operation of your video streaming app with us. From resolving bugs to implementing feature enhancements, we take care of all aspects of app maintenance.
+                                        At Plazmasoft, we also provide <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a>. You can ensure the smooth and efficient operation of your video streaming app with us. From resolving bugs to implementing feature enhancements, we take care of all aspects of app maintenance.
 
                                 <!-- </a> -->
                             </div>
@@ -261,7 +261,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Must-Have Features of Video Streaming App Development</h2>
                     <p class="vs-section-description">
-                        Are you planning to develop a top-notch video streaming app that could take your business to the heights? At TechnoYuga, we always give in our 100% efforts to integrate the best features. We deliver solutions that could make your business app unique. Here is a quick glimpse of the key features of video streaming app for different panels.
+                        Are you planning to develop a top-notch video streaming app that could take your business to the heights? At Plazmasoft, we always give in our 100% efforts to integrate the best features. We deliver solutions that could make your business app unique. Here is a quick glimpse of the key features of video streaming app for different panels.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -541,7 +541,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Wide Range of Video Streaming App Development Solutions</h2>
                     <p class="vs-section-description">
-                        If you're considering developing a video streaming app or seeking to create an on-demand video content delivery platform, TechnoYuga is your go-to solution provider. We specialize in comprehensive on-demand video streaming app development services, tailored to meet the diverse requirements of businesses of all sizes. Explore our wide array of solutions for video streaming app development today.
+                        If you're considering developing a video streaming app or seeking to create an on-demand video content delivery platform, Plazmasoft is your go-to solution provider. We specialize in comprehensive on-demand video streaming app development services, tailored to meet the diverse requirements of businesses of all sizes. Explore our wide array of solutions for video streaming app development today.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -577,7 +577,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Transform education with our bespoke educational video app development solutions. At TechnoYuga, we design intuitive platforms that seamlessly integrate multimedia content and assessment tools. Engage learners with engaging and personalized educational experiences.</p>
+                                    <p class="vs-service-card-description">Transform education with our bespoke educational video app development solutions. At Plazmasoft, we design intuitive platforms that seamlessly integrate multimedia content and assessment tools. Engage learners with engaging and personalized educational experiences.</p>
                                 </a>
                             </div>
                         </div>
@@ -635,7 +635,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Get ready to revolutionize the way users experience music. Avail music streaming app development services from TechnoYuga. We create a platform that seamlessly integrates vast music libraries, personalized playlists, and advanced recommendation algorithms. </p>
+                                    <p class="vs-service-card-description">Get ready to revolutionize the way users experience music. Avail music streaming app development services from Plazmasoft. We create a platform that seamlessly integrates vast music libraries, personalized playlists, and advanced recommendation algorithms. </p>
                                 </a>
                             </div>
                         </div>
@@ -2049,7 +2049,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Part-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Enhance your video streaming app development services when you hire developers part-time from TechnoYuga. We have a dedicated team of video-streaming app developers who can bring their expertise to your projects. Feel free to choose us to develop a streaming app. </p>
+                                        <p class="vs-fintech-forward-card-description">Enhance your video streaming app development services when you hire developers part-time from Plazmasoft. We have a dedicated team of video-streaming app developers who can bring their expertise to your projects. Feel free to choose us to develop a streaming app. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2062,7 +2062,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Full-time</h3>
-                                        <p class="vs-fintech-forward-card-description">Enhance the performance of your custom video streaming app when you hire developers full-time from TechnoYuga. Opting for TechnoYuga's full-time video streaming app developers grants you access to a dedicated team of proficient individuals.</p>
+                                        <p class="vs-fintech-forward-card-description">Enhance the performance of your custom video streaming app when you hire developers full-time from Plazmasoft. Opting for Plazmasoft's full-time video streaming app developers grants you access to a dedicated team of proficient individuals.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/blockchain-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2075,7 +2075,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">For businesses operating on limited budgets, TechnoYuga provides hourly hiring alternatives. We allow you to optimize your expenses and resources. Our experienced professionals are accessible hourly, ensuring you only pay for the specific tasks completed.</p>
+                                        <p class="vs-fintech-forward-card-description">For businesses operating on limited budgets, Plazmasoft provides hourly hiring alternatives. We allow you to optimize your expenses and resources. Our experienced professionals are accessible hourly, ensuring you only pay for the specific tasks completed.</p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2088,7 +2088,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Dedicated Developers</h3>
-                                        <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for video streaming app development? Look no further than TechnoYuga. We have a team of dedicated video streaming app developers who can be saviour. Feel free to connect with our dedicated developers. </p>
+                                        <p class="vs-fintech-forward-card-description">Do you want to hire dedicated developers for video streaming app development? Look no further than Plazmasoft. We have a team of dedicated video streaming app developers who can be saviour. Feel free to connect with our dedicated developers. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2108,7 +2108,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2123,7 +2123,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2131,7 +2131,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2359,14 +2359,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2541,7 +2541,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2594,7 +2594,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2618,7 +2618,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2741,10 +2741,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2790,7 +2790,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2829,7 +2829,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2910,7 +2910,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -3015,7 +3015,7 @@
                             <div id="collapseFaq5" class="accordion-collapse collapse" aria-labelledby="headingFaq5"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Absolutely! We prioritize long-term success and offer comprehensive support and maintenance services post-launch to ensure optimal performance and user satisfaction for your video streaming platform. So, do not worry about the services and quality while choosing TechnoYuga.</p>
+                                    <p>Absolutely! We prioritize long-term success and offer comprehensive support and maintenance services post-launch to ensure optimal performance and user satisfaction for your video streaming platform. So, do not worry about the services and quality while choosing Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -3037,7 +3037,7 @@
                             <h2 class="accordion-header" id="headingFaq7">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFaq7" aria-expanded="false" aria-controls="collapseFaq7">
-                                    Q7. Why Should We Hire TechnoYuga For Video Streaming Platform Development?
+                                    Q7. Why Should We Hire Plazmasoft For Video Streaming Platform Development?
                                 </button>
                             </h2>
                             <div id="collapseFaq7" class="accordion-collapse collapse" aria-labelledby="headingFaq7"
@@ -3100,7 +3100,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3311,7 +3311,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react

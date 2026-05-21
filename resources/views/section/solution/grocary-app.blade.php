@@ -16,7 +16,7 @@
                             <div class="vs-landing-content__inner">
         <h1 class="vs-section-title vs-title-border">Grocery App</span></h1>
         <h2 class="vs-section-subtitle">Development Company</h2>
-        <p class="vs-section-description">Looking for a renowned grocery delivery app development company? Connect with TechnoYuga, well-known for offering exceptional grocery delivery app development services. With decades of experience, we have developed thousands of grocery delivery apps like Blinkit and Instacart. Be ready to join the grocery industry revolution and leave all your competitors behind.</p>
+        <p class="vs-section-description">Looking for a renowned grocery delivery app development company? Connect with Plazmasoft, well-known for offering exceptional grocery delivery app development services. With decades of experience, we have developed thousands of grocery delivery apps like Blinkit and Instacart. Be ready to join the grocery industry revolution and leave all your competitors behind.</p>
     </div>
 
                     </div>
@@ -151,7 +151,7 @@
             <div class="container">
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Avail Top-notch Grocery Delivery App Development Services</h2>
-                    <p class="vs-section-description">Do you need the industry's best grocery delivery app development services? Look no further than TechnoYuga. We have a pool of dedicated grocery delivery app developers. Right from grocery delivery app consultation to grocery mobile app maintenance services, we ace it all. Let's take a glimpse at our wide range of services for grocery app development.</p>
+                    <p class="vs-section-description">Do you need the industry's best grocery delivery app development services? Look no further than Plazmasoft. We have a pool of dedicated grocery delivery app developers. Right from grocery delivery app consultation to grocery mobile app maintenance services, we ace it all. Let's take a glimpse at our wide range of services for grocery app development.</p>
                 </div>
                 <div class="vs-service-content mb-0">
                     <div class="row">
@@ -166,7 +166,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    Do you need guidance on initiating a grocery delivery app development project? Seek professional grocery delivery app consulting services from TechnoYuga. Our experts will assist you in developing a popular grocery delivery app similar to Blinkit and Instacart.</p>
+                                    Do you need guidance on initiating a grocery delivery app development project? Seek professional grocery delivery app consulting services from Plazmasoft. Our experts will assist you in developing a popular grocery delivery app similar to Blinkit and Instacart.</p>
                                 </a>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    While understanding the uniqueness of every grocery business, TechnoYuga offers custom grocery delivery app development services. We can meet diverse business requirements and deliver the best solutions. Reach out to us to seek grocery delivery app development solutions.</p>
+                                    While understanding the uniqueness of every grocery business, Plazmasoft offers custom grocery delivery app development services. We can meet diverse business requirements and deliver the best solutions. Reach out to us to seek grocery delivery app development solutions.</p>
                                 </a>
                             </div>
                         </div>
@@ -196,7 +196,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    The success of a grocery delivery mobile app heavily relies on its UX/UI design. TechnoYuga acknowledges this significance. Hence, our creative designers craft intuitive and visually captivating UX/UI interfaces to enhance user engagement. Seek mobile app designing services from us.</p>
+                                    The success of a grocery delivery mobile app heavily relies on its UX/UI design. Plazmasoft acknowledges this significance. Hence, our creative designers craft intuitive and visually captivating UX/UI interfaces to enhance user engagement. Seek mobile app designing services from us.</p>
                                 </a>
                             </div>
                         </div>
@@ -211,7 +211,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                    TechnoYuga tops the list when it comes to on-demand grocery delivery app development solutions. Apps developed by us seamlessly connect passengers with drivers in real time. Our grocery app solutions integrate advanced features to ensure a smooth delivery experience.</p>
+                                    Plazmasoft tops the list when it comes to on-demand grocery delivery app development solutions. Apps developed by us seamlessly connect passengers with drivers in real time. Our grocery app solutions integrate advanced features to ensure a smooth delivery experience.</p>
                                 </a>
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                                         </div>
                                     </div>
                                     <p class="vs-service-card-description">
-                                        Ensure your grocery app runs smoothly and efficiently with our comprehensive <a href="https://technoyuga.com/services/app-maintenance">mobile app support and maintenance services</a>. From bug fixes to feature enhancements, we handle all aspects of app maintenance, allowing you to focus on business growth.</p>
+                                        Ensure your grocery app runs smoothly and efficiently with our comprehensive <a href="https://plazmasoft.com/services/app-maintenance">mobile app support and maintenance services</a>. From bug fixes to feature enhancements, we handle all aspects of app maintenance, allowing you to focus on business growth.</p>
                                 <!-- </a> -->
                             </div>
                         </div>
@@ -256,7 +256,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Key Features of Grocery Delivery App Development</h2>
                     <p class="vs-section-description">
-                        Do you want to create a successful and user-c grocery delivery app? Well, focus on the grocery delivery app development features. At TechnoYuga, our grocery delivery app development services experts always deliver feature-packed grocery delivery app. Take a quick glance at the features for different panels of grocery delivery app.
+                        Do you want to create a successful and user-c grocery delivery app? Well, focus on the grocery delivery app development features. At Plazmasoft, our grocery delivery app development services experts always deliver feature-packed grocery delivery app. Take a quick glance at the features for different panels of grocery delivery app.
                     </p>
                 </div>
                 <div class="vs-fintech-app-feature-content">
@@ -775,7 +775,7 @@
                 <div class="vs-heading-center w-100">
                     <h2 class="vs-section-title vs-title-border">Extensive Range of Grocery Delivery App Development Solutions</h2>
                     <p class="vs-section-description">
-                        With the increasing demand for user convenience, apps for online grocery delivery are touching the heights. Whether it is about on-demand grocery delivery apps or meal kit delivery apps, we can develop it all. Seek exclusive grocery delivery app development solutions from TechnoYuga and take your small business forward in this digital era.
+                        With the increasing demand for user convenience, apps for online grocery delivery are touching the heights. Whether it is about on-demand grocery delivery apps or meal kit delivery apps, we can develop it all. Seek exclusive grocery delivery app development solutions from Plazmasoft and take your small business forward in this digital era.
                     </p>
                 </div>
                 <div class="vs-service-content mb-0">
@@ -793,7 +793,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">On-demand grocery delivery apps connect users with local grocery stores and supermarkets. At TechnoYuga, we offer on-demand grocery delivery app development solutions that allow users to place orders seamlessly. Get your grocery delivery app development on-demand.</p>
+                                    <p class="vs-service-card-description">On-demand grocery delivery apps connect users with local grocery stores and supermarkets. At Plazmasoft, we offer on-demand grocery delivery app development solutions that allow users to place orders seamlessly. Get your grocery delivery app development on-demand.</p>
                                 </a>
                             </div>
                         </div>
@@ -846,7 +846,7 @@
 
                                         </div>
                                     </div>
-                                    <p class="vs-service-card-description">Do you want to develop meal kit delivery apps to extend your grocery delivery business online? Connect with TechnoYuga, the best mobile app development company. We can create all types of grocery delivery apps. Feel free to share your project requirements with our dedicated developers. </p>
+                                    <p class="vs-service-card-description">Do you want to develop meal kit delivery apps to extend your grocery delivery business online? Connect with Plazmasoft, the best mobile app development company. We can create all types of grocery delivery apps. Feel free to share your project requirements with our dedicated developers. </p>
                                 </a>
                             </div>
                         </div>
@@ -930,7 +930,7 @@
                                 </div>
                                 <div class="vs-famous-fantasy-card-body">
                                     <h3 class="vs-famous-fantasy-card-title">Walmart</h3>
-                                    <p class="vs-famous-fantasy-description">Walmart offers a convenient grocery delivery service through its app. With options for same-day delivery and pickup, Walmart's app provides a seamless shopping experience. So, if you want to develop a grocery delivery app like Walmart, connect with TechnoYuga.</p>
+                                    <p class="vs-famous-fantasy-description">Walmart offers a convenient grocery delivery service through its app. With options for same-day delivery and pickup, Walmart's app provides a seamless shopping experience. So, if you want to develop a grocery delivery app like Walmart, connect with Plazmasoft.</p>
                                 </div>
                             </div>
                         </div>
@@ -2062,7 +2062,7 @@
             <div class="container">
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Flexible Models to Hire Grocery Delivery App Developers</h2>
-                    <p class="vs-section-description">Are you looking for reasonable grocery delivery app development services? Choose TechnoYuga grocery delivery solutions. We offer cost-effective grocery delivery app development solutions. Look no further! We've got you covered! Choose from our flexible hiring models for on-demand grocery delivery and hire developers tailored to your business requirements and budget.</p>
+                    <p class="vs-section-description">Are you looking for reasonable grocery delivery app development services? Choose Plazmasoft grocery delivery solutions. We offer cost-effective grocery delivery app development solutions. Look no further! We've got you covered! Choose from our flexible hiring models for on-demand grocery delivery and hire developers tailored to your business requirements and budget.</p>
                 </div>
                 <div class="vs-fintech-forward-content">
                     <div class="row">
@@ -2097,7 +2097,7 @@
                                 <div class="vs-fintech-forward-card-head">
                                     <div class="vs-fintech-forward-detail">
                                         <h3 class="vs-fintech-forward-card-title">Hire Developers Hourly</h3>
-                                        <p class="vs-fintech-forward-card-description">For businesses with low budgets, TechnoYuga offers hourly hiring options. When you hire developers hourly, it will let you maximize expenses and resources. Our experts are available on an hourly basis, so you only pay for the actual work that needs to be done. </p>
+                                        <p class="vs-fintech-forward-card-description">For businesses with low budgets, Plazmasoft offers hourly hiring options. When you hire developers hourly, it will let you maximize expenses and resources. Our experts are available on an hourly basis, so you only pay for the actual work that needs to be done. </p>
                                     </div>
                                     <div class="vs-fintech-forward-icon">
                                         <img src="{{asset('web-assets/images/e-commerce-wallet.svg')}}" alt="wallet" class="img-fluid">
@@ -2130,7 +2130,7 @@
                 <div class="vs-heading-center">
                     <h2 class="vs-section-title vs-title-border">Technology Stack</h2>
                     <p class="vs-section-description">At TechoYuga we use the scalable and trending frameworks and
-                        technologies to <a href="https://technoyuga.com/services/mobile-app-development"> build Mobile
+                        technologies to <a href="https://plazmasoft.com/services/mobile-app-development"> build Mobile
                         Apps</a> , Backend and Web applications for our clients. </p>
                 </div>
                 <div class="vs-technology-content">
@@ -2145,7 +2145,7 @@
                                         <h3 class="vs-stack-tab-title">Web Development Stack</h3>
                                         <p class="vs-stack-tab-description">We follow the agile methodology and
                                             technology
-                                            framework to <a href="https://technoyuga.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
+                                            framework to <a href="https://plazmasoft.com/services/web-app-development">develop web applications</a> that meets your expectations.</p>
                                     </div>
                                 </div>
                                 <div class="nav-link" id="vs-stack-mobile-tab" data-bs-toggle="pill"
@@ -2153,7 +2153,7 @@
                                     aria-selected="false">
                                     <div class="vs-technology-stack-tab-btn">
                                         <h3 class="vs-stack-tab-title">Mobile Development Stack</h3>
-                                        <p class="vs-stack-tab-description">Technoyuga’s <a href="https://technoyuga.com/services/mobile-app-development">Mobile App Development</a>
+                                        <p class="vs-stack-tab-description">Plazmasoft’s <a href="https://plazmasoft.com/services/mobile-app-development">Mobile App Development</a>
                                             teams follow the
                                             trending tech frameworks for your dream Mobile apps.
                                         </p>
@@ -2381,14 +2381,14 @@
             </div>
         </section>
         <!-- Technology Stack Section End -->
-    <!-- Why Technoyuga Section Start -->
+    <!-- Why Plazmasoft Section Start -->
 <section class="vs-app-project-section vs-section-spacer vs-why-technoyuga-section">
     <div class="vs-why-technoyuga-particles">
         <img src="{{asset('web-assets/images/why-technoyuga-particles.svg')}}" alt="Fantasy Particle" class="img-fluid">
     </div>
     <div class="container">
         <div class="vs-heading-center">
-            <h2 class="vs-section-title vs-title-border">Why Choose Technoyuga?</h2>
+            <h2 class="vs-section-title vs-title-border">Why Choose Plazmasoft?</h2>
             <p class="vs-section-description">ROI-focussed finance app development services</p>
         </div>
         <div class="vs-app-project-content">
@@ -2563,7 +2563,7 @@
         </div>
     </div>
 </section>
-<!-- Why Technoyuga Section End -->
+<!-- Why Plazmasoft Section End -->
     <!-- Testimonials Section Start -->
         <section class="vs-testimonials-section vs-section-spacer vs-section-background">
             <div class="container">
@@ -2616,7 +2616,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.</p>
                                 </div>
@@ -2640,7 +2640,7 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>Thanks Krishna for completing this task in our social networking app. This was my
-                                        second project with Krishna and the team Technoyuga, they did a decent job and
+                                        second project with Krishna and the team Plazmasoft, they did a decent job and
                                         delivered the work on time . I'm happy to recommend them for any Web and react
                                         native app development work.</p>
                                 </div>
@@ -2763,10 +2763,10 @@
                                 </div>
                                 <div class="vs-testimonial-description">
                                     <p>As a finance consultant based out of Germany, I acquired the support of
-                                        Technoyuga developing a financial services app. Krishna and his team were able
+                                        Plazmasoft developing a financial services app. Krishna and his team were able
                                         to convert my vision into an easy to use app well within the agreed deadline.
                                         Now they are supporting me in marketing and social media efforts. I can
-                                        recommend Krishna and Technoyuga to any business needing IT support.</p>
+                                        recommend Krishna and Plazmasoft to any business needing IT support.</p>
                                 </div>
                             </div>
                         </div>
@@ -2812,7 +2812,7 @@
                                     </div>
                                 </div>
                                 <div class="vs-testimonial-description">
-                                    <p>TechnoYuga and Krishna did an AWESOME Job on our two projects Bubble Battle and
+                                    <p>Plazmasoft and Krishna did an AWESOME Job on our two projects Bubble Battle and
                                         Topline in last 2 years and we are very happy with the end results. They
                                         provided exceptional support even after delivery of the project.
                                     </p>
@@ -2854,7 +2854,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
+                                <a href="https://plazmasoft.com/services/ios-application-development" class="vs-related-card-title">iOS App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2935,7 +2935,7 @@
                                 </svg>
                             </div>
                             <div class="vs-related-card-body">
-                                <a href="https://technoyuga.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
+                                <a href="https://plazmasoft.com/services/flutter-app-development" class="vs-related-card-title">Flutter App Development</a>
                             </div>
                         </div>
                     </div>
@@ -2998,7 +2998,7 @@
                             <div id="collapseFaq2" class="accordion-collapse collapse" aria-labelledby="headingFaq2"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>At TechnoYuga, our team for on-demand grocery delivery app development combines technical prowess. We have a profound comprehension of user requirements and market dynamics to deliver inventive and user-centric taxi booking solutions. Don't hesitate to share your project specifications with us.</p>
+                                    <p>At Plazmasoft, our team for on-demand grocery delivery app development combines technical prowess. We have a profound comprehension of user requirements and market dynamics to deliver inventive and user-centric taxi booking solutions. Don't hesitate to share your project specifications with us.</p>
                                 </div>
                             </div>
                         </div>
@@ -3026,7 +3026,7 @@
                             <div id="collapseFaq4" class="accordion-collapse collapse" aria-labelledby="headingFaq4"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>Absolutely! At TechnoYuga, we prioritize long-term business success. Hence, we provide comprehensive mobile app support and maintenance services post-launch to ensure the smooth and efficient operation of your app. Enhance the value and longevity of your grocery delivery app by selecting our grocery delivery app development services.</p>
+                                    <p>Absolutely! At Plazmasoft, we prioritize long-term business success. Hence, we provide comprehensive mobile app support and maintenance services post-launch to ensure the smooth and efficient operation of your app. Enhance the value and longevity of your grocery delivery app by selecting our grocery delivery app development services.</p>
                                 </div>
                             </div>
                         </div>
@@ -3048,13 +3048,13 @@
                             <h2 class="accordion-header" id="headingFaq6">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFaq6" aria-expanded="false" aria-controls="collapseFaq6">
-                                    Q6. Why is TechnoYuga the Best for Grocery Delivery App Development?
+                                    Q6. Why is Plazmasoft the Best for Grocery Delivery App Development?
                                 </button>
                             </h2>
                             <div id="collapseFaq6" class="accordion-collapse collapse" aria-labelledby="headingFaq6"
                                 data-bs-parent="#tyFaq">
                                 <div class="accordion-body">
-                                    <p>For decades, TechnoYuga has been delivering exceptional website and mobile app development services to businesses of all scales globally. With a proven history of delivering outstanding business applications, we have earned the trust of numerous clients. You could be next! Get ready to discuss your grocery delivery app development concept.</p>
+                                    <p>For decades, Plazmasoft has been delivering exceptional website and mobile app development services to businesses of all scales globally. With a proven history of delivering outstanding business applications, we have earned the trust of numerous clients. You could be next! Get ready to discuss your grocery delivery app development concept.</p>
                                 </div>
                             </div>
                         </div>
@@ -3125,7 +3125,7 @@
         <div class="container">
             <div class="vs-heading-center">
                 <h2 class="vs-section-title vs-title-border">Drop Your Dating App Development Idea with Us!</h2>
-                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from TechnoYuga and leave the rest to our professionals.</p>
+                <p class="vs-section-description">Got some amazing ideas to bring your dating business online? Seek the industry-best Dating mobile app development services from Plazmasoft and leave the rest to our professionals.</p>
             </div>
             <div class="text-center">
                 <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#requestProposalModal" class="btn btn-outline-light">Book A Consultation</a>
@@ -3340,7 +3340,7 @@
                                                         <div class="vs-testimonial-description">
                                                             <p>Thanks Krishna for completing this task in our social
                                                                 networking app. This was my
-                                                                second project with Krishna and the team Technoyuga,
+                                                                second project with Krishna and the team Plazmasoft,
                                                                 they did a decent job and
                                                                 delivered the work on time . I'm happy to recommend them
                                                                 for any Web and react
