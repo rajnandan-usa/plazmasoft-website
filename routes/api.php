@@ -32,7 +32,7 @@ Route::name('api.')->prefix('v1')->group(function () {
 
 
 
-    Route::controller(ContactController::class)->prefix("contact")->name("contact.")->group(function(){
+    Route::controller(ContactController::class)->prefix("contact")->name("contact.")->middleware('throttle:3,5')->group(function(){
         Route::post("/", "store")->name("store");
     });
 
