@@ -66,16 +66,18 @@
 
 @push('scripts')
     <script>
+        // Track which form's button was clicked (multiple forms exist on page)
+        $(document).on('click', '.js-contactForm .g-recaptcha', function() {
+            window._activeContactForm = $(this).closest('.js-contactForm');
+        });
+
         function onSubmit(token) {
-            $('#recaptcha-token').val(token);
+            const $form = window._activeContactForm || $('.js-contactForm').first();
+            $form.find('[name="g-recaptcha-response"]').val(token);
 
-            const $form = $('.js-contactForm');
             const url = $form.data("url");
-
             const formData = $form.serializeArray();
 
-
-            // Convert to a key-value object for better readability
             const formObject = formData.reduce((acc, field) => {
                 acc[field.name] = field.value;
                 return acc;
