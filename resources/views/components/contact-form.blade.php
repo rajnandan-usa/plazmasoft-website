@@ -67,6 +67,8 @@
 @push('scripts')
     <script>
         function onSubmit(token) {
+            $('#recaptcha-token').val(token);
+
             const $form = $('.js-contactForm');
             const url = $form.data("url");
 
