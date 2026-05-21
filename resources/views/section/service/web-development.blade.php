@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    Web App Development
+    Web App Development — Laravel & Node.js | Plazmasoft
+@endsection
+
+@section('meta_description')
+Plazmasoft builds scalable web applications using Laravel, Node.js, and React. Custom SaaS, dashboards, and portals — clean architecture, production hardened. Request a free consultation.
 @endsection
 
 @section('mainBody')

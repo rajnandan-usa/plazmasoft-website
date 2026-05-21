@@ -6,27 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title') - {{ config('app.name', 'PlazmaSoft') }}</title>
+    <title>@yield('title') - {{ config('app.company_name') }}</title>
 
-    <meta name="description" content="PlazmaSoft provides cutting-edge mobile app and web development services. From AI-driven solutions to custom SaaS platforms, we help businesses grow with innovative technology. Contact us today!">
-    <link rel="canonical" href="{{route('index')}}/" />
+    <meta name="description" content="@yield('meta_description', config('app.company_name') . ' — Founder-led web & mobile app development studio. Laravel, Flutter, AI integration (Gemini, Stable Diffusion). 18+ projects, 15+ happy clients. East Champaran, Bihar, India.')">
+    <link rel="canonical" href="@yield('canonical', url()->current())" />
 
     <!-- Open Graph Meta Tags (For Facebook, LinkedIn, etc.) -->
-    <meta property="og:url" content="{{route('index')}}/" />
-    <meta property="og:title" content="PlazmaSoft | Cutting-Edge Mobile & Web Development Solutions" />
-    <meta property="og:site_name" content="PlazmaSoft" />
-    <meta property="og:description" content="Looking for expert mobile and web development services? PlazmaSoft delivers AI-driven, user-centric solutions to boost your business. Let's build something amazing together!" />
-    <meta property="og:image" content="{{route('index')}}/web-assets/images/logo1.png" />
+    <meta property="og:url" content="@yield('og_url', url()->current())" />
+    <meta property="og:title" content="@yield('og_title', config('app.company_name') . ' | Web & Mobile App Development')" />
+    <meta property="og:site_name" content="{{ config('app.company_name') }}" />
+    <meta property="og:description" content="@yield('og_description', 'Founder-led boutique studio specialising in Laravel, Flutter, and AI integrations. 18+ real projects delivered across fintech, fleet, agritech, and e-commerce.')" />
+    <meta property="og:image" content="@yield('og_image', asset('web-assets/images/logo1.png'))" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:creator" content="@PlazmaSoft" />
-    <meta name="twitter:url" content="{{route('index')}}/" />
-    <meta name="twitter:title" content="PlazmaSoft | Expert Mobile App & Web Development Services" />
-    <meta name="twitter:description" content="PlazmaSoft specializes in custom mobile apps, AI-powered websites, and scalable cloud solutions. Transform your digital presence with us today!" />
-    <meta name="twitter:image" content="{{route('index')}}/web-assets/images/logo1.png" />
+    <meta name="twitter:creator" content="@plazmasoft" />
+    <meta name="twitter:url" content="@yield('og_url', url()->current())" />
+    <meta name="twitter:title" content="@yield('og_title', config('app.company_name') . ' | Web & Mobile App Development')" />
+    <meta name="twitter:description" content="@yield('og_description', 'Founder-led boutique studio specialising in Laravel, Flutter, and AI integrations. 18+ real projects delivered.')" />
+    <meta name="twitter:image" content="@yield('og_image', asset('web-assets/images/logo1.png'))" />
 
     <!-- SEO & Indexing Meta Tags -->
     <meta name="robots" content="index, follow" />
@@ -42,6 +42,47 @@
 
 
     @include('layouts.header-script')
+
+    <!-- Organization JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Plazmasoft",
+      "legalName": "Kushwaha Webformat Private Limited",
+      "url": "https://plazmasoft.com",
+      "logo": "https://plazmasoft.com/web-assets/images/logo1.png",
+      "founder": {
+        "@type": "Person",
+        "name": "Rajnandan Kushwaha",
+        "jobTitle": "Founder & Full Stack Developer",
+        "sameAs": [
+          "https://www.linkedin.com/in/rajnandan-r-kushwaha-679961254/",
+          "https://github.com/rajnandan-usa"
+        ]
+      },
+      "foundingDate": "2021",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "East Champaran",
+        "addressRegion": "Bihar",
+        "postalCode": "845433",
+        "addressCountry": "IN"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-7903292066",
+        "contactType": "sales",
+        "email": "hello@plazmasoft.com",
+        "availableLanguage": ["en", "hi"]
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/plazmasoft/",
+        "https://github.com/rajnandan-usa"
+      ]
+    }
+    </script>
+    @yield('structured_data')
 
 </head>
 

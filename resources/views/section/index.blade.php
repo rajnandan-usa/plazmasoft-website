@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    Home
+    Web & Mobile App Development Company in India
+@endsection
+
+@section('meta_description')
+Plazmasoft — founder-led web & mobile app development studio. Laravel, Flutter, AI integration (Gemini, Stable Diffusion). 18+ projects, 15+ happy clients. Based in Bihar, India.
 @endsection
 
 @section('mainBody')

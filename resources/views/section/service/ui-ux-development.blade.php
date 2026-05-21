@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    UI-UX Development
+    UI/UX Design Services — Figma, Mobile & Web | Plazmasoft
+@endsection
+
+@section('meta_description')
+Plazmasoft designs clean, conversion-focused UI/UX for mobile and web apps. Figma-first process, user testing included. See our portfolio for real examples.
 @endsection
 
 @section('mainBody')

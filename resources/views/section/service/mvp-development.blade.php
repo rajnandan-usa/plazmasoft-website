@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    MVP Development
+    MVP Development for Startups — 8-12 Week Launch | Plazmasoft
+@endsection
+
+@section('meta_description')
+Launch your MVP in 8–12 weeks with Plazmasoft. We help startups validate ideas fast: scoping, design, development, and launch. Fixed-price estimates, no lock-in.
 @endsection
 
 @section('mainBody')

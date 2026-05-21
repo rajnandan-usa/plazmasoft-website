@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    Mobile App Development Services - {{ config('app.name') }}
+    Mobile App Development Services — Flutter & React Native | Plazmasoft
+@endsection
+
+@section('meta_description')
+Plazmasoft builds production-ready mobile apps using Flutter and React Native. Cross-platform apps for Android and iOS — 18+ apps delivered, real case studies available.
 @endsection
 
 @section('mainBody')

@@ -1,7 +1,11 @@
 @extends('layouts.app')
 
 @section('title')
-    About us
+    About Plazmasoft — Founder-Led App Development Studio
+@endsection
+
+@section('meta_description')
+Plazmasoft is a founder-led software studio run by Rajnandan Kushwaha. We build web apps (Laravel), mobile apps (Flutter), and AI integrations. Founded in 2021, serving clients from India and the UAE.
 @endsection
 
 
