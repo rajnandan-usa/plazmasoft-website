@@ -64,10 +64,11 @@
     </div>
 </form>
 
+@once
 @push('scripts')
     <script>
-        // Track which form's button was clicked (multiple forms exist on page)
-        $(document).on('click', '.js-contactForm .g-recaptcha', function() {
+        // mousedown fires before reCaptcha intercepts the click event
+        $(document).on('mousedown', '.js-contactForm .g-recaptcha', function() {
             window._activeContactForm = $(this).closest('.js-contactForm');
         });
 
@@ -116,3 +117,4 @@
         }
     </script>
 @endpush
+@endonce
