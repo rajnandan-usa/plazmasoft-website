@@ -52,7 +52,7 @@
             <div class="flex justify-center">
                 <div class="relative">
                     <div class="h-72 w-72 overflow-hidden rounded-2xl bg-gradient-to-br from-brand-100 to-brand-200 shadow-card-hover lg:h-96 lg:w-96">
-                        <img src="{{ asset('web-assets/images/logo1.png') }}" alt="Plazmasoft" class="h-full w-full object-contain p-12 opacity-30">
+                        <img src="{{ asset('images/logo.png') }}" alt="Plazmasoft" class="h-full w-full object-contain p-12 opacity-30">
                     </div>
                     <div class="absolute -bottom-4 -right-4 rounded-xl bg-white p-4 shadow-card">
                         <p class="font-display text-2xl font-bold text-brand-500">{{ $settings['projects_delivered'] ?? '18' }}+</p>

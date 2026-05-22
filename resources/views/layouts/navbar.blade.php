@@ -23,7 +23,7 @@
 
             {{-- Logo --}}
             <a href="{{ url('/') }}" class="flex items-center gap-2.5 flex-shrink-0">
-                <img src="{{ asset('web-assets/images/logo1.png') }}" alt="{{ $settings['site_name'] ?? 'Plazmasoft' }}" class="h-8 w-auto">
+                <img src="{{ asset('images/logo.png') }}" alt="{{ $settings['site_name'] ?? 'Plazmasoft' }}" class="h-8 w-auto">
                 <span class="font-display text-lg font-bold text-gray-900">{{ $settings['site_name'] ?? 'Plazmasoft' }}</span>
             </a>
 

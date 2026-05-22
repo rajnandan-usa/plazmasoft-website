@@ -28,7 +28,7 @@
     "publisher": {
         "@type": "Organization",
         "name": "Plazmasoft",
-        "logo": { "@type": "ImageObject", "url": "{{ asset('web-assets/images/logo1.png') }}" }
+        "logo": { "@type": "ImageObject", "url": "{{ asset('images/logo.png') }}" }
     }
 }
 </script>

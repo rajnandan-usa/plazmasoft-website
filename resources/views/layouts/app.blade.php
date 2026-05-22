@@ -15,14 +15,14 @@
     <meta property="og:url"         content="@yield('og_url', url()->current())">
     <meta property="og:title"       content="@yield('og_title', $settings['default_meta_title'] ?? config('app.name'))">
     <meta property="og:description" content="@yield('og_description', $settings['default_meta_description'] ?? '')">
-    <meta property="og:image"       content="@yield('og_image', asset('web-assets/images/logo1.png'))">
+    <meta property="og:image"       content="@yield('og_image', asset('images/logo.png'))">
     <meta property="og:site_name"   content="{{ $settings['site_name'] ?? config('app.name') }}">
 
     {{-- Twitter --}}
     <meta name="twitter:card"        content="summary_large_image">
     <meta name="twitter:title"       content="@yield('og_title', $settings['default_meta_title'] ?? config('app.name'))">
     <meta name="twitter:description" content="@yield('og_description', $settings['default_meta_description'] ?? '')">
-    <meta name="twitter:image"       content="@yield('og_image', asset('web-assets/images/logo1.png'))">
+    <meta name="twitter:image"       content="@yield('og_image', asset('images/logo.png'))">
 
     <link rel="icon" href="{{ asset('favicon.ico') }}">
 
@@ -49,7 +49,7 @@
         "name": "{{ $settings['site_name'] ?? 'Plazmasoft' }}",
         "legalName": "{{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}",
         "url": "{{ url('/') }}",
-        "logo": "{{ asset('web-assets/images/logo1.png') }}",
+        "logo": "{{ asset('images/logo.png') }}",
         "foundingDate": "{{ $settings['founded_year'] ?? '2022' }}",
         "address": [
             {

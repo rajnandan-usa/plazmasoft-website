@@ -39,7 +39,7 @@
                 {{-- Column 1: Brand --}}
                 <div class="lg:col-span-1">
                     <a href="{{ url('/') }}" class="flex items-center gap-2.5">
-                        <img src="{{ asset('web-assets/images/logo1.png') }}" alt="{{ $settings['site_name'] ?? 'Plazmasoft' }}" class="h-8 w-auto brightness-0 invert">
+                        <img src="{{ asset('images/logo.png') }}" alt="{{ $settings['site_name'] ?? 'Plazmasoft' }}" class="h-8 w-auto brightness-0 invert">
                         <span class="font-display text-lg font-bold text-white">{{ $settings['site_name'] ?? 'Plazmasoft' }}</span>
                     </a>
                     @if(!empty($settings['site_tagline']))
