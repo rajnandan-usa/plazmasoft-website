@@ -7,6 +7,35 @@
 @if($project->banner_image_path)
 @section('og_image', asset('storage/' . $project->banner_image_path))
 @endif
+@section('canonical', url('/portfolio/' . $project->slug))
+
+@section('jsonld')
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "name": "{{ e($project->title) }}",
+    "description": "{{ e($project->tagline) }}",
+    "url": "{{ url('/portfolio/' . $project->slug) }}",
+    "creator": {
+        "@type": "Organization",
+        "name": "Plazmasoft",
+        "url": "{{ url('/') }}"
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ url('/') }}" },
+        { "@type": "ListItem", "position": 2, "name": "Portfolio", "item": "{{ url('/portfolio') }}" },
+        { "@type": "ListItem", "position": 3, "name": "{{ e($project->title) }}", "item": "{{ url('/portfolio/' . $project->slug) }}" }
+    ]
+}
+</script>
+@endsection
 
 @section('content')
 

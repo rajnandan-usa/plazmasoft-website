@@ -4,6 +4,39 @@
 @section('meta_description', isset($service) ? ($service->meta_description ?: $service->excerpt) : '')
 @section('canonical', url('/services/' . $slug))
 
+@section('jsonld')
+@php
+$serviceTitle = isset($service) ? $service->title : ucwords(str_replace('-', ' ', $slug));
+$serviceDesc  = isset($service) ? ($service->meta_description ?: $service->excerpt) : '';
+@endphp
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "{{ e($serviceTitle) }}",
+    "name": "{{ e($serviceTitle) }}",
+    "description": "{{ e($serviceDesc) }}",
+    "provider": {
+        "@type": "Organization",
+        "name": "Plazmasoft",
+        "url": "{{ url('/') }}"
+    },
+    "url": "{{ url('/services/' . $slug) }}"
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ url('/') }}" },
+        { "@type": "ListItem", "position": 2, "name": "Services", "item": "{{ url('/services') }}" },
+        { "@type": "ListItem", "position": 3, "name": "{{ e($serviceTitle) }}", "item": "{{ url('/services/' . $slug) }}" }
+    ]
+}
+</script>
+@endsection
+
 @section('content')
 
 @if(isset($service))

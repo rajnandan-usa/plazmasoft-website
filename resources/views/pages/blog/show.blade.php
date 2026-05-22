@@ -9,6 +9,42 @@
 @endif
 @section('canonical', url('/blog/' . $post->slug))
 
+@section('jsonld')
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ e($post->title) }}",
+    "description": "{{ e($post->excerpt) }}",
+    "url": "{{ url('/blog/' . $post->slug) }}",
+    "datePublished": "{{ $post->published_at?->toIso8601String() }}",
+    "dateModified": "{{ $post->updated_at->toIso8601String() }}",
+    @if($post->cover_image_path)"image": "{{ asset('storage/' . $post->cover_image_path) }}",@endif
+    "author": {
+        "@type": "Organization",
+        "name": "Plazmasoft",
+        "url": "{{ url('/') }}"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Plazmasoft",
+        "logo": { "@type": "ImageObject", "url": "{{ asset('web-assets/images/logo1.png') }}" }
+    }
+}
+</script>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{ url('/') }}" },
+        { "@type": "ListItem", "position": 2, "name": "Blog", "item": "{{ url('/blog') }}" },
+        { "@type": "ListItem", "position": 3, "name": "{{ e($post->title) }}", "item": "{{ url('/blog/' . $post->slug) }}" }
+    ]
+}
+</script>
+@endsection
+
 @section('content')
 
 <article>

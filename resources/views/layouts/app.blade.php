@@ -40,6 +40,46 @@
     @endif
 
     @yield('head')
+
+    {{-- Organization JSON-LD (every page) --}}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "{{ $settings['site_name'] ?? 'Plazmasoft' }}",
+        "legalName": "{{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}",
+        "url": "{{ url('/') }}",
+        "logo": "{{ asset('web-assets/images/logo1.png') }}",
+        "foundingDate": "{{ $settings['founded_year'] ?? '2022' }}",
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Mumbai",
+                "addressRegion": "Maharashtra",
+                "addressCountry": "IN"
+            },
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Patna",
+                "addressRegion": "Bihar",
+                "addressCountry": "IN"
+            }
+        ],
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "{{ $settings['phone_primary'] ?? '' }}",
+            "contactType": "sales",
+            "email": "{{ $settings['email_sales'] ?? 'hello@plazmasoft.com' }}"
+        },
+        "sameAs": [
+            @php $sameAs = array_filter([$settings['linkedin_url'] ?? '', $settings['github_url'] ?? '', $settings['twitter_url'] ?? '', $settings['instagram_url'] ?? '', $settings['youtube_url'] ?? '']); @endphp
+            {{ implode(",\n            ", array_map(fn($u) => '"' . e($u) . '"', $sameAs)) }}
+        ]
+    }
+    </script>
+
+    {{-- Page-specific JSON-LD --}}
+    @yield('jsonld')
 </head>
 <body class="bg-white text-gray-800 antialiased">
 

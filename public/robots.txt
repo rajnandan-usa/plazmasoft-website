@@ -1,8 +1,16 @@
 User-agent: *
 Allow: /
+
 Disallow: /admin
-Disallow: /storage/projects/banner-raw/
-Disallow: /dashboard
-Disallow: /profile
+Disallow: /admin/
+Disallow: /storage/private/
+Disallow: /thank-you
+
+# Block noisy bots from crawling error pages and API internals
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
 
 Sitemap: https://plazmasoft.com/sitemap.xml

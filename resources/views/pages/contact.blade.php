@@ -2,6 +2,39 @@
 
 @section('title', 'Contact Plazmasoft | Start Your Project')
 @section('meta_description', 'Get in touch with Plazmasoft. Tell us about your project and we will reply within one business day.')
+@section('canonical', url('/contact'))
+
+@section('jsonld')
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Plazmasoft",
+    "legalName": "{{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}",
+    "url": "{{ url('/') }}",
+    "telephone": "{{ $settings['phone_primary'] ?? '' }}",
+    "email": "{{ $settings['email_sales'] ?? 'hello@plazmasoft.com' }}",
+    "address": [
+        {
+            "@type": "PostalAddress",
+            "streetAddress": "{{ $settings['office_mumbai_address'] ?? 'Mumbai' }}",
+            "addressLocality": "Mumbai",
+            "addressRegion": "Maharashtra",
+            "addressCountry": "IN"
+        },
+        {
+            "@type": "PostalAddress",
+            "streetAddress": "{{ $settings['office_patna_address'] ?? 'Patna' }}",
+            "addressLocality": "Patna",
+            "addressRegion": "Bihar",
+            "addressCountry": "IN"
+        }
+    ],
+    "openingHours": "Mo-Fr 09:00-18:00",
+    "priceRange": "$$"
+}
+</script>
+@endsection
 
 @section('content')
 
