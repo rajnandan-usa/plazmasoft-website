@@ -30,3 +30,5 @@ yarn-error.log
 /_pre-rebuild/
 /.env.deploy
 /deploy.sh
+/post-deploy.php
+/.last-deploy-commit
