@@ -7,3 +7,7 @@ $FTP_USER      = "your-ftp-username"                   # e.g. u411863014.plazmas
 $FTP_PASS      = "your-ftp-password"
 $REMOTE_DIR    = ""                                    # Leave empty -- Hostinger FTP root = public_html
 $DEPLOY_SECRET = "change-this-to-a-random-secret"     # Used to protect the post-deploy.php endpoint
+
+# Set $true for FIRST deploy only (uploads full vendor folder ~50-100MB, slow but necessary)
+# Set $false for all subsequent deploys
+$UPLOAD_VENDOR = $false
