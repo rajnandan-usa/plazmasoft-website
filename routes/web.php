@@ -1,136 +1,85 @@
 <?php
 
-use App\Http\Controllers\ContactController;
-use App\Http\Controllers\PageController;
-use App\Http\Controllers\PortfolioController;
-use App\Http\Controllers\PostController;
-use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\ServiceController;
-use App\Http\Controllers\SolutionController;
-use App\Http\Controllers\TeamController;
-use Illuminate\Support\Facades\Artisan;
+use App\Http\Controllers\Web\BlogController;
+use App\Http\Controllers\Web\ContactController;
+use App\Http\Controllers\Web\HomeController;
+use App\Http\Controllers\Web\PortfolioController;
+use App\Http\Controllers\Web\ServiceController;
+use App\Http\Controllers\Web\SolutionController;
 use Illuminate\Support\Facades\Route;
 
+// Homepage
+Route::get('/', [HomeController::class, 'index'])->name('home');
 
-Route::middleware('redirectExceptAllowed')->group(function () {
-    // Page routes
-    Route::controller(PageController::class)->group(function () {
-        Route::get("/", "index")->name("index");
-        Route::get("/about", "about")->name("about");
-        Route::get("/contact", "contact")->name("contact.submit");
-        Route::get("/terms", "terms")->name("terms");
-        Route::get("/privacy", "privacy")->name("privacy");
-    });
-    
-    Route::controller(ContactController::class)->prefix("contact")->name("contact.")->group(function(){
-        Route::get("/", "index")->name("index");
-        Route::middleware(['throttle:1,1'])->post("/", "store")->name("store");
+// About
+Route::get('/about', [HomeController::class, 'about'])->name('about');
 
-    });
-
-    // Post routes
-    Route::controller(PostController::class)->name("posts.")->prefix("post")->group(function () {
-        Route::get("/", "index")->name("index");
-        Route::get("/{slug}", "show")->name("show");
-    });
-
-    // Service routes
-    Route::controller(ServiceController::class)->name("services.")->prefix("services")->group(function () {
-        Route::get("/", "index")->name("index");
-        Route::get("/mobile-app-development", "mobile_app_development")->name("mobile_app_development");
-        Route::get("/web-app-development", "web_app")->name("web_app");
-        Route::get("/ai-integration", "ai_integration")->name("ai_integration");
-        Route::get("/ui-ux-development", "ui_ux")->name("ui_ux");
-        Route::get("/mvp-development", "mvp")->name("mvp");
-    });
-
-    // 301 redirects for removed service pages
-    Route::redirect('/services/android-app-development', '/services/mobile-app-development', 301);
-    Route::redirect('/services/ios-app-development', '/services/mobile-app-development', 301);
-    Route::redirect('/services/flutter-app-development', '/services/mobile-app-development', 301);
-    Route::redirect('/services/react-native-app-development', '/services/mobile-app-development', 301);
-    Route::redirect('/services/app-maintenance', '/services/mobile-app-development', 301);
-    Route::redirect('/services/chatgpt-development', '/services/ai-integration', 301);
-    Route::redirect('/services/iot-development', '/services/web-app-development', 301);
-    Route::redirect('/services/blockchain-app-development', '/services/web-app-development', 301);
-    Route::redirect('/services/ar-vr-development', '/services/web-app-development', 301);
-
-    // Solution routes
-    Route::controller(SolutionController::class)->name("solutions.")->prefix("solutions")->group(function () {
-        Route::get("/fintech-development", "fintech")->name("fintech");
-        Route::get("/fleet-management", "fleet_management")->name("fleet_management");
-        Route::get("/ai-property-visualization", "ai_property_visualization")->name("ai_property_visualization");
-        Route::get("/agritech-development", "agritech_development")->name("agritech_development");
-    });
-
-    // 301 redirects for removed solution pages
-    Route::redirect('/solutions/transport-app', '/solutions/fleet-management', 301);
-    Route::redirect('/solutions/food-ordering-development', '/portfolio-projects', 301);
-    Route::redirect('/solutions/healthcare-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/qr-code-based-food-ordering', '/portfolio-projects', 301);
-    Route::redirect('/solutions/on-demand-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/fitness-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/fantasy-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/texi-booking-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/dating-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/grocary-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/socialmedia-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/sportbatting-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/stocktrading-app', '/portfolio-projects', 301);
-    Route::redirect('/solutions/videostreaming-app', '/portfolio-projects', 301);
-
-    // Team routes
-    Route::controller(TeamController::class)->name("team.")->prefix("team")->group(function () {
-        Route::get("/", "index")->name("index");
-    });
-
-    // 301 redirects for removed "Hire Developers" pages
-    Route::redirect('/team/flutter-developer', '/contact', 301);
-    Route::redirect('/team/reactjs-developer', '/contact', 301);
-    Route::redirect('/team/fullstack-developer', '/contact', 301);
-    Route::redirect('/team/mernstack-developer', '/contact', 301);
-    Route::redirect('/team/reactnative-developer', '/contact', 301);
-    Route::redirect('/team/dedicated-developer', '/contact', 301);
-
-    // Portfolio routes
-    Route::controller(PortfolioController::class)->name("portfolio.")->prefix("portfolio-projects")->group(function () {
-        Route::get("/", "index")->name("index");
-        Route::get("/{id}", "show")->name("show");
-    });
+// Services
+Route::prefix('services')->name('services.')->group(function () {
+    Route::get('/', [ServiceController::class, 'index'])->name('index');
+    Route::get('/web-app-development',     [ServiceController::class, 'show'])->defaults('slug', 'web-app-development')->name('web-app-development');
+    Route::get('/mobile-app-development',  [ServiceController::class, 'show'])->defaults('slug', 'mobile-app-development')->name('mobile-app-development');
+    Route::get('/ai-integration',          [ServiceController::class, 'show'])->defaults('slug', 'ai-integration')->name('ai-integration');
+    Route::get('/ui-ux-development',       [ServiceController::class, 'show'])->defaults('slug', 'ui-ux-development')->name('ui-ux-development');
+    Route::get('/mvp-development',         [ServiceController::class, 'show'])->defaults('slug', 'mvp-development')->name('mvp-development');
 });
 
-// Dashboard and profile routes
-Route::get('/dashboard', function () {
-    return view('dashboard');
-})->middleware(['auth', 'verified'])->name('dashboard');
-
-Route::middleware('auth')->group(function () {
-    Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
-    Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
-    Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+// Solutions
+Route::prefix('solutions')->name('solutions.')->group(function () {
+    Route::get('/', [SolutionController::class, 'index'])->name('index');
+    Route::get('/fintech-development',        [SolutionController::class, 'show'])->defaults('slug', 'fintech-development')->name('fintech-development');
+    Route::get('/fleet-management',           [SolutionController::class, 'show'])->defaults('slug', 'fleet-management')->name('fleet-management');
+    Route::get('/ai-property-visualization',  [SolutionController::class, 'show'])->defaults('slug', 'ai-property-visualization')->name('ai-property-visualization');
+    Route::get('/agritech-development',       [SolutionController::class, 'show'])->defaults('slug', 'agritech-development')->name('agritech-development');
 });
 
-// Artisan cache clear route (secret key protected)
-Route::get('/artisan-run/{secret}', function (string $secret) {
-    if ($secret !== 'plazma2024clear') {
-        abort(403);
-    }
-
-    Artisan::call('config:clear');
-    Artisan::call('cache:clear');
-    Artisan::call('config:cache');
-
-    return response()->json([
-        'status' => 'success',
-        'message' => 'Config cleared and cached successfully.',
-        'commands' => [
-            'config:clear' => 'done',
-            'cache:clear'  => 'done',
-            'config:cache' => 'done',
-        ]
-    ]);
+// Portfolio
+Route::prefix('portfolio')->name('portfolio.')->group(function () {
+    Route::get('/', [PortfolioController::class, 'index'])->name('index');
+    Route::get('/{slug}', [PortfolioController::class, 'show'])->name('show');
 });
 
-// Require additional routes
-require __DIR__ . '/auth.php';
-require __DIR__ . '/admin.php';
+// Blog
+Route::prefix('blog')->name('blog.')->group(function () {
+    Route::get('/', [BlogController::class, 'index'])->name('index');
+    Route::get('/{slug}', [BlogController::class, 'show'])->name('show');
+});
+
+// Contact
+Route::prefix('contact')->name('contact.')->group(function () {
+    Route::get('/', [ContactController::class, 'index'])->name('index');
+    Route::post('/', [ContactController::class, 'store'])->name('store')->middleware('throttle:3,1');
+});
+
+// Newsletter
+Route::post('/newsletter/subscribe', [ContactController::class, 'newsletterSubscribe'])->name('newsletter.subscribe');
+Route::get('/newsletter/confirm/{token}', [ContactController::class, 'newsletterConfirm'])->name('newsletter.confirm');
+Route::get('/newsletter/unsubscribe/{token}', [ContactController::class, 'newsletterUnsubscribe'])->name('newsletter.unsubscribe');
+
+// Thank you
+Route::get('/thank-you', [HomeController::class, 'thankYou'])->name('thank-you');
+
+// Legal pages
+Route::get('/privacy-policy',   [HomeController::class, 'privacyPolicy'])->name('privacy-policy');
+Route::get('/terms-of-service', [HomeController::class, 'termsOfService'])->name('terms-of-service');
+
+// 301 redirects from old URLs
+Route::redirect('/portfolio-projects',                        '/portfolio', 301);
+Route::redirect('/portfolio-projects/{id}',                   '/portfolio', 301);
+Route::redirect('/post',                                      '/blog', 301);
+Route::redirect('/post/{slug}',                               '/blog', 301);
+Route::redirect('/terms',                                     '/terms-of-service', 301);
+Route::redirect('/privacy',                                   '/privacy-policy', 301);
+Route::redirect('/services/android-app-development',          '/services/mobile-app-development', 301);
+Route::redirect('/services/ios-app-development',              '/services/mobile-app-development', 301);
+Route::redirect('/services/flutter-app-development',          '/services/mobile-app-development', 301);
+Route::redirect('/services/react-native-app-development',     '/services/mobile-app-development', 301);
+Route::redirect('/services/app-maintenance',                  '/services/mobile-app-development', 301);
+Route::redirect('/services/chatgpt-development',              '/services/ai-integration', 301);
+Route::redirect('/services/iot-development',                  '/services/web-app-development', 301);
+Route::redirect('/services/blockchain-app-development',       '/services/web-app-development', 301);
+Route::redirect('/services/ar-vr-development',                '/services/web-app-development', 301);
+Route::redirect('/solutions/transport-app',                   '/solutions/fleet-management', 301);
+Route::redirect('/solutions/food-ordering-development',       '/portfolio', 301);
+Route::redirect('/solutions/healthcare-app',                  '/portfolio', 301);
+Route::redirect('/solutions/on-demand-app',                   '/portfolio', 301);
