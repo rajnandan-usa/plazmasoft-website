@@ -1,12 +1,14 @@
 # Plazmasoft deploy script -- Hostinger FTP (smart deploy)
-# Usage: .\deploy.ps1
+# Usage:
+#   .\deploy.ps1              -- normal deploy
+#   .\deploy.ps1 -Retry       -- re-upload only previously failed files
 # Prerequisites: deploy.config.ps1 in the same directory (gitignored)
-#
-# First deploy:      set $UPLOAD_VENDOR = $true in deploy.config.ps1
-# Subsequent deploys: set $UPLOAD_VENDOR = $false
+
+param([switch]$Retry)
 
 $ErrorActionPreference = "Continue"
-$DEPLOY_MARKER = ".last-deploy-commit"
+$DEPLOY_MARKER  = ".last-deploy-commit"
+$FAILED_LOG     = ".deploy-failed.txt"
 
 if (-not (Test-Path "deploy.config.ps1")) {
     Write-Host "ERROR: deploy.config.ps1 not found. Copy deploy.config.example.ps1 and fill in credentials." -ForegroundColor Red
@@ -15,6 +17,32 @@ if (-not (Test-Path "deploy.config.ps1")) {
 . .\deploy.config.ps1
 
 $FTP_SERVER = $FTP_SERVER -replace "^ftp://", ""
+
+# -Retry mode: only re-upload files that failed last time
+if ($Retry) {
+    if (-not (Test-Path $FAILED_LOG)) {
+        Write-Host "No failed files log found (.deploy-failed.txt). Nothing to retry." -ForegroundColor Yellow
+        exit 0
+    }
+    $failedFiles = Get-Content $FAILED_LOG | Where-Object { $_.Trim() -ne "" }
+    Write-Host ""
+    Write-Host "=== Retry Mode: $($failedFiles.Count) failed files ===" -ForegroundColor Cyan
+    $u = 0; $f = 0; $stillFailed = @()
+    foreach ($rel in $failedFiles) {
+        if (-not (Test-Path $rel)) { Write-Host "  GONE $rel" -ForegroundColor Gray; continue }
+        $parts   = $rel.Replace("\", "/") -split "/"
+        $encoded = $parts | ForEach-Object { [Uri]::EscapeDataString($_) }
+        $ftpUrl  = "ftp://" + $FTP_SERVER + $REMOTE_DIR + "/" + ($encoded -join "/")
+        curl.exe -s -S --ftp-create-dirs -T $rel $ftpUrl --user ($FTP_USER + ":" + $FTP_PASS) 2>&1 | Out-Null
+        if ($LASTEXITCODE -eq 0) { Write-Host "  OK   $rel" -ForegroundColor Green; $u++ }
+        else { Write-Host "  FAIL $rel" -ForegroundColor Red; $f++; $stillFailed += $rel }
+    }
+    if ($stillFailed.Count -gt 0) { $stillFailed | Out-File $FAILED_LOG -Encoding utf8 }
+    else { Remove-Item $FAILED_LOG -ErrorAction SilentlyContinue }
+    Write-Host ""
+    Write-Host "Retry complete -- Uploaded: $u  Still failed: $f" -ForegroundColor Cyan
+    exit 0
+}
 
 # Default to $false if not set in config
 if (-not (Get-Variable -Name UPLOAD_VENDOR -ErrorAction SilentlyContinue)) {
@@ -115,21 +143,22 @@ function Upload-File($rel) {
 
 function Upload-Dir($dir) {
     $files = Get-ChildItem -Path $dir -Recurse -File
-    $u = 0; $f = 0
+    $u = 0; $f = 0; $ff = @()
     foreach ($file in $files) {
         $rel = $file.FullName.Substring((Get-Location).Path.Length + 1)
         if (Upload-File $rel) { Write-Host "      OK   $rel" -ForegroundColor Green; $u++ }
-        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $f++ }
+        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $f++; $ff += $rel }
     }
-    return @($u, $f)
+    return @($u, $f, $ff)
 }
 
 # Step 4: Upload git-tracked changed files (or all on full deploy)
 Write-Host "[4/6] FTP upload (git-tracked files)..." -ForegroundColor Yellow
-$uploaded = 0
-$skipped  = 0
-$failed   = 0
-$localRoot = (Get-Location).Path
+$uploaded    = 0
+$skipped     = 0
+$failed      = 0
+$failedFiles = @()
+$localRoot   = (Get-Location).Path
 
 if ($fullDeploy) {
     $allFiles = Get-ChildItem -Path $localRoot -Recurse -File
@@ -137,7 +166,7 @@ if ($fullDeploy) {
         $rel = $file.FullName.Substring($localRoot.Length + 1)
         if (Should-Skip $rel) { $skipped++; continue }
         if (Upload-File $rel) { Write-Host "      OK   $rel" -ForegroundColor Green; $uploaded++ }
-        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $failed++ }
+        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $failed++; $failedFiles += $rel }
     }
 } else {
     foreach ($f in $changedFiles) {
@@ -150,7 +179,7 @@ if ($fullDeploy) {
             continue
         }
         if (Upload-File $rel) { Write-Host "      OK   $rel" -ForegroundColor Green; $uploaded++ }
-        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $failed++ }
+        else                  { Write-Host "      FAIL $rel" -ForegroundColor Red;   $failed++; $failedFiles += $rel }
     }
 }
 
@@ -158,7 +187,7 @@ if ($fullDeploy) {
 Write-Host "[5/6] Uploading public\build\ (Vite assets)..." -ForegroundColor Yellow
 if (Test-Path "public\build") {
     $r = Upload-Dir "public\build"
-    $uploaded += $r[0]; $failed += $r[1]
+    $uploaded += $r[0]; $failed += $r[1]; $failedFiles += $r[2]
     Write-Host "      Done ($($r[0]) files)." -ForegroundColor Green
 } else {
     Write-Host "      public\build not found -- run npm run build first." -ForegroundColor Red
@@ -183,12 +212,24 @@ if (Test-Path "post-deploy.php") {
 # Save current commit as last deployed
 $currentCommit | Out-File -FilePath $DEPLOY_MARKER -Encoding utf8 -NoNewline
 
+# Save failed files list for retry
+if ($failedFiles.Count -gt 0) {
+    $failedFiles | Out-File -FilePath $FAILED_LOG -Encoding utf8
+} else {
+    Remove-Item $FAILED_LOG -ErrorAction SilentlyContinue
+}
+
 Write-Host ""
 Write-Host "=== Deploy Complete ===" -ForegroundColor Cyan
 Write-Host "Uploaded : $uploaded" -ForegroundColor Green
 Write-Host "Skipped  : $skipped"  -ForegroundColor Gray
 if ($failed -gt 0) {
-    Write-Host "Failed   : $failed -- re-run script or upload manually" -ForegroundColor Red
+    Write-Host "Failed   : $failed" -ForegroundColor Red
+    Write-Host ""
+    Write-Host "Failed files saved to .deploy-failed.txt" -ForegroundColor Yellow
+    Write-Host "Re-run with:  .\deploy.ps1 -Retry" -ForegroundColor Yellow
+    Write-Host ""
+    $failedFiles | ForEach-Object { Write-Host "  FAIL $_" -ForegroundColor Red }
 }
 if ($UPLOAD_VENDOR) {
     Write-Host ""
