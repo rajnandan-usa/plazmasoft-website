@@ -3,9 +3,13 @@
 namespace App\Http\Controllers\Web;
 
 use App\Http\Controllers\Controller;
+use App\Mail\ContactAdminNotification;
+use App\Mail\ContactAutoReply;
+use App\Mail\NewsletterConfirmation;
 use App\Models\ContactSubmission;
 use App\Models\NewsletterSubscriber;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Str;
 
 class ContactController extends Controller
@@ -32,7 +36,7 @@ class ContactController extends Controller
             return redirect()->route('thank-you');
         }
 
-        ContactSubmission::create([
+        $submission = ContactSubmission::create([
             'name'         => $validated['name'],
             'email'        => $validated['email'],
             'phone'        => $validated['phone'] ?? null,
@@ -46,6 +50,15 @@ class ContactController extends Controller
             'user_agent'   => $request->userAgent(),
             'status'       => 'new',
         ]);
+
+        $adminEmail = setting('email_sales', config('mail.from.address'));
+
+        try {
+            Mail::to($adminEmail)->send(new ContactAdminNotification($submission));
+            Mail::to($submission->email)->send(new ContactAutoReply($submission));
+        } catch (\Throwable) {
+            // Mail failure must not block the user redirect
+        }
 
         return redirect()->route('thank-you');
     }
@@ -64,11 +77,17 @@ class ContactController extends Controller
         $existing = NewsletterSubscriber::where('email', $request->email)->first();
 
         if (!$existing) {
-            NewsletterSubscriber::create([
+            $subscriber = NewsletterSubscriber::create([
                 'email'  => $request->email,
                 'source' => $request->headers->get('referer', 'footer'),
                 'token'  => Str::random(64),
             ]);
+
+            try {
+                Mail::to($subscriber->email)->send(new NewsletterConfirmation($subscriber));
+            } catch (\Throwable) {
+                // Mail failure must not block the response
+            }
         }
 
         return back()->with('newsletter_success', true);
