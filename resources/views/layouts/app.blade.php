@@ -24,7 +24,9 @@
     <meta name="twitter:description" content="@yield('og_description', $settings['default_meta_description'] ?? '')">
     <meta name="twitter:image"       content="@yield('og_image', asset('images/logo.png'))">
 
-    <link rel="icon" href="{{ asset('favicon.ico') }}">
+    <link rel="icon" type="image/png" href="{{ asset('images/logo.png') }}">
+    <link rel="apple-touch-icon" href="{{ asset('images/logo.png') }}">
+    <link rel="shortcut icon" href="{{ asset('images/logo.png') }}">
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
