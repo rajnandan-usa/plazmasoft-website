@@ -1,4 +1,4 @@
-@php
+﻿@php
 $contactFaqs = [
     ['q' => 'How quickly can you start on a project?',
      'a' => 'Typically within 1 to 2 weeks from proposal acceptance, depending on our current engagements. We maintain a transparent queue and will tell you upfront.'],
@@ -108,7 +108,7 @@ body{background:var(--bg)}
     <div class="w" style="position:relative;z-index:1;max-width:660px;margin:0 auto;text-align:center">
         <span class="eyebrow sr">Get in Touch</span>
         <h1 class="dh2 sr" style="margin-top:.9rem">Let's build something<br><span class="grad-t">worth shipping.</span></h1>
-        <p class="dlead sr" style="margin-top:1.1rem">Tell us about your project. We reply within one business day — no sales scripts, just a real conversation about what you need.</p>
+        <p class="dlead sr" style="margin-top:1.1rem">Tell us about your project. We reply within one business day, no sales scripts, just a real conversation about what you need.</p>
     </div>
 </section>
 

@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -122,7 +122,7 @@
 
     <div class="footer">
       <p class="footer-text">
-        Plazmasoft &mdash; Noida, Uttar Pradesh, India<br>
+        Plazmasoft &middot; Noida, Uttar Pradesh, India<br>
         <a href="{{ url('/') }}" class="footer-link">plazmasoft.com</a>
         &nbsp;&middot;&nbsp;
         <a href="{{ url('/privacy-policy') }}" class="footer-link">Privacy Policy</a>

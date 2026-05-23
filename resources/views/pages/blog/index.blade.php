@@ -1,4 +1,4 @@
-@extends('layouts.app')
+﻿@extends('layouts.app')
 
 @section('title', 'Blog | Plazmasoft')
 @section('meta_description', 'Practical articles on Laravel, Flutter, AI integration, and building software products that ship.')
@@ -39,7 +39,7 @@ body{background:var(--bg)}
     <div class="w" style="position:relative;z-index:1;text-align:center;max-width:640px;margin:0 auto">
         <span class="eyebrow sr">Insights</span>
         <h1 class="dh2 sr" style="margin-top:.9rem">The Plazmasoft<br><span class="grad-t">blog.</span></h1>
-        <p class="dlead sr" style="margin-top:1.1rem">Practical articles on building web apps, mobile apps, and AI-powered products. No hype — just what actually works.</p>
+        <p class="dlead sr" style="margin-top:1.1rem">Practical articles on building web apps, mobile apps, and AI-powered products. No hype, just what actually works.</p>
     </div>
 </section>
 

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+﻿@extends('layouts.app')
 
 @section('title', 'Industry Solutions | Plazmasoft')
 @section('meta_description', 'Vertical-specific software solutions for fintech, fleet management, AI property visualization, and agritech from a software studio in India.')
@@ -154,7 +154,7 @@ body{background:var(--bg)}
             <div class="ind-card">
                 <div class="ind-icon"><svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
                 <p class="ind-t">Realistic timelines</p>
-                <p class="ind-d">We've shipped in these verticals before — no discovery surprises.</p>
+                <p class="ind-d">We've shipped in these verticals before, no discovery surprises.</p>
             </div>
             <div class="ind-card">
                 <div class="ind-icon"><svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg></div>
@@ -171,7 +171,7 @@ body{background:var(--bg)}
         <div class="cta-band sr">
             <span class="eyebrow" style="justify-content:center">Working in one of these verticals?</span>
             <h2 class="dh2" style="margin-top:.75rem">Tell us about your project.</h2>
-            <p class="dlead" style="margin-top:.75rem;max-width:480px;margin-left:auto;margin-right:auto">We reply within one business day with a clear plan and honest pricing — no fluff.</p>
+            <p class="dlead" style="margin-top:.75rem;max-width:480px;margin-left:auto;margin-right:auto">We reply within one business day with a clear plan and honest pricing, no fluff.</p>
             <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:2rem">
                 <a href="{{ url('/contact') }}" class="bsolid">Start a Conversation</a>
                 <a href="{{ url('/portfolio') }}" class="bghost">See Our Work</a>

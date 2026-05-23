@@ -1,4 +1,4 @@
-@extends('layouts.app')
+﻿@extends('layouts.app')
 
 @section('title', 'Services | Plazmasoft')
 @section('meta_description', 'Web app development, mobile app development, AI integration, UI/UX design, and MVP development services from a software studio in India.')
@@ -155,7 +155,7 @@ body{background:var(--bg)}
             <div class="why-card">
                 <div class="why-icon"><svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
                 <p class="why-t">Fast, predictable delivery</p>
-                <p class="why-d">We scope tightly and ship on schedule. No surprise delays, no vague timelines — just clear milestones you can plan around.</p>
+                <p class="why-d">We scope tightly and ship on schedule. No surprise delays, no vague timelines, just clear milestones you can plan around.</p>
             </div>
             <div class="why-card">
                 <div class="why-icon"><svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg></div>
@@ -165,7 +165,7 @@ body{background:var(--bg)}
             <div class="why-card">
                 <div class="why-icon"><svg width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"/></svg></div>
                 <p class="why-t">Direct communication</p>
-                <p class="why-d">You talk directly to the team that builds your product. No account managers, no ticket queues — fast, clear updates throughout.</p>
+                <p class="why-d">You talk directly to the team that builds your product. No account managers, no ticket queues, fast, clear updates throughout.</p>
             </div>
         </div>
     </div>
@@ -177,7 +177,7 @@ body{background:var(--bg)}
         <div class="cta-band sr">
             <span class="eyebrow" style="justify-content:center">Ready to start?</span>
             <h2 class="dh2" style="margin-top:.75rem">Have a project in mind?</h2>
-            <p class="dlead" style="margin-top:.75rem;max-width:480px;margin-left:auto;margin-right:auto">Tell us what you want to build. We scope, price, and deliver — no fluff, no surprises.</p>
+            <p class="dlead" style="margin-top:.75rem;max-width:480px;margin-left:auto;margin-right:auto">Tell us what you want to build. We scope, price, and deliver, no fluff, no surprises.</p>
             <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;margin-top:2rem">
                 <a href="{{ url('/contact') }}" class="bsolid">Start a Project</a>
                 <a href="{{ url('/portfolio') }}" class="bghost">See Our Work</a>
