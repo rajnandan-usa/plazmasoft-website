@@ -1,8 +1,8 @@
 {{-- resources/views/about.blade.php --}}
 @extends('layouts.app')
 
-@section('title', 'About Plazmasoft | Founder-Led Web and Mobile App Studio')
-@section('meta_description', 'We are a founder-led software studio in India building production-grade web apps, mobile apps, and AI integrations. Founded in ' . ($settings['founded_year'] ?? '2022') . '.')
+@section('title', 'About Plazmasoft | Software Development Studio in India')
+@section('meta_description', 'Plazmasoft is a software development studio based in India. We build production-grade web apps, mobile apps, and AI integrations for startups and growing businesses.')
 
 @section('head')
 <style>
@@ -640,6 +640,76 @@
         background: rgba(251, 146, 60, 0.05);
     }
 
+    /* ═══════════════════════════════════════════════════
+       TEAM / DISCIPLINE CARDS
+    ═══════════════════════════════════════════════════ */
+    .team-section {
+        background: linear-gradient(180deg, #0a0f1e 0%, #030712 100%);
+    }
+
+    .discipline-card {
+        position: relative;
+        padding: 1.75rem 1.5rem;
+        background: rgba(255, 255, 255, 0.02);
+        border: 1px solid rgba(255, 255, 255, 0.07);
+        border-radius: 1.25rem;
+        transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+        overflow: hidden;
+    }
+
+    .discipline-card::before {
+        content: '';
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(135deg, rgba(251, 146, 60, 0.04) 0%, transparent 60%);
+        opacity: 0;
+        transition: opacity 0.4s;
+    }
+
+    .discipline-card:hover {
+        border-color: rgba(251, 146, 60, 0.2);
+        background: rgba(255, 255, 255, 0.04);
+        transform: translateY(-5px);
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    }
+
+    .discipline-card:hover::before { opacity: 1; }
+
+    .discipline-icon {
+        width: 2.75rem;
+        height: 2.75rem;
+        border-radius: .9rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(251, 146, 60, 0.08);
+        border: 1px solid rgba(251, 146, 60, 0.14);
+        transition: all 0.35s;
+        margin-bottom: 1rem;
+    }
+
+    .discipline-card:hover .discipline-icon {
+        background: rgba(251, 146, 60, 0.15);
+        border-color: rgba(251, 146, 60, 0.3);
+        transform: scale(1.08) rotate(4deg);
+    }
+
+    .discipline-title {
+        font-size: .9rem;
+        font-weight: 700;
+        color: #ffffff;
+        margin-bottom: .35rem;
+        transition: color .25s;
+    }
+
+    .discipline-card:hover .discipline-title { color: #fb923c; }
+
+    .discipline-tech {
+        font-size: .75rem;
+        color: rgba(255, 255, 255, 0.3);
+        line-height: 1.55;
+    }
+
     /* Cursor glow */
     .cursor-glow-about {
         position: fixed;
@@ -694,16 +764,16 @@
 
             <h1 class="animate-fade-up" style="animation-delay: 0.4s;">
                 <span class="block font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-[0.95] tracking-tight text-white">
-                    Built by a founder
+                    We are Plazmasoft.
                 </span>
                 <span class="block font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-[0.95] tracking-tight mt-2">
-                    who <span class="text-gradient-premium">actually ships.</span>
+                    A team that <span class="text-gradient-premium">actually ships.</span>
                 </span>
             </h1>
 
             <p class="mt-8 text-lg md:text-xl leading-relaxed text-gray-400 max-w-2xl mx-auto animate-fade-up" style="animation-delay: 0.6s;">
-                Plazmasoft is a lean, founder-led studio.
-                <span class="text-gray-500">No layers of account managers. Just direct communication, honest timelines, and code that ships.</span>
+                A software development studio based in India, building production-grade products for startups and growing businesses.
+                <span class="text-gray-500">Direct communication, honest timelines, and code that goes live.</span>
             </p>
 
             {{-- Scroll indicator --}}
@@ -721,38 +791,40 @@
 
 
 {{-- ══════════════════════════════════════════════════════
-     FOUNDER SECTION
+     TEAM SECTION
 ══════════════════════════════════════════════════════ --}}
-<section class="founder-section py-28 md:py-36">
+<section class="team-section py-28 md:py-36">
     <div class="container mx-auto px-6 lg:px-8 max-w-7xl">
-        <div class="grid grid-cols-1 items-center gap-16 lg:grid-cols-2">
+        <div class="grid grid-cols-1 items-start gap-16 lg:grid-cols-2">
 
-            {{-- Left - Text --}}
+            {{-- Left: Who We Are --}}
             <div class="reveal-left">
                 <p class="section-label-dark">Who We Are</p>
                 <h2 class="mt-4 font-display text-3xl md:text-4xl lg:text-5xl font-extrabold text-white leading-tight">
-                    Rajnandan Kushwaha
-                    <span class="block text-xl md:text-2xl font-medium text-gray-500 mt-2">Founder & Lead Developer</span>
+                    Small team.<br>
+                    <span class="text-gradient-premium">Big output.</span>
                 </h2>
 
                 <div class="mt-8 space-y-5 text-gray-400 text-[0.95rem] leading-relaxed">
                     <p>
-                        I started Plazmasoft in <span class="founder-text-highlight">{{ $settings['founded_year'] ?? '2022' }}</span> after years of building production apps for clients across
-                        <span class="founder-text-highlight">fintech, logistics, agritech, and e-commerce</span>.
-                        I got tired of watching good ideas fail because of bloated agencies and disconnected teams.
+                        Plazmasoft is a <span class="founder-text-highlight">software development studio</span> based in India,
+                        specializing in web applications, mobile apps, and AI-powered products.
+                        We are a focused team of engineers, designers, and product thinkers working across the full stack.
                     </p>
                     <p>
-                        The studio is built around one principle: <span class="text-white font-medium">the person writing the code should also be the person talking to the client.</span>
-                        That means faster decisions, fewer misunderstandings, and software that actually matches what you asked for.
+                        We keep teams small on purpose. Every client gets
+                        <span class="text-white font-medium">direct access to the people actually building their product,</span>
+                        not an account manager reading off a status doc.
+                        That means faster decisions, zero context loss, and software that matches what you asked for.
                     </p>
-                    <p class="text-gray-500">
-                        We are registered as <strong class="text-gray-300">{{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}</strong> and operate out of Mumbai and Patna, India.
+                    <p class="text-gray-500 text-sm">
+                        Founded {{ $settings['founded_year'] ?? '2022' }} &middot; Noida, India &middot; IT Services &amp; Software Development
                     </p>
                 </div>
 
                 {{-- Tech stack pills --}}
                 <div class="mt-8 flex flex-wrap gap-2">
-                    @foreach(['Laravel', 'Flutter', 'React', 'Node.js', 'GPT-4', 'AWS'] as $tech)
+                    @foreach(['Laravel', 'Flutter', 'React', 'Node.js', 'GPT-4', 'AWS', 'Figma', 'PostgreSQL'] as $tech)
                     <span class="tech-pill">
                         <span class="w-1.5 h-1.5 rounded-full bg-orange-400/50"></span>
                         {{ $tech }}
@@ -761,53 +833,67 @@
                 </div>
 
                 <div class="mt-10 flex flex-wrap gap-4">
-                    @if(!empty($settings['linkedin_url']))
-                    <a href="{{ $settings['linkedin_url'] }}" target="_blank" rel="noopener noreferrer" class="founder-link founder-link-primary">
+                    <a href="https://www.linkedin.com/company/plazmasoft/" target="_blank" rel="noopener noreferrer" class="founder-link founder-link-primary">
                         <svg class="h-4 w-4" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
-                        Connect on LinkedIn
+                        Plazmasoft on LinkedIn
                     </a>
-                    @endif
-                    @if(!empty($settings['github_url']))
-                    <a href="{{ $settings['github_url'] }}" target="_blank" rel="noopener noreferrer" class="founder-link founder-link-ghost">
-                        <svg class="h-4 w-4" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
-                        GitHub
+                    <a href="{{ url('/contact') }}" class="founder-link founder-link-ghost">
+                        Start a Project
                     </a>
-                    @endif
                 </div>
             </div>
 
-            {{-- Right - Image --}}
-            <div class="founder-image-container flex justify-center reveal-right">
-                <div class="relative">
-                    {{-- Orbiting ring --}}
-                    <div class="founder-orbiting-ring hidden lg:block">
-                        <div class="founder-orbiting-dot"></div>
-                    </div>
+            {{-- Right: Discipline cards --}}
+            <div class="reveal-right">
+                @php
+                $disciplines = [
+                    [
+                        'title' => 'Web Engineering',
+                        'tech'  => 'Laravel, React, Next.js, Node.js, PostgreSQL',
+                        'svg'   => '<path stroke-linecap="round" stroke-linejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5"/>',
+                    ],
+                    [
+                        'title' => 'Mobile Development',
+                        'tech'  => 'Flutter, iOS, Android, Firebase, Dart',
+                        'svg'   => '<path stroke-linecap="round" stroke-linejoin="round" d="M10.5 1.5H8.25A2.25 2.25 0 006 3.75v16.5a2.25 2.25 0 002.25 2.25h7.5A2.25 2.25 0 0018 20.25V3.75a2.25 2.25 0 00-2.25-2.25H13.5m-3 0V3h3V1.5m-3 0h3m-3 15.75h3"/>',
+                    ],
+                    [
+                        'title' => 'AI &amp; Integrations',
+                        'tech'  => 'GPT-4, Gemini, LLM pipelines, RAG systems',
+                        'svg'   => '<path stroke-linecap="round" stroke-linejoin="round" d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09z"/>',
+                    ],
+                    [
+                        'title' => 'Design &amp; Product',
+                        'tech'  => 'Figma, UI/UX, Design systems, Prototyping',
+                        'svg'   => '<path stroke-linecap="round" stroke-linejoin="round" d="M9.53 16.122a3 3 0 00-5.78 1.128 2.25 2.25 0 01-2.4 2.245 4.5 4.5 0 008.4-2.245c0-.399-.078-.78-.22-1.128zm0 0a15.998 15.998 0 003.388-1.62m-5.043-.025a15.994 15.994 0 011.622-3.395m3.42 3.42a15.995 15.995 0 004.764-4.648l3.876-5.814a1.151 1.151 0 00-1.597-1.597L14.146 6.32a15.996 15.996 0 00-4.649 4.763m3.42 3.42a6.776 6.776 0 00-3.42-3.42"/>',
+                    ],
+                ];
+                @endphp
 
-                    {{-- Main image --}}
-                    <div class="founder-image-frame w-72 h-72 lg:w-96 lg:h-96">
-                        <img src="{{ asset('images/logo.png') }}" alt="Plazmasoft" class="h-full w-full object-contain p-12 opacity-30 relative z-0">
-                    </div>
-
-                    {{-- Floating badges --}}
-                    <div class="founder-stat-badge -bottom-6 -right-6 animate-float" style="animation-delay: 0s;">
-                        <p class="text-2xl font-extrabold text-gradient-premium" style="-webkit-text-fill-color: unset; color: #fb923c;">{{ $settings['projects_delivered'] ?? '18' }}+</p>
-                        <p class="text-xs text-gray-500 mt-0.5">Projects shipped</p>
-                    </div>
-
-                    <div class="founder-stat-badge -top-4 -left-4 animate-float hidden sm:block" style="animation-delay: -3s;">
-                        <p class="text-2xl font-extrabold" style="color: #fb923c;">{{ $settings['happy_clients'] ?? '15' }}+</p>
-                        <p class="text-xs text-gray-500 mt-0.5">Happy clients</p>
-                    </div>
-
-                    <div class="founder-stat-badge top-1/2 -right-8 animate-float hidden lg:block" style="animation-delay: -6s;">
-                        <div class="flex items-center gap-2">
-                            <span class="w-2 h-2 rounded-full bg-green-400" style="box-shadow: 0 0 8px rgba(74,222,128,0.6);"></span>
-                            <span class="text-xs font-medium text-gray-400">Available now</span>
+                <div class="grid grid-cols-2 gap-4">
+                    @foreach($disciplines as $d)
+                    <div class="discipline-card">
+                        <div class="discipline-icon">
+                            <svg class="h-5 w-5 text-orange-400" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
+                                {!! $d['svg'] !!}
+                            </svg>
                         </div>
+                        <div class="discipline-title">{!! $d['title'] !!}</div>
+                        <div class="discipline-tech">{!! $d['tech'] !!}</div>
                     </div>
+                    @endforeach
+                </div>
+
+                {{-- Availability badge --}}
+                <div class="mt-5 flex items-center gap-3 px-4 py-3 rounded-xl border border-white/[0.06] bg-white/[0.02]">
+                    <span class="relative flex-shrink-0">
+                        <span class="block w-2.5 h-2.5 rounded-full bg-green-400" style="box-shadow: 0 0 8px rgba(74,222,128,0.7);"></span>
+                        <span class="absolute inset-0 rounded-full bg-green-400 animate-ping opacity-30"></span>
+                    </span>
+                    <span class="text-sm text-gray-400">Currently accepting new projects &middot; <span class="text-green-400 font-medium">Available now</span></span>
                 </div>
             </div>
+
         </div>
     </div>
 </section>

@@ -46,35 +46,41 @@
     {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "{{ $settings['site_name'] ?? 'Plazmasoft' }}",
-        "legalName": "{{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}",
+        "name": "Plazmasoft",
         "url": "{{ url('/') }}",
-        "logo": "{{ asset('images/logo.png') }}",
+        "logo": { "@type": "ImageObject", "url": "{{ asset('images/logo.png') }}" },
+        "description": "Plazmasoft is a software development studio based in Noida, India. We build production-grade web apps, mobile apps, and AI integrations for startups and growing businesses.",
         "foundingDate": "{{ $settings['founded_year'] ?? '2022' }}",
-        "address": [
-            {
-                "@type": "PostalAddress",
-                "addressLocality": "Mumbai",
-                "addressRegion": "Maharashtra",
-                "addressCountry": "IN"
-            },
-            {
-                "@type": "PostalAddress",
-                "addressLocality": "Patna",
-                "addressRegion": "Bihar",
-                "addressCountry": "IN"
-            }
-        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Noida",
+            "addressRegion": "Uttar Pradesh",
+            "addressCountry": "IN"
+        },
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "{{ $settings['phone_primary'] ?? '' }}",
             "contactType": "sales",
-            "email": "{{ $settings['email_sales'] ?? 'hello@plazmasoft.com' }}"
+            "email": "{{ $settings['email_sales'] ?? 'hello@plazmasoft.com' }}",
+            "areaServed": ["IN","US","GB","AU","AE"],
+            "availableLanguage": ["English","Hindi"]
         },
         "sameAs": [
-            @php $sameAs = array_filter([$settings['linkedin_url'] ?? '', $settings['github_url'] ?? '', $settings['twitter_url'] ?? '', $settings['instagram_url'] ?? '', $settings['youtube_url'] ?? '']); @endphp
-            {{ implode(",\n            ", array_map(fn($u) => '"' . e($u) . '"', $sameAs)) }}
-        ]
+            "https://www.linkedin.com/company/plazmasoft/"
+            @php $socials = array_filter([$settings['github_url'] ?? '', $settings['twitter_url'] ?? '', $settings['instagram_url'] ?? '', $settings['youtube_url'] ?? '']); @endphp
+            @foreach($socials as $u), "{{ e($u) }}"@endforeach
+        ],
+        "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Software Development Services",
+            "itemListElement": [
+                {"@type":"Offer","itemOffered":{"@type":"Service","name":"Web App Development","url":"{{ url('/services/web-app-development') }}"}},
+                {"@type":"Offer","itemOffered":{"@type":"Service","name":"Mobile App Development","url":"{{ url('/services/mobile-app-development') }}"}},
+                {"@type":"Offer","itemOffered":{"@type":"Service","name":"AI Integration","url":"{{ url('/services/ai-integration') }}"}},
+                {"@type":"Offer","itemOffered":{"@type":"Service","name":"UI/UX Development","url":"{{ url('/services/ui-ux-development') }}"}},
+                {"@type":"Offer","itemOffered":{"@type":"Service","name":"MVP Development","url":"{{ url('/services/mvp-development') }}"}}
+            ]
+        }
     }
     </script>
 

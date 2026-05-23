@@ -51,6 +51,9 @@ Route::prefix('contact')->name('contact.')->group(function () {
     Route::post('/', [ContactController::class, 'store'])->name('store')->middleware('throttle:3,1');
 });
 
+// Email open tracking pixel
+Route::get('/track/open/{token}', [ContactController::class, 'trackEmailOpen'])->name('track.email-open');
+
 // Newsletter
 Route::post('/newsletter/subscribe', [ContactController::class, 'newsletterSubscribe'])->name('newsletter.subscribe');
 Route::get('/newsletter/confirm/{token}', [ContactController::class, 'newsletterConfirm'])->name('newsletter.confirm');
