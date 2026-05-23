@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Terms of Service | Plazmasoft')
-@section('meta_description', 'Terms of service for Plazmasoft (Kushwaha Webformat Private Limited).')
+@section('meta_description', 'Terms of service for Plazmasoft.')
 
 @section('content')
 <section class="section gradient-hero">

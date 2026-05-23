@@ -29,7 +29,7 @@
     <p class="note">To unsubscribe at any time, visit:<br><a href="{{ url('/newsletter/unsubscribe/' . $subscriber->token) }}">{{ url('/newsletter/unsubscribe/' . $subscriber->token) }}</a></p>
   </div>
   <div class="footer">
-    {{ setting('legal_name', 'Kushwaha Webformat Private Limited') }} &middot; <a href="{{ url('/') }}">plazmasoft.com</a>
+    Plazmasoft &middot; <a href="{{ url('/') }}">plazmasoft.com</a>
   </div>
 </div>
 </body>

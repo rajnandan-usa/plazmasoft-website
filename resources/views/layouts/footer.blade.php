@@ -162,7 +162,7 @@
     <div class="border-t border-gray-800 py-6">
         <div class="container-site flex flex-col items-center justify-between gap-4 sm:flex-row">
             <p class="text-xs text-gray-500">
-                &copy; {{ date('Y') }} {{ $settings['legal_name'] ?? 'Kushwaha Webformat Private Limited' }}. All rights reserved.
+                &copy; {{ date('Y') }} {{ $settings['legal_name'] ?? 'Plazmasoft' }}. All rights reserved.
             </p>
             <p class="text-xs text-gray-600">
                 Built in India with Laravel + Tailwind
